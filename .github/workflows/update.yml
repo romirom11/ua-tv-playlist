@@ -5,7 +5,7 @@ on:
     - cron: "0 3,15 * * *"
   workflow_dispatch:
   push:
-    paths: [channels.json, sources.txt, extra_streams.json, generate.py]
+    paths: [channels.json, sources.txt, extra_streams.json, ignore.txt, generate.py]
 
 permissions:
   contents: write
