@@ -5,7 +5,9 @@
 + auto-merge + проксі-failover). Тут лише форматування:
 - кожен потік каналу — окремий запис з однаковим tvg-id (m3u-editor обʼєднує їх в один канал
   з резервними потоками), назвою, категорією, логотипом і номером;
-- tvg-name унікальний і стабільний для кожного URL, щоб m3u-editor не склеював записи.
+- tvg-name унікальний і стабільний для кожного URL, щоб m3u-editor не склеював записи;
+- українські канали (tvg-id *.ua) з джерел, яких немає в channels.json, автоматично
+  потрапляють у категорію «Нові» (крім перелічених в ignore.txt).
 """
 import hashlib
 import json
@@ -19,6 +21,7 @@ TR = str.maketrans({'а': 'a', 'б': 'b', 'в': 'v', 'г': 'h', 'ґ': 'g', 'д':
                     'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u', 'ф': 'f', 'х': 'kh', 'ц': 'ts',
                     'ч': 'ch', 'ш': 'sh', 'щ': 'sch', 'ь': '', 'ю': 'yu', 'я': 'ya', 'ы': 'y', 'э': 'e',
                     'ё': 'e', 'ъ': ''})
+NEW_GROUP = 'Нові'
 NOISE = (r'\b(hd|fhd|uhd|sd|4k|tv|tb|тв|тб|telekanal|телеканал|ukraina|ukraine|україна|украина|ua|live|'
          r'online|orig|backup|резерв)\b')
 
@@ -51,6 +54,11 @@ def parse(text):
     return out
 
 
+def clean_title(s):
+    s = re.sub(r'\s*\((\d+[pi])\)|\s*\[[^\]]*\]', '', s)
+    return re.sub(r'\s+', ' ', s).strip()
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers={'User-Agent': DEFAULT_UA})
     with urllib.request.urlopen(req, timeout=60) as r:
@@ -61,6 +69,7 @@ def main():
     channels = json.load(open('channels.json'))
     sources = [l.strip() for l in open('sources.txt') if l.strip() and not l.startswith('#')]
     extra = json.load(open('extra_streams.json'))  # ручні потоки: {"tvg_id": ["url", ...]}
+    ignore = {l.strip().lower() for l in open('ignore.txt') if l.strip() and not l.startswith('#')}
 
     entries = []
     for s in sources:
@@ -83,7 +92,16 @@ def main():
         streams[tvg_id] += [{'url': u} for u in urls]
     for e in entries:  # порядок джерел = пріоритет потоків
         tvg_id = by_tvg.get(e['tvg_id'].split('@')[0].lower()) or by_name.get(norm(e['name']))
-        if tvg_id and e['url'] not in (s['url'] for s in streams[tvg_id]):
+        if not tvg_id:
+            # новий український канал, якого ще немає в channels.json
+            base = e['tvg_id'].split('@')[0]
+            if not base.lower().endswith('.ua') or base.lower() in ignore or norm(e['name']) in ignore:
+                continue
+            tvg_id = by_tvg[base.lower()] = base
+            if tvg_id not in streams:
+                streams[tvg_id] = []
+                channels.append({'tvg_id': tvg_id, 'name_ua': clean_title(e['name']), 'group': NEW_GROUP})
+        if e['url'] not in (s['url'] for s in streams[tvg_id]):
             streams[tvg_id].append(e)
 
     lines = ['#EXTM3U']
@@ -105,6 +123,8 @@ def main():
 
     open('playlist.m3u', 'w').write('\n'.join(lines) + '\n')
     with_streams = sum(1 for v in streams.values() if v)
+    new = [c['name_ua'] for c in channels if c['group'] == NEW_GROUP]
+    print(f'new: {new}')
     print(f'channels: {len(channels)}, with streams: {with_streams}, streams: {sum(map(len, streams.values()))}')
 
 

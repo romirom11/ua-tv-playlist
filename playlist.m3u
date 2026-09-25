@@ -867,3 +867,5 @@ https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 https://33news.org/33chanel/live/chunklist_w459617257.m3u8
 #EXTINF:-1 tvg-id="mtm-zaporizhzhia" tvg-name="mtm-zaporizhzhia-0a415bca" tvg-chno="220" group-title="Регіональні",МТМ (Запоріжжя)
 https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-name="ICTVSerialy.ua-d3793a03" tvg-chno="221" group-title="Нові",ICTV Serialy
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
