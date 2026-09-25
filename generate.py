@@ -1,20 +1,17 @@
 #!/usr/bin/env python3
 """Збирає playlist.m3u з публічних джерел за конфігом channels.json.
 
-Для кожного каналу: знаходить усі потоки в джерелах (за tvg-id та назвами),
-перевіряє їх ffprobe, сортує (живі за роздільністю, потім решта) і пише
-SLOTS записів. Записи мають однакову назву й різний tvg-name, тож m3u-editor
-тримає їх як окремі стабільні канали: слот 1 — основний, 2..N — резервні.
+Нічого не перевіряє на живість — це робить m3u-editor зі своєї мережі (Channel Scrubber
++ auto-merge + проксі-failover). Тут лише форматування:
+- кожен потік каналу — окремий запис з однаковим tvg-id (m3u-editor обʼєднує їх в один канал
+  з резервними потоками), назвою, категорією, логотипом і номером;
+- tvg-name унікальний і стабільний для кожного URL, щоб m3u-editor не склеював записи.
 """
-import concurrent.futures as cf
+import hashlib
 import json
 import re
-import subprocess
-import threading
-import urllib.parse
 import urllib.request
 
-SLOTS = 3
 DEFAULT_UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
               '(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36')
 TR = str.maketrans({'а': 'a', 'б': 'b', 'в': 'v', 'г': 'h', 'ґ': 'g', 'д': 'd', 'е': 'e', 'є': 'e', 'ж': 'zh',
@@ -34,7 +31,7 @@ def norm(s):
     return re.sub(r'[^a-z0-9]', '', s)
 
 
-def parse(text, src):
+def parse(text):
     out, cur = [], None
     for line in text.splitlines():
         line = line.strip()
@@ -42,7 +39,7 @@ def parse(text, src):
             attrs = dict(re.findall(r'([\w-]+)="([^"]*)"', line))
             name = line.rsplit(',', 1)[-1].strip() if ',' in line else re.sub(r'^#EXTINF:-?\d+\s*', '', line)
             cur = {'name': name, 'tvg_id': attrs.get('tvg-id', ''), 'ua': attrs.get('http-user-agent'),
-                   'ref': attrs.get('http-referrer'), 'src': src}
+                   'ref': attrs.get('http-referrer')}
         elif line.startswith('#EXTVLCOPT:http-user-agent=') and cur:
             cur['ua'] = line.split('=', 1)[1]
         elif line.startswith('#EXTVLCOPT:http-referrer=') and cur:
@@ -60,92 +57,46 @@ def fetch(url):
         return r.read().decode('utf-8', errors='ignore')
 
 
-HOST_LIMIT = {}
-HOST_LOCK = threading.Lock()
-
-
-def _host_sem(url):
-    host = urllib.parse.urlsplit(url).hostname or ''
-    with HOST_LOCK:
-        return HOST_LIMIT.setdefault(host, threading.Semaphore(3))
-
-
-def probe(e):
-    """Висота відео або None. Не більше 3 одночасних запитів на хост, 2 спроби."""
-    with _host_sem(e['url']):
-        for _ in range(2):
-            url, h = _probe_once(e)
-            if h is not None:
-                break
-    return url, h
-
-
-def _probe_once(e):
-    cmd = ['ffprobe', '-v', 'error', '-rw_timeout', '15000000', '-user_agent', e.get('ua') or DEFAULT_UA]
-    if e.get('ref'):
-        cmd += ['-referer', e['ref']]
-    cmd += ['-select_streams', 'v:0', '-show_entries', 'stream=height', '-of', 'csv=p=0', e['url']]
-    try:
-        out = subprocess.run(cmd, capture_output=True, text=True, timeout=40).stdout.split()
-        return e['url'], int(out[0]) if out and out[0].isdigit() else None
-    except Exception:
-        return e['url'], None
-
-
 def main():
     channels = json.load(open('channels.json'))
     sources = [l.strip() for l in open('sources.txt') if l.strip() and not l.startswith('#')]
-    extra = json.load(open('extra_streams.json'))  # ручні потоки: {"Назва каналу": ["url", ...]}
+    extra = json.load(open('extra_streams.json'))  # ручні потоки: {"tvg_id": ["url", ...]}
 
     entries = []
     for s in sources:
         try:
-            entries += parse(fetch(s), s)
+            entries += parse(fetch(s))
         except Exception as ex:
-            print('WARN source failed:', s, ex)
+            # не публікуємо неповний список — інакше m3u-editor видалить канали цього джерела
+            raise SystemExit(f'source failed: {s}: {ex}')
 
     by_tvg, by_name = {}, {}
     for ch in channels:
         for t in ch['match_tvg_ids']:
-            by_tvg.setdefault(t.lower(), ch['name'])
+            by_tvg.setdefault(t.lower(), ch['tvg_id'])
         for a in ch['aliases']:
             if norm(a):
-                by_name.setdefault(norm(a), ch['name'])
+                by_name.setdefault(norm(a), ch['tvg_id'])
 
-    cands = {ch['name']: [] for ch in channels}
-    for e in entries:
-        name = by_tvg.get(e['tvg_id'].split('@')[0].lower()) or by_name.get(norm(e['name']))
-        if name and e['url'] not in (c['url'] for c in cands[name]):
-            cands[name].append(e)
-    for name, urls in extra.items():
-        for u in urls:
-            if name in cands and u not in (c['url'] for c in cands[name]):
-                cands[name].insert(0, {'url': u, 'name': name, 'src': 'extra'})
-
-    with cf.ThreadPoolExecutor(32) as ex:
-        live = dict(ex.map(probe, [e for v in cands.values() for e in v]))
+    streams = {ch['tvg_id']: [] for ch in channels}
+    for tvg_id, urls in extra.items():
+        streams[tvg_id] += [{'url': u} for u in urls]
+    for e in entries:  # порядок джерел = пріоритет потоків
+        tvg_id = by_tvg.get(e['tvg_id'].split('@')[0].lower()) or by_name.get(norm(e['name']))
+        if tvg_id and e['url'] not in (s['url'] for s in streams[tvg_id]):
+            streams[tvg_id].append(e)
 
     lines = ['#EXTM3U']
-    report = {}
     for num, ch in enumerate(channels, 1):
-        streams = cands[ch['name']]
-        # живі — за роздільністю, далі неперевірені/мертві в порядку джерел
-        streams = sorted(streams, key=lambda e: (live.get(e['url']) is None, -(live.get(e['url']) or 0)))
-        alive = sum(live.get(e['url']) is not None for e in streams)
-        report[ch['name']] = {'alive': alive, 'total': len(streams)}
-        if not streams:
-            continue
-        # завжди SLOTS записів, щоб канали в m3u-editor не зникали/не зʼявлялись
-        slots = (streams * SLOTS)[:SLOTS]
-        for i, e in enumerate(slots, 1):
-            tvg_name = ch['name'] if i == 1 else f"{ch['name']} #{i}"
-            attrs = f'tvg-id="{ch["tvg_id"]}" tvg-name="{tvg_name}" tvg-chno="{num}"'
+        for e in streams[ch['tvg_id']]:
+            key = hashlib.md5(e['url'].encode()).hexdigest()[:8]
+            attrs = f'tvg-id="{ch["tvg_id"]}" tvg-name="{ch["tvg_id"]}-{key}" tvg-chno="{num}"'
             if ch.get('logo'):
                 attrs += f' tvg-logo="{ch["logo"]}"'
             attrs += f' group-title="{ch["group"]}"'
             if e.get('ua'):
                 attrs += f' http-user-agent="{e["ua"]}"'
-            lines.append(f'#EXTINF:-1 {attrs},{ch["name"]}')
+            lines.append(f'#EXTINF:-1 {attrs},{ch["name_ua"]}')
             if e.get('ua'):
                 lines.append(f'#EXTVLCOPT:http-user-agent={e["ua"]}')
             if e.get('ref'):
@@ -153,10 +104,8 @@ def main():
             lines.append(e['url'])
 
     open('playlist.m3u', 'w').write('\n'.join(lines) + '\n')
-    json.dump(report, open('status.json', 'w'), ensure_ascii=False, indent=1, sort_keys=True)
-    ok = sum(1 for r in report.values() if r['alive'])
-    print(f'channels: {len(channels)}, with live stream: {ok}, streams probed: {len(live)}, '
-          f'alive: {sum(v is not None for v in live.values())}')
+    with_streams = sum(1 for v in streams.values() if v)
+    print(f'channels: {len(channels)}, with streams: {with_streams}, streams: {sum(map(len, streams.values()))}')
 
 
 if __name__ == '__main__':

@@ -5,7 +5,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "1plus1-ukraina",
   "logo": "https://iptvx.one/picons/1plus1-ukraina.png",
-  "epg_db_id": 24186,
   "match_tvg_ids": [
    "1Plus1Ukraina.ua"
   ],
@@ -15,10 +14,6 @@
    "1+1 Ukraina (576p)",
    "1+1 Україна",
    "1+1 Україна HD"
-  ],
-  "old_ids": [
-   147,
-   16779
   ]
  },
  {
@@ -27,7 +22,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "2plus2",
   "logo": "https://iptvx.one/picons/2plus2.png",
-  "epg_db_id": 24195,
   "match_tvg_ids": [
    "2Plus2.ua"
   ],
@@ -37,10 +31,6 @@
    "2+2 (576p)",
    "2+2 HD",
    "2+2 [UA]"
-  ],
-  "old_ids": [
-   649,
-   16780
   ]
  },
  {
@@ -49,16 +39,12 @@
   "group": "Загальнонаціональні",
   "tvg_id": "ictv-ua",
   "logo": "https://iptvx.one/picons/ictv.png",
-  "epg_db_id": 25562,
   "match_tvg_ids": [
    "ICTV.ua"
   ],
   "aliases": [
    "ICTV",
    "ICTV (1080p)"
-  ],
-  "old_ids": [
-   651
   ]
  },
  {
@@ -67,7 +53,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "ictv-ukraine",
   "logo": "https://iptvx.one/picons/ictv-ukraine.png",
-  "epg_db_id": 25563,
   "match_tvg_ids": [
    "ICTV2.ua"
   ],
@@ -75,9 +60,6 @@
    "ICTV Ukraine",
    "ICTV2",
    "ICTV2 (1080p)"
-  ],
-  "old_ids": [
-   92
   ]
  },
  {
@@ -86,7 +68,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "stb-ua",
   "logo": "https://iptvx.one/picons/stb-ua.png",
-  "epg_db_id": 27412,
   "match_tvg_ids": [
    "STB.ua"
   ],
@@ -95,9 +76,6 @@
    "STB (1080p)",
    "СТБ",
    "СТБ HD"
-  ],
-  "old_ids": [
-   2131
   ]
  },
  {
@@ -106,7 +84,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "inter-ua",
   "logo": "https://iptvx.one/picons/inter-ua.png",
-  "epg_db_id": 25588,
   "match_tvg_ids": [
    "Inter.ua"
   ],
@@ -116,9 +93,6 @@
    "Iнтер",
    "Інтер",
    "Интер"
-  ],
-  "old_ids": [
-   650
   ]
  },
  {
@@ -127,7 +101,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "novy-kanal-ua",
   "logo": "https://iptvx.one/picons/novy-kanal-ua.png",
-  "epg_db_id": 26383,
   "match_tvg_ids": [
    "NovyiChannel.ua"
   ],
@@ -137,9 +110,6 @@
    "Новий канал",
    "Новий канал HD",
    "Новый канал"
-  ],
-  "old_ids": [
-   603
   ]
  },
  {
@@ -148,7 +118,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "tet-ua",
   "logo": "https://iptvx.one/picons/tet.png",
-  "epg_db_id": 27622,
   "match_tvg_ids": [
    "TET.ua"
   ],
@@ -158,10 +127,6 @@
    "TET (1080p) [Not 24/7]",
    "ТЕТ",
    "ТЕТ HD"
-  ],
-  "old_ids": [
-   644,
-   572
   ]
  },
  {
@@ -170,7 +135,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "ntn-ua",
   "logo": "https://iptvx.one/picons/ntn-ua.png",
-  "epg_db_id": 26414,
   "match_tvg_ids": [
    "NTN.ua"
   ],
@@ -180,10 +144,6 @@
    "NTN (1080p)",
    "НТН",
    "НТН HD"
-  ],
-  "old_ids": [
-   559,
-   10613
   ]
  },
  {
@@ -192,7 +152,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "mega-ua",
   "logo": "https://iptvx.one/picons/mega-ua.png",
-  "epg_db_id": 26019,
   "match_tvg_ids": [
    "Mega.ua"
   ],
@@ -201,11 +160,6 @@
    "Mega (1080p)",
    "Mega (720p)",
    "Мега"
-  ],
-  "old_ids": [
-   10616,
-   642,
-   16547
   ]
  },
  {
@@ -214,7 +168,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "k1-ua",
   "logo": "https://iptvx.one/picons/k1-ua.png",
-  "epg_db_id": 25614,
   "match_tvg_ids": [
    "K1.ua"
   ],
@@ -223,9 +176,6 @@
    "K1 (1080p)",
    "К1",
    "К1 HD"
-  ],
-  "old_ids": [
-   640
   ]
  },
  {
@@ -234,7 +184,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "k2-ua",
   "logo": "https://iptvx.one/picons/k2-ua.png",
-  "epg_db_id": 25616,
   "match_tvg_ids": [
    "K2.ua"
   ],
@@ -244,10 +193,6 @@
    "K2 (720p)",
    "К2",
    "К2 HD"
-  ],
-  "old_ids": [
-   10615,
-   641
   ]
  },
  {
@@ -256,7 +201,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "dom",
   "logo": "https://iptvx.one/picons/dom.png",
-  "epg_db_id": 25159,
   "match_tvg_ids": [
    "DIM.ua"
   ],
@@ -267,10 +211,6 @@
    "Дiм",
    "Дом",
    "Дім"
-  ],
-  "old_ids": [
-   10614,
-   2057
   ]
  },
  {
@@ -279,7 +219,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "inter-plus-ua",
   "logo": "https://iptvx.one/picons/inter-plus-ua.png",
-  "epg_db_id": 25587,
   "match_tvg_ids": [
    "InterPlus.ua"
   ],
@@ -289,9 +228,6 @@
    "Iнтер+",
    "Інтер+",
    "Интер+"
-  ],
-  "old_ids": [
-   31
   ]
  },
  {
@@ -300,7 +236,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "pro-vsio",
   "logo": "https://iptvx.one/picons/pro-vsio.png",
-  "epg_db_id": 26810,
   "match_tvg_ids": [
    "Channel8.ua"
   ],
@@ -311,9 +246,6 @@
    "8 канал Украина HD",
    "Channel 8",
    "Pro Всё"
-  ],
-  "old_ids": [
-   2670
   ]
  },
  {
@@ -322,7 +254,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "1plus1-int",
   "logo": "https://iptvx.one/picons/1plus1-int.png",
-  "epg_db_id": 24185,
   "match_tvg_ids": [
    "1Plus1International.ua"
   ],
@@ -333,10 +264,6 @@
    "1+1 International HD (720p)",
    "1+1 Международный",
    "1+1 Международный HD"
-  ],
-  "old_ids": [
-   1,
-   90
   ]
  },
  {
@@ -345,7 +272,6 @@
   "group": "Загальнонаціональні",
   "tvg_id": "kyiv-ua",
   "logo": "https://iptvx.one/picons/kyiv-ua.png",
-  "epg_db_id": 25837,
   "match_tvg_ids": [
    "Kyiv.ua"
   ],
@@ -356,9 +282,6 @@
    "Київ",
    "ТРК Киев",
    "ТРК Київ"
-  ],
-  "old_ids": [
-   552
   ]
  },
  {
@@ -367,7 +290,6 @@
   "group": "Новини",
   "tvg_id": "ua-pershy",
   "logo": "https://iptvx.one/picons/ua-pershy.png",
-  "epg_db_id": 27954,
   "match_tvg_ids": [
    "Pershyi.ua"
   ],
@@ -384,9 +306,6 @@
    "Суспільне",
    "Суспільне Перший",
    "Суспільне ТБ"
-  ],
-  "old_ids": [
-   49
   ]
  },
  {
@@ -395,7 +314,6 @@
   "group": "Новини",
   "tvg_id": "rada-ua",
   "logo": "https://iptvx.one/picons/rada-ua.png",
-  "epg_db_id": 26848,
   "match_tvg_ids": [
    "RadaTV.ua"
   ],
@@ -404,9 +322,6 @@
    "Rada TV (1080p)",
    "Рада",
    "Рада HD"
-  ],
-  "old_ids": [
-   51
   ]
  },
  {
@@ -415,7 +330,6 @@
   "group": "Новини",
   "tvg_id": "24news-ua",
   "logo": "https://iptvx.one/picons/24news-ua.png",
-  "epg_db_id": 24188,
   "match_tvg_ids": [
    "24Kanal.ua",
    "Channel24.ua"
@@ -432,10 +346,6 @@
    "24 новости",
    "24 новости HD",
    "Телеканал новостей 24"
-  ],
-  "old_ids": [
-   124,
-   517
   ]
  },
  {
@@ -444,7 +354,6 @@
   "group": "Новини",
   "tvg_id": "5kanal-ua",
   "logo": "https://iptvx.one/picons/5kanal-ua.png",
-  "epg_db_id": 24231,
   "match_tvg_ids": [
    "Channel5.ua"
   ],
@@ -458,48 +367,25 @@
    "5 канал HD",
    "5 канал [UA]",
    "Channel 5 (1080p)"
-  ],
-  "old_ids": [
-   14,
-   2534
   ]
  },
  {
   "name": "Yedyni Novyny (2+2 Marafon)",
-  "name_ua": "Єдині новини (2+2 Марафон)",
+  "name_ua": "Єдині новини (Марафон)",
   "group": "Новини",
-  "tvg_id": "yedyni-novyny-2-2-marafon",
-  "logo": null,
-  "epg_db_id": 12,
+  "tvg_id": "1plus1",
+  "logo": "https://iptvx.one/picons/1plus1.png",
   "match_tvg_ids": [
+   "1Plus1Marafon.ua",
    "2Plus2Marathon.ua"
-  ],
-  "aliases": [
-   "2+2 Marathon (1080p)",
-   "Yedyni Novyny (2+2 Marafon)",
-   "Єдині новини (2+2 Марафон)"
-  ],
-  "old_ids": [
-   3
-  ]
- },
- {
-  "name": "1+1 Marafon",
-  "name_ua": "1+1 Марафон",
-  "group": "Новини",
-  "tvg_id": "1-1-marafon",
-  "logo": null,
-  "epg_db_id": 12,
-  "match_tvg_ids": [
-   "1Plus1Marafon.ua"
   ],
   "aliases": [
    "1+1 Marafon",
    "1+1 Marafon (1080p)",
-   "1+1 Марафон"
-  ],
-  "old_ids": [
-   2
+   "1+1 Марафон",
+   "2+2 Marathon (1080p)",
+   "Yedyni Novyny (2+2 Marafon)",
+   "Єдині новини (2+2 Марафон)"
   ]
  },
  {
@@ -508,7 +394,6 @@
   "group": "Новини",
   "tvg_id": "ua-tv",
   "logo": "https://iptvx.one/picons/ua-tv.png",
-  "epg_db_id": 27960,
   "match_tvg_ids": [
    "FREEDOM.ua"
   ],
@@ -523,10 +408,6 @@
    "UA: TV",
    "UA:TV",
    "UATV"
-  ],
-  "old_ids": [
-   157,
-   539
   ]
  },
  {
@@ -535,7 +416,6 @@
   "group": "Новини",
   "tvg_id": "espreso-tv",
   "logo": "https://iptvx.one/picons/espreso-tv.png",
-  "epg_db_id": 25291,
   "match_tvg_ids": [
    "EspresoTV.ua"
   ],
@@ -546,10 +426,6 @@
    "Еспресо HD",
    "Еспресо TV",
    "Еспресо TV HD"
-  ],
-  "old_ids": [
-   22,
-   23
   ]
  },
  {
@@ -558,7 +434,6 @@
   "group": "Новини",
   "tvg_id": "apostrof",
   "logo": "https://iptvx.one/picons/apostrof.png",
-  "epg_db_id": 24305,
   "match_tvg_ids": [
    "ApostropheTV.ua"
   ],
@@ -568,9 +443,6 @@
    "Апостроф",
    "Апостроф TV",
    "Апостроф ТВ"
-  ],
-  "old_ids": [
-   8
   ]
  },
  {
@@ -579,7 +451,6 @@
   "group": "Новини",
   "tvg_id": "armia-tv-ua",
   "logo": "https://iptvx.one/picons/armia-tv-ua.png",
-  "epg_db_id": 24353,
   "match_tvg_ids": [
    "ArmyTV.ua"
   ],
@@ -588,10 +459,6 @@
    "Army TV (1080p)",
    "Army TV (576p)",
    "Армія ТБ"
-  ],
-  "old_ids": [
-   9,
-   10
   ]
  },
  {
@@ -600,7 +467,6 @@
   "group": "Новини",
   "tvg_id": "oboz-tv",
   "logo": "https://iptvx.one/picons/oboz-tv.png",
-  "epg_db_id": 26497,
   "match_tvg_ids": [
    "ObozrevatelTV.ua"
   ],
@@ -609,9 +475,6 @@
    "OBOZ TV HD",
    "Obozrevatel TV",
    "Obozrevatel TV HD"
-  ],
-  "old_ids": [
-   2675
   ]
  },
  {
@@ -620,7 +483,6 @@
   "group": "Новини",
   "tvg_id": "my-ukraina",
   "logo": "https://iptvx.one/picons/my-ukraina.png",
-  "epg_db_id": 26256,
   "match_tvg_ids": [
    "MyUkrainaTV.ua"
   ],
@@ -628,9 +490,6 @@
    "My - Ukraina",
    "My-Ukraina TV (1080p)",
    "Ми - Україна"
-  ],
-  "old_ids": [
-   94
   ]
  },
  {
@@ -639,7 +498,6 @@
   "group": "Новини",
   "tvg_id": "my-ukraina-plus",
   "logo": "https://iptvx.one/picons/my-ukraina-plus.png",
-  "epg_db_id": 26257,
   "match_tvg_ids": [
    "MyUkrainaPlus.ua"
   ],
@@ -647,9 +505,6 @@
    "My - Ukraina Plus",
    "My Ukraina+",
    "Ми - Україна+"
-  ],
-  "old_ids": [
-   100
   ]
  },
  {
@@ -658,16 +513,12 @@
   "group": "Новини",
   "tvg_id": "100-news",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "100NEWS.ua"
   ],
   "aliases": [
    "100% News",
    "100% News (576p)"
-  ],
-  "old_ids": [
-   7
   ]
  },
  {
@@ -676,15 +527,11 @@
   "group": "Новини",
   "tvg_id": "novyny-live",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "NovynyLive.ua"
   ],
   "aliases": [
    "Novyny.Live"
-  ],
-  "old_ids": [
-   17253
   ]
  },
  {
@@ -693,15 +540,13 @@
   "group": "Новини",
   "tvg_id": "priamyj",
   "logo": "https://iptvx.one/picons/priamyj.png",
-  "epg_db_id": 26792,
   "match_tvg_ids": [],
   "aliases": [
    "Priamyi",
    "ПРЯМИЙ HD",
    "Прямий",
    "Прямий HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Sport",
@@ -709,7 +554,6 @@
   "group": "Спорт",
   "tvg_id": "suspilne-sport-ua",
   "logo": "https://iptvx.one/picons/suspilne-sport-ua.png",
-  "epg_db_id": 27457,
   "match_tvg_ids": [
    "SuspilneSport.ua"
   ],
@@ -718,9 +562,6 @@
    "Suspilne. Sport (1080p)",
    "Суспільне Kiev Спорт HD",
    "Суспільне Спорт"
-  ],
-  "old_ids": [
-   105
   ]
  },
  {
@@ -729,7 +570,6 @@
   "group": "Спорт",
   "tvg_id": "setanta-plus-ua",
   "logo": "https://iptvx.one/picons/setanta-plus-ua.png",
-  "epg_db_id": 27023,
   "match_tvg_ids": [
    "SetantaSportsPlusUkraine.ua"
   ],
@@ -742,9 +582,6 @@
    "Setanta+ Украина",
    "Сетанта Спорт+ Украина",
    "Сетанта+ Украина"
-  ],
-  "old_ids": [
-   609
   ]
  },
  {
@@ -753,7 +590,6 @@
   "group": "Спорт",
   "tvg_id": "sport1-ua",
   "logo": "https://iptvx.one/picons/sport1ua.png",
-  "epg_db_id": 27325,
   "match_tvg_ids": [
    "Sport1.ua"
   ],
@@ -763,9 +599,6 @@
    "Sport 1 UA",
    "Спорт 1",
    "Спорт 1 Украина"
-  ],
-  "old_ids": [
-   116
   ]
  },
  {
@@ -774,7 +607,6 @@
   "group": "Спорт",
   "tvg_id": "sport2-ua",
   "logo": "https://iptvx.one/picons/sport2ua.png",
-  "epg_db_id": 27328,
   "match_tvg_ids": [
    "Sport2.ua"
   ],
@@ -784,9 +616,6 @@
    "Sport 2 UA",
    "Спорт 2",
    "Спорт 2 Украина"
-  ],
-  "old_ids": [
-   117
   ]
  },
  {
@@ -795,7 +624,6 @@
   "group": "Спорт",
   "tvg_id": "sport3-ua",
   "logo": "https://iptvx.one/picons/sport3-ua.png",
-  "epg_db_id": 27330,
   "match_tvg_ids": [
    "Sport3.ua"
   ],
@@ -805,9 +633,6 @@
    "Спорт 1 HD Украина",
    "Спорт 3",
    "Спорт 3 Украина"
-  ],
-  "old_ids": [
-   118
   ]
  },
  {
@@ -816,7 +641,6 @@
   "group": "Спорт",
   "tvg_id": "sport4-ua",
   "logo": "https://iptvx.one/picons/sport4-ua.png",
-  "epg_db_id": 27331,
   "match_tvg_ids": [
    "Sport4.ua"
   ],
@@ -825,9 +649,6 @@
    "Sport 4 (576p)",
    "Спорт 4",
    "Спорт 4 Украина"
-  ],
-  "old_ids": [
-   119
   ]
  },
  {
@@ -836,7 +657,6 @@
   "group": "Спорт",
   "tvg_id": "sport5",
   "logo": "https://iptvx.one/picons/sport5.png",
-  "epg_db_id": 27332,
   "match_tvg_ids": [
    "Sport5.ua"
   ],
@@ -844,9 +664,6 @@
    "Sport 5",
    "Sport 5 (1080p)",
    "Спорт 5"
-  ],
-  "old_ids": [
-   134
   ]
  },
  {
@@ -855,16 +672,12 @@
   "group": "Спорт",
   "tvg_id": "sport1-baltic",
   "logo": "https://iptvx.one/picons/sport1-baltic.png",
-  "epg_db_id": 27320,
   "match_tvg_ids": [
    "Sport1Baltic.ua"
   ],
   "aliases": [
    "Sport 1 Baltic",
    "Sport 1 Baltic (1080p)"
-  ],
-  "old_ids": [
-   98
   ]
  },
  {
@@ -873,16 +686,12 @@
   "group": "Спорт",
   "tvg_id": "divisport",
   "logo": "https://iptvx.one/picons/divisport.png",
-  "epg_db_id": 25153,
   "match_tvg_ids": [
    "DiviSport.ua"
   ],
   "aliases": [
    "DiviSport",
    "DiviSport (1080p)"
-  ],
-  "old_ids": [
-   154
   ]
  },
  {
@@ -891,16 +700,12 @@
   "group": "Спорт",
   "tvg_id": "maincast-sport",
   "logo": "https://iptvx.one/picons/maincast-sport.png",
-  "epg_db_id": 25986,
   "match_tvg_ids": [
    "MaincastSport.ua"
   ],
   "aliases": [
    "Maincast Sport",
    "Maincast Sport (1080p)"
-  ],
-  "old_ids": [
-   155
   ]
  },
  {
@@ -909,7 +714,6 @@
   "group": "Спорт",
   "tvg_id": "maincast",
   "logo": "https://iptvx.one/picons/maincast.png",
-  "epg_db_id": 25985,
   "match_tvg_ids": [
    "MaincastCybersport.ua"
   ],
@@ -917,9 +721,6 @@
    "Maincast",
    "Maincast Cybersport",
    "Maincast Cybersport (1080p)"
-  ],
-  "old_ids": [
-   156
   ]
  },
  {
@@ -928,7 +729,6 @@
   "group": "Спорт",
   "tvg_id": "dynamo-kyiv-tv",
   "logo": "https://iptvx.one/picons/dynamo-kyiv-tv.png",
-  "epg_db_id": 25195,
   "match_tvg_ids": [
    "DynamoKyivTV.ua"
   ],
@@ -936,9 +736,6 @@
    "Dynamo Kyiv TV",
    "Dynamo Kyiv TV (1080p)",
    "Динамо Київ ТБ"
-  ],
-  "old_ids": [
-   104
   ]
  },
  {
@@ -947,7 +744,6 @@
   "group": "Спорт",
   "tvg_id": "upltv",
   "logo": "https://iptvx.one/picons/upltv.png",
-  "epg_db_id": 27982,
   "match_tvg_ids": [
    "UPLTV.ua"
   ],
@@ -956,9 +752,6 @@
    "UPL.TV",
    "УПЛ ТБ",
    "УПЛ ТВ"
-  ],
-  "old_ids": [
-   13120
   ]
  },
  {
@@ -967,7 +760,6 @@
   "group": "Спорт",
   "tvg_id": "equalympic",
   "logo": "https://iptvx.one/picons/equalympic.png",
-  "epg_db_id": 25230,
   "match_tvg_ids": [
    "Equalympic.ua"
   ],
@@ -975,9 +767,6 @@
    "Equalympic",
    "Equalympic (1080p)",
    "Equalympic HD"
-  ],
-  "old_ids": [
-   120
   ]
  },
  {
@@ -986,14 +775,12 @@
   "group": "Спорт",
   "tvg_id": "xsport",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "X SPORT",
    "XSPORT HD",
    "XSport"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "XSport Plus",
@@ -1001,14 +788,12 @@
   "group": "Спорт",
   "tvg_id": "xsport-plus",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "XSPORT+",
    "XSport Plus",
    "XSport+"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Setanta Sports 1",
@@ -1016,7 +801,6 @@
   "group": "Спорт",
   "tvg_id": "setanta-sports",
   "logo": "https://iptvx.one/picons/setanta-sports.png",
-  "epg_db_id": 27025,
   "match_tvg_ids": [],
   "aliases": [
    "SETANTA SPORT 1 HD",
@@ -1026,8 +810,7 @@
    "Setanta Sports HD",
    "Сетанта Спорт",
    "Сетанта Спорт HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Setanta Sports 2",
@@ -1035,13 +818,11 @@
   "group": "Спорт",
   "tvg_id": "setanta-sports-2",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "SETANTA SPORT 2 HD",
    "Setanta Sports 2"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Kino 1",
@@ -1049,7 +830,6 @@
   "group": "Кіно",
   "tvg_id": "kino-1",
   "logo": "https://iptvx.one/picons/kino-1.png",
-  "epg_db_id": 25740,
   "match_tvg_ids": [
    "Kino1.ua"
   ],
@@ -1057,9 +837,6 @@
    "Kino 1",
    "Kino 1 (1080p)",
    "Kino 1 HD"
-  ],
-  "old_ids": [
-   113
   ]
  },
  {
@@ -1068,7 +845,6 @@
   "group": "Кіно",
   "tvg_id": "kino-1-hd",
   "logo": "https://iptvx.one/picons/kino-1-hd.png",
-  "epg_db_id": 25741,
   "match_tvg_ids": [
    "Kino2.ua"
   ],
@@ -1076,9 +852,6 @@
    "Kino 2",
    "Kino 2 (1080p)",
    "Kino 2 HD"
-  ],
-  "old_ids": [
-   135
   ]
  },
  {
@@ -1087,7 +860,6 @@
   "group": "Кіно",
   "tvg_id": "kinoliving",
   "logo": "https://iptvx.one/picons/kinoliving.png",
-  "epg_db_id": 25769,
   "match_tvg_ids": [
    "Kinoliving.ua"
   ],
@@ -1096,9 +868,6 @@
    "KinoLiving HD",
    "Kinoliving",
    "Kinoliving (1080p)"
-  ],
-  "old_ids": [
-   103
   ]
  },
  {
@@ -1107,7 +876,6 @@
   "group": "Кіно",
   "tvg_id": "kinowood",
   "logo": "https://iptvx.one/picons/kinowood.png",
-  "epg_db_id": 25793,
   "match_tvg_ids": [
    "Kinowood.ua"
   ],
@@ -1115,9 +883,6 @@
    "Kinowood",
    "Kinowood (1080p)",
    "Kinowood HD"
-  ],
-  "old_ids": [
-   114
   ]
  },
  {
@@ -1126,7 +891,6 @@
   "group": "Кіно",
   "tvg_id": "nashe-lubimoe-kino-ua",
   "logo": "https://iptvx.one/picons/nashe-lubimoe-kino-ua.png",
-  "epg_db_id": 26281,
   "match_tvg_ids": [
    "NasheLubimoeKinoUkraine.ua"
   ],
@@ -1136,9 +900,6 @@
    "Наше Улюблене Кіно",
    "Наше любимое кино Украина",
    "Наше улюблене кіно"
-  ],
-  "old_ids": [
-   136
   ]
  },
  {
@@ -1147,7 +908,6 @@
   "group": "Кіно",
   "tvg_id": "bolt",
   "logo": "https://iptvx.one/picons/bolt.png",
-  "epg_db_id": 24754,
   "match_tvg_ids": [
    "Bolt.ua"
   ],
@@ -1157,9 +917,6 @@
    "Bolt HD",
    "Bolt HD Украина",
    "Bolt Украина"
-  ],
-  "old_ids": [
-   637
   ]
  },
  {
@@ -1168,7 +925,6 @@
   "group": "Кіно",
   "tvg_id": "sony-turbo",
   "logo": "https://iptvx.one/picons/sony-turbo.png",
-  "epg_db_id": 27294,
   "match_tvg_ids": [
    "Black.ua"
   ],
@@ -1177,9 +933,6 @@
    ".black HD",
    "Black (1080p)",
    "Sony Turbo"
-  ],
-  "old_ids": [
-   9436
   ]
  },
  {
@@ -1188,7 +941,6 @@
   "group": "Кіно",
   "tvg_id": "enter-film",
   "logo": "https://iptvx.one/picons/enter-film.png",
-  "epg_db_id": 25224,
   "match_tvg_ids": [
    "EnterFilm.ua"
   ],
@@ -1198,9 +950,6 @@
    "Enter-фiльм",
    "Enter-фильм",
    "Enter-фільм"
-  ],
-  "old_ids": [
-   639
   ]
  },
  {
@@ -1209,7 +958,6 @@
   "group": "Кіно",
   "tvg_id": "filmua-drama",
   "logo": "https://iptvx.one/picons/filmua-drama.png",
-  "epg_db_id": 25367,
   "match_tvg_ids": [
    "FilmUADrama.ua"
   ],
@@ -1219,10 +967,6 @@
    "FilmUA Drama",
    "FilmUADrama",
    "FilmUADrama (1080p)"
-  ],
-  "old_ids": [
-   25,
-   26
   ]
  },
  {
@@ -1231,15 +975,11 @@
   "group": "Кіно",
   "tvg_id": "filmua-live",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "FilmUALive.ua"
   ],
   "aliases": [
    "FilmUA Live"
-  ],
-  "old_ids": [
-   24
   ]
  },
  {
@@ -1248,7 +988,6 @@
   "group": "Кіно",
   "tvg_id": "4ever-cinema",
   "logo": "https://iptvx.one/picons/4ever-cinema.png",
-  "epg_db_id": 24213,
   "match_tvg_ids": [
    "4everCinema.ua"
   ],
@@ -1256,9 +995,6 @@
    "4ever Cinema",
    "4ever Cinema (1080p)",
    "4ever Cinema HD"
-  ],
-  "old_ids": [
-   9429
   ]
  },
  {
@@ -1267,7 +1003,6 @@
   "group": "Кіно",
   "tvg_id": "4ever-theater",
   "logo": "https://iptvx.one/picons/4ever-theater.png",
-  "epg_db_id": 24216,
   "match_tvg_ids": [
    "4everTheater.ua"
   ],
@@ -1275,9 +1010,6 @@
    "4ever Theater",
    "4ever Theater (1080p)",
    "4ever Theater HD"
-  ],
-  "old_ids": [
-   9430
   ]
  },
  {
@@ -1286,7 +1018,6 @@
   "group": "Кіно",
   "tvg_id": "4ever-drama",
   "logo": "https://iptvx.one/picons/4ever-drama.png",
-  "epg_db_id": 24214,
   "match_tvg_ids": [
    "4everDrama.ua"
   ],
@@ -1294,9 +1025,6 @@
    "4ever Drama",
    "4ever Drama (1080p)",
    "4ever Drama HD"
-  ],
-  "old_ids": [
-   9431
   ]
  },
  {
@@ -1305,7 +1033,6 @@
   "group": "Кіно",
   "tvg_id": "tv1000-cee",
   "logo": "https://iptvx.one/picons/tv1000-cee.png",
-  "epg_db_id": 27762,
   "match_tvg_ids": [
    "ViasatKino.ua"
   ],
@@ -1319,12 +1046,6 @@
    "Viasat Kino Bulgaria (1080p)",
    "Viasat Kino HD",
    "Viasat Kino Romania"
-  ],
-  "old_ids": [
-   9081,
-   12055,
-   6769,
-   13121
   ]
  },
  {
@@ -1333,7 +1054,6 @@
   "group": "Кіно",
   "tvg_id": "tv1000-action-cee",
   "logo": "https://iptvx.one/picons/tv1000-action-cee.png",
-  "epg_db_id": 27761,
   "match_tvg_ids": [
    "ViasatKinoAction.ua"
   ],
@@ -1345,10 +1065,6 @@
    "Viasat Kino Action",
    "Viasat Kino Action (576p)",
    "Viasat Kino Action HD"
-  ],
-  "old_ids": [
-   9082,
-   12056
   ]
  },
  {
@@ -1357,7 +1073,6 @@
   "group": "Кіно",
   "tvg_id": "vip-comedy-cee",
   "logo": "https://iptvx.one/picons/vip-comedy-cee.png",
-  "epg_db_id": 28245,
   "match_tvg_ids": [
    "ViasatKinoComedy.ua"
   ],
@@ -1366,9 +1081,6 @@
    "ViP Comedy CEE HD",
    "Viasat Kino Comedy",
    "Viasat Kino Comedy HD"
-  ],
-  "old_ids": [
-   9083
   ]
  },
  {
@@ -1377,7 +1089,6 @@
   "group": "Кіно",
   "tvg_id": "tv1000-worldkino",
   "logo": "https://iptvx.one/picons/tv1000-worldkino.png",
-  "epg_db_id": 27766,
   "match_tvg_ids": [
    "ViasatKinoWorld.ua"
   ],
@@ -1389,9 +1100,6 @@
    "TV1000 Русское кино Международный",
    "Viasat Kino World",
    "Viasat Kino World HD"
-  ],
-  "old_ids": [
-   9084
   ]
  },
  {
@@ -1400,7 +1108,6 @@
   "group": "Кіно",
   "tvg_id": "cine-plus",
   "logo": "https://iptvx.one/picons/cine-plus.png",
-  "epg_db_id": 24940,
   "match_tvg_ids": [
    "CinePlus.ua"
   ],
@@ -1408,9 +1115,6 @@
    "Cine Plus",
    "Cine+",
    "Cine+ HD"
-  ],
-  "old_ids": [
-   9440
   ]
  },
  {
@@ -1419,7 +1123,6 @@
   "group": "Кіно",
   "tvg_id": "cine-plus-hit-hd",
   "logo": "https://iptvx.one/picons/cine-plus-hit-hd.png",
-  "epg_db_id": 24941,
   "match_tvg_ids": [
    "CinePlusHit.ua"
   ],
@@ -1427,9 +1130,6 @@
    "Cine Plus Hit",
    "Cine+ Hit",
    "Cine+ Hit HD"
-  ],
-  "old_ids": [
-   9442
   ]
  },
  {
@@ -1438,7 +1138,6 @@
   "group": "Кіно",
   "tvg_id": "cine-plus-ledend",
   "logo": "https://iptvx.one/picons/cine-plus-ledend.png",
-  "epg_db_id": 24943,
   "match_tvg_ids": [
    "CinePlusLegend.ua"
   ],
@@ -1447,9 +1146,6 @@
    "Cine+ Legend",
    "Cine+ Legend HD",
    "Сine+ legend"
-  ],
-  "old_ids": [
-   9441
   ]
  },
  {
@@ -1458,16 +1154,12 @@
   "group": "Кіно",
   "tvg_id": "hollywood",
   "logo": "https://iptvx.one/picons/hollywood.png",
-  "epg_db_id": 25536,
   "match_tvg_ids": [
    "HollywoodUkraine.ua"
   ],
   "aliases": [
    "Hollywood",
    "Hollywood Ukraine (576p)"
-  ],
-  "old_ids": [
-   12051
   ]
  },
  {
@@ -1476,16 +1168,12 @@
   "group": "Кіно",
   "tvg_id": "prokino",
   "logo": "https://iptvx.one/picons/prokino.png",
-  "epg_db_id": 26817,
   "match_tvg_ids": [
    "Prokino.ua"
   ],
   "aliases": [
    "ProKino",
    "Prokino (360p)"
-  ],
-  "old_ids": [
-   12053
   ]
  },
  {
@@ -1494,16 +1182,12 @@
   "group": "Кіно",
   "tvg_id": "continent-e",
   "logo": "https://iptvx.one/picons/continent-e.png",
-  "epg_db_id": 25073,
   "match_tvg_ids": [
    "ContinentE.ua"
   ],
   "aliases": [
    "Continent E",
    "Continent E (1080p)"
-  ],
-  "old_ids": [
-   109
   ]
  },
  {
@@ -1512,16 +1196,12 @@
   "group": "Кіно",
   "tvg_id": "luxtv",
   "logo": "https://iptvx.one/picons/luxtv.png",
-  "epg_db_id": 25947,
   "match_tvg_ids": [
    "LuxTV.ua"
   ],
   "aliases": [
    "Lux TV",
    "Lux TV (1080p)"
-  ],
-  "old_ids": [
-   9080
   ]
  },
  {
@@ -1530,7 +1210,6 @@
   "group": "Кіно",
   "tvg_id": "vip-megahit",
   "logo": "https://iptvx.one/picons/vip-megahit.png",
-  "epg_db_id": 28246,
   "match_tvg_ids": [],
   "aliases": [
    "TV1000 Megahit",
@@ -1541,8 +1220,7 @@
    "Viasat Kino Megahit HD",
    "viju+ Megahit",
    "viju+ Megahit HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "viju Plus Comedy",
@@ -1550,7 +1228,6 @@
   "group": "Кіно",
   "tvg_id": "vip-comedy",
   "logo": "https://iptvx.one/picons/vip-comedy.png",
-  "epg_db_id": 28244,
   "match_tvg_ids": [],
   "aliases": [
    "TV1000 Comedy",
@@ -1560,8 +1237,7 @@
    "viju Plus Comedy",
    "viju+ Comedy",
    "viju+ Comedy HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "viju Plus Premiere",
@@ -1569,7 +1245,6 @@
   "group": "Кіно",
   "tvg_id": "vip-premiere",
   "logo": "https://iptvx.one/picons/vip-premiere.png",
-  "epg_db_id": 28248,
   "match_tvg_ids": [],
   "aliases": [
    "VIP Premiere",
@@ -1579,8 +1254,7 @@
    "viju Plus Premiere",
    "viju+ Premiere",
    "viju+ Premiere HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Kino ta Serialy",
@@ -1588,7 +1262,6 @@
   "group": "Кіно",
   "tvg_id": "kino-ta-serialy-ua",
   "logo": "https://iptvx.one/picons/kino-ta-serialy-ua.png",
-  "epg_db_id": 25749,
   "match_tvg_ids": [],
   "aliases": [
    "Kino ta Serialy",
@@ -1596,8 +1269,7 @@
    "КІНО ТА СЕРІАЛИ HD",
    "Кіно та Серіали",
    "Кіно та Серіали HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Tvii serial",
@@ -1605,7 +1277,6 @@
   "group": "Серіали",
   "tvg_id": "tvij-serial",
   "logo": "https://iptvx.one/picons/tvij-serial.png",
-  "epg_db_id": 27813,
   "match_tvg_ids": [
    "Tviyserial.ua"
   ],
@@ -1614,9 +1285,6 @@
    "Tviy serial (1080p)",
    "Твiй серiал",
    "Твій серіал"
-  ],
-  "old_ids": [
-   115
   ]
  },
  {
@@ -1625,7 +1293,6 @@
   "group": "Серіали",
   "tvg_id": "unian-serial",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "UNIANSerial.ua"
   ],
@@ -1633,9 +1300,6 @@
    "UNIAN Serial",
    "UNIAN Serial (1080p)",
    "УНІАН Серіал"
-  ],
-  "old_ids": [
-   149
   ]
  },
  {
@@ -1644,15 +1308,11 @@
   "group": "Серіали",
   "tvg_id": "viasat-serial",
   "logo": "https://iptvx.one/picons/viasat-serial.png",
-  "epg_db_id": 28235,
   "match_tvg_ids": [
    "ViasatSerial.ua"
   ],
   "aliases": [
    "Viasat Serial"
-  ],
-  "old_ids": [
-   9085
   ]
  },
  {
@@ -1661,7 +1321,6 @@
   "group": "Серіали",
   "tvg_id": "sonce-ua",
   "logo": "https://iptvx.one/picons/sonce-ua.png",
-  "epg_db_id": 27282,
   "match_tvg_ids": [
    "Sonce.ua"
   ],
@@ -1669,9 +1328,6 @@
    "Sonce",
    "Sontse",
    "Сонце"
-  ],
-  "old_ids": [
-   2673
   ]
  },
  {
@@ -1680,7 +1336,6 @@
   "group": "Серіали",
   "tvg_id": "sonce-plus-ua",
   "logo": "https://iptvx.one/picons/sonce-plus-ua.png",
-  "epg_db_id": 27281,
   "match_tvg_ids": [
    "SoncePlus.ua"
   ],
@@ -1688,9 +1343,6 @@
    "Sonce+",
    "Sontse Plus",
    "Сонце+"
-  ],
-  "old_ids": [
-   9447
   ]
  },
  {
@@ -1699,7 +1351,6 @@
   "group": "Серіали",
   "tvg_id": "islandiya",
   "logo": "https://iptvx.one/picons/islandiya.png",
-  "epg_db_id": 25591,
   "match_tvg_ids": [
    "Islandia.ua"
   ],
@@ -1708,9 +1359,6 @@
    "Islandiia",
    "Ісландія",
    "Исландия"
-  ],
-  "old_ids": [
-   152
   ]
  },
  {
@@ -1719,15 +1367,11 @@
   "group": "Серіали",
   "tvg_id": "lale",
   "logo": "https://iptvx.one/picons/lale.png",
-  "epg_db_id": 25842,
   "match_tvg_ids": [
    "Lale.ua"
   ],
   "aliases": [
    "Lale"
-  ],
-  "old_ids": [
-   2674
   ]
  },
  {
@@ -1736,16 +1380,12 @@
   "group": "Серіали",
   "tvg_id": "raz1",
   "logo": "https://iptvx.one/picons/raz1.png",
-  "epg_db_id": 26871,
   "match_tvg_ids": [
    "RAZ1.ua"
   ],
   "aliases": [
    "RAZ 1",
    "RAZ 1 (1080p)"
-  ],
-  "old_ids": [
-   145
   ]
  },
  {
@@ -1754,16 +1394,12 @@
   "group": "Серіали",
   "tvg_id": "raz2",
   "logo": "https://iptvx.one/picons/raz2.png",
-  "epg_db_id": 26872,
   "match_tvg_ids": [
    "RAZ2.ua"
   ],
   "aliases": [
    "RAZ 2",
    "RAZ 2 (1080p)"
-  ],
-  "old_ids": [
-   146
   ]
  },
  {
@@ -1772,8 +1408,8 @@
   "group": "Серіали",
   "tvg_id": "kvartal-tv",
   "logo": "https://iptvx.one/picons/kvartal-tv.png",
-  "epg_db_id": 25832,
   "match_tvg_ids": [
+   "KvartalTV.ua",
    "RAZ3.ua",
    "RAZ3International.ua"
   ],
@@ -1786,11 +1422,6 @@
    "RAZ 3 International",
    "Квартал",
    "Квартал ТВ"
-  ],
-  "old_ids": [
-   9825,
-   16790,
-   9707
   ]
  },
  {
@@ -1799,7 +1430,6 @@
   "group": "Серіали",
   "tvg_id": "super-plus",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "SuperPlus.ua"
   ],
@@ -1807,9 +1437,6 @@
    "Super Plus",
    "Super+",
    "Super+ (360p)"
-  ],
-  "old_ids": [
-   12054
   ]
  },
  {
@@ -1818,14 +1445,12 @@
   "group": "Серіали",
   "tvg_id": "simejny-melodramy-plus-ua",
   "logo": "https://iptvx.one/picons/simejny-melodramy-plus-ua.png",
-  "epg_db_id": 27062,
   "match_tvg_ids": [],
   "aliases": [
    "Simeini melodramy Plus",
    "Сімейні мелодрами+",
    "Сімейні мелодрами+ HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Oper za vyklykom Plus",
@@ -1833,15 +1458,13 @@
   "group": "Серіали",
   "tvg_id": "oper-za-vyklykom-plus-ua",
   "logo": "https://iptvx.one/picons/oper-za-vyklykom-plus-ua.png",
-  "epg_db_id": 26616,
   "match_tvg_ids": [],
   "aliases": [
    "Oper za vyklykom Plus",
    "ОПЕР за викликом+ HD",
    "Опер за викликом+",
    "Опер за викликом+ HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Panianka-selianka Plus",
@@ -1849,15 +1472,13 @@
   "group": "Серіали",
   "tvg_id": "panyanka-selyanka-plus-ua",
   "logo": "https://iptvx.one/picons/panyanka-selyanka-plus-ua.png",
-  "epg_db_id": 26652,
   "match_tvg_ids": [],
   "aliases": [
    "Panianka-selianka Plus",
    "Панянка селянка",
    "Панянка-селянка+",
    "Панянка-селянка+ HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Odruzheni naoslip Plus",
@@ -1865,14 +1486,12 @@
   "group": "Серіали",
   "tvg_id": "odruzheni-naoslip-plus",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "Odruzheni naoslip Plus",
    "Одружені НАОСЛІП+",
    "Одружені наосліп+"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Stosuietsia kozhnoho",
@@ -1880,14 +1499,12 @@
   "group": "Серіали",
   "tvg_id": "stosuietsia-kozhnoho",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "Stosuietsia kozhnoho",
    "Стосується кожного",
    "Стосується кожного HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Nevyhadani istorii",
@@ -1895,13 +1512,11 @@
   "group": "Серіали",
   "tvg_id": "nevyhadani-istorii",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "Nevyhadani istorii",
    "Невигадані історії"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Viasat Epic Drama",
@@ -1909,15 +1524,13 @@
   "group": "Серіали",
   "tvg_id": "epik-drama",
   "logo": "https://iptvx.one/picons/epik-drama.png",
-  "epg_db_id": 25227,
   "match_tvg_ids": [],
   "aliases": [
    "Epic Drama",
    "Epic Drama HD",
    "Viasat Epic Drama",
    "Viasat Epic Drama Ukraine"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Viasat True Crime",
@@ -1925,14 +1538,12 @@
   "group": "Серіали",
   "tvg_id": "viasat-true-crime-cee",
   "logo": "https://iptvx.one/picons/viasat-true-crime-cee.png",
-  "epg_db_id": 28238,
   "match_tvg_ids": [],
   "aliases": [
    "Viasat True Crime",
    "Viasat True Crime CEE",
    "Viasat True Crime Ukraine"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Zoom",
@@ -1940,7 +1551,6 @@
   "group": "Розважальні",
   "tvg_id": "zoom-ua",
   "logo": "https://iptvx.one/picons/zoom-ua.png",
-  "epg_db_id": 28450,
   "match_tvg_ids": [
    "Zoom.ua"
   ],
@@ -1948,9 +1558,6 @@
    "Zoom",
    "Zoom (1080p)",
    "Zoom Украина"
-  ],
-  "old_ids": [
-   645
   ]
  },
  {
@@ -1959,7 +1566,6 @@
   "group": "Розважальні",
   "tvg_id": "otse",
   "logo": "https://iptvx.one/picons/otse.png",
-  "epg_db_id": 26637,
   "match_tvg_ids": [
    "OTSE.ua"
   ],
@@ -1968,9 +1574,6 @@
    "OTSE (1080p)",
    "Оце",
    "Оце HD"
-  ],
-  "old_ids": [
-   633
   ]
  },
  {
@@ -1979,7 +1582,6 @@
   "group": "Розважальні",
   "tvg_id": "bigudi",
   "logo": "https://iptvx.one/picons/bigudi.png",
-  "epg_db_id": 24738,
   "match_tvg_ids": [
    "Bigudi.ua"
   ],
@@ -1989,9 +1591,6 @@
    "Бiгудi",
    "Бигуди",
    "Бігуді"
-  ],
-  "old_ids": [
-   662
   ]
  },
  {
@@ -2000,7 +1599,6 @@
   "group": "Розважальні",
   "tvg_id": "quiz-tv",
   "logo": "https://iptvx.one/picons/quiz-tv.png",
-  "epg_db_id": 26843,
   "match_tvg_ids": [
    "QuizTV.ua"
   ],
@@ -2009,9 +1607,6 @@
    "Quiz",
    "Quiz TV",
    "Quiz TV (1080p)"
-  ],
-  "old_ids": [
-   140
   ]
  },
  {
@@ -2020,7 +1615,6 @@
   "group": "Розважальні",
   "tvg_id": "inrating",
   "logo": "https://iptvx.one/picons/inrating.png",
-  "epg_db_id": 25579,
   "match_tvg_ids": [
    "InRatingTV.ua"
   ],
@@ -2028,9 +1622,6 @@
    "InRating",
    "InRating TV",
    "InRating TV (1080p)"
-  ],
-  "old_ids": [
-   99
   ]
  },
  {
@@ -2039,16 +1630,12 @@
   "group": "Розважальні",
   "tvg_id": "salt-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "SaltTV.ua"
   ],
   "aliases": [
    "Salt TV",
    "Salt TV (1080p)"
-  ],
-  "old_ids": [
-   141
   ]
  },
  {
@@ -2057,15 +1644,11 @@
   "group": "Розважальні",
   "tvg_id": "36-6-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "366TV.ua"
   ],
   "aliases": [
    "36.6 TV"
-  ],
-  "old_ids": [
-   518
   ]
  },
  {
@@ -2074,34 +1657,12 @@
   "group": "Розважальні",
   "tvg_id": "konkurent",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "KonkurentUkraine.ua"
   ],
   "aliases": [
    "Konkurent",
    "Konkurent Ukraine"
-  ],
-  "old_ids": [
-   9448
-  ]
- },
- {
-  "name": "Kvartal TV",
-  "name_ua": "Квартал ТВ",
-  "group": "Розважальні",
-  "tvg_id": "kvartal-tv",
-  "logo": null,
-  "epg_db_id": null,
-  "match_tvg_ids": [
-   "KvartalTV.ua"
-  ],
-  "aliases": [
-   "Kvartal TV",
-   "Квартал ТВ"
-  ],
-  "old_ids": [
-   38
   ]
  },
  {
@@ -2110,7 +1671,6 @@
   "group": "Пізнавальні",
   "tvg_id": "kultura-ua",
   "logo": "https://iptvx.one/picons/kultura-ua.png",
-  "epg_db_id": 25825,
   "match_tvg_ids": [
    "SuspilneKultura.ua"
   ],
@@ -2120,9 +1680,6 @@
    "UA: Культура",
    "UA:Культура",
    "Суспільне Культура"
-  ],
-  "old_ids": [
-   123
   ]
  },
  {
@@ -2131,7 +1688,6 @@
   "group": "Пізнавальні",
   "tvg_id": "viasat-history",
   "logo": "https://iptvx.one/picons/viasat-history.png",
-  "epg_db_id": 28228,
   "match_tvg_ids": [
    "ViasatHistory.ua"
   ],
@@ -2141,10 +1697,6 @@
    "Viasat History HD",
    "viju History",
    "viju History HD"
-  ],
-  "old_ids": [
-   9446,
-   16778
   ]
  },
  {
@@ -2153,7 +1705,6 @@
   "group": "Пізнавальні",
   "tvg_id": "viasat-explore",
   "logo": "https://iptvx.one/picons/viasat-explore.png",
-  "epg_db_id": 28225,
   "match_tvg_ids": [
    "ViasatExplore.ua"
   ],
@@ -2163,10 +1714,6 @@
    "Viasat Explore HD",
    "viju Explore",
    "viju Explore HD"
-  ],
-  "old_ids": [
-   9445,
-   12057
   ]
  },
  {
@@ -2175,7 +1722,6 @@
   "group": "Пізнавальні",
   "tvg_id": "viasat-nature",
   "logo": "https://iptvx.one/picons/viasat-nature.png",
-  "epg_db_id": 28232,
   "match_tvg_ids": [
    "ViasatNature.ua"
   ],
@@ -2184,9 +1730,6 @@
    "Viasat Nature HD",
    "viju Nature",
    "viju Nature HD"
-  ],
-  "old_ids": [
-   9444
   ]
  },
  {
@@ -2195,7 +1738,6 @@
   "group": "Пізнавальні",
   "tvg_id": "nat-geo-wild-pl",
   "logo": "https://iptvx.one/picons/nat-geo-wild-pl.png",
-  "epg_db_id": 26294,
   "match_tvg_ids": [
    "NationalGeographicWild.ua"
   ],
@@ -2207,10 +1749,6 @@
    "National Geographic Wild (720p)",
    "National Geographic Wild HD [PL]",
    "National Geographic Wild [PL]"
-  ],
-  "old_ids": [
-   46,
-   12052
   ]
  },
  {
@@ -2219,16 +1757,12 @@
   "group": "Пізнавальні",
   "tvg_id": "history",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "HistoryUkraine.ua"
   ],
   "aliases": [
    "History",
    "History Ukraine"
-  ],
-  "old_ids": [
-   11432
   ]
  },
  {
@@ -2237,16 +1771,12 @@
   "group": "Пізнавальні",
   "tvg_id": "history-2",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "History2Ukraine.ua"
   ],
   "aliases": [
    "History 2",
    "History2 Ukraine (360p)"
-  ],
-  "old_ids": [
-   11433
   ]
  },
  {
@@ -2255,7 +1785,6 @@
   "group": "Пізнавальні",
   "tvg_id": "nauka",
   "logo": "https://iptvx.one/picons/nauka.png",
-  "epg_db_id": 26301,
   "match_tvg_ids": [
    "Nauka.ua"
   ],
@@ -2263,9 +1792,6 @@
    "Nauka",
    "Nauka (576p)",
    "Наука"
-  ],
-  "old_ids": [
-   108
   ]
  },
  {
@@ -2274,7 +1800,6 @@
   "group": "Пізнавальні",
   "tvg_id": "fauna",
   "logo": "https://iptvx.one/picons/fauna.png",
-  "epg_db_id": 25347,
   "match_tvg_ids": [
    "Fauna.ua"
   ],
@@ -2282,9 +1807,6 @@
    "Fauna",
    "Fauna (576p)",
    "Фауна"
-  ],
-  "old_ids": [
-   106
   ]
  },
  {
@@ -2293,7 +1815,6 @@
   "group": "Пізнавальні",
   "tvg_id": "terra",
   "logo": "https://iptvx.one/picons/tera.png",
-  "epg_db_id": 27619,
   "match_tvg_ids": [
    "Terra.ua"
   ],
@@ -2302,9 +1823,6 @@
    "Terra (576p)",
    "Тера",
    "Терра"
-  ],
-  "old_ids": [
-   107
   ]
  },
  {
@@ -2313,7 +1831,6 @@
   "group": "Пізнавальні",
   "tvg_id": "one-planet",
   "logo": "https://iptvx.one/picons/one-planet.png",
-  "epg_db_id": 26606,
   "match_tvg_ids": [
    "OnePlanet.ua"
   ],
@@ -2321,9 +1838,6 @@
    "One Planet",
    "One Planet (1080p)",
    "One Planet HD"
-  ],
-  "old_ids": [
-   151
   ]
  },
  {
@@ -2332,7 +1846,6 @@
   "group": "Пізнавальні",
   "tvg_id": "eko-tv",
   "logo": "https://iptvx.one/picons/eko-tv.png",
-  "epg_db_id": 25209,
   "match_tvg_ids": [
    "EkoTV.ua"
   ],
@@ -2342,9 +1855,6 @@
    "Eko TV (720p)",
    "Еко TV",
    "Эко-ТВ"
-  ],
-  "old_ids": [
-   533
   ]
  },
  {
@@ -2353,7 +1863,6 @@
   "group": "Пізнавальні",
   "tvg_id": "svarozhichi",
   "logo": "https://iptvx.one/picons/svarozhichi.png",
-  "epg_db_id": 27458,
   "match_tvg_ids": [
    "Svarozhychy.ua"
   ],
@@ -2362,9 +1871,6 @@
    "Svarozhychy",
    "Сварожичи",
    "Сварожичі"
-  ],
-  "old_ids": [
-   158
   ]
  },
  {
@@ -2373,7 +1879,6 @@
   "group": "Пізнавальні",
   "tvg_id": "mason-tv",
   "logo": "https://iptvx.one/picons/mason-tv.png",
-  "epg_db_id": 25994,
   "match_tvg_ids": [
    "MasonTV.ua"
   ],
@@ -2381,9 +1886,6 @@
    "Mason TV",
    "Mason TV (1080p)",
    "Масон ТВ"
-  ],
-  "old_ids": [
-   111
   ]
  },
  {
@@ -2392,7 +1894,6 @@
   "group": "Пізнавальні",
   "tvg_id": "svit-plus-ua",
   "logo": "https://iptvx.one/picons/svit-plus-ua.png",
-  "epg_db_id": 27462,
   "match_tvg_ids": [
    "SvitPlus.ua"
   ],
@@ -2400,9 +1901,6 @@
    "Svit Plus",
    "Svit+ (1080p)",
    "Світ+"
-  ],
-  "old_ids": [
-   101
   ]
  },
  {
@@ -2411,14 +1909,12 @@
   "group": "Пізнавальні",
   "tvg_id": "zoosvit",
   "logo": "https://iptvx.one/picons/zoosvit.png",
-  "epg_db_id": 28452,
   "match_tvg_ids": [],
   "aliases": [
    "Zoosvit",
    "ЗООСВІТ HD",
    "Зоосвіт"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Zahublenyi svit Plus",
@@ -2426,14 +1922,12 @@
   "group": "Пізнавальні",
   "tvg_id": "zagubleny-svit-plus-ua",
   "logo": "https://iptvx.one/picons/zagubleny-svit-plus-ua.png",
-  "epg_db_id": 28389,
   "match_tvg_ids": [],
   "aliases": [
    "Zahublenyi svit Plus",
    "Загублений світ+",
    "Загублений світ+ HD"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Svit navyvorit Plus",
@@ -2441,15 +1935,13 @@
   "group": "Пізнавальні",
   "tvg_id": "svit-navyvorit-plus-ua",
   "logo": "https://iptvx.one/picons/svit-navyvorit-plus-ua.png",
-  "epg_db_id": 27461,
   "match_tvg_ids": [],
   "aliases": [
    "Svit navyvorit Plus",
    "Світ на виворіт+",
    "Світ на виворіт+ HD",
    "Світ навиворіт+"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Chemodan TV",
@@ -2457,7 +1949,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "chemodan",
   "logo": "https://iptvx.one/picons/chemodan.png",
-  "epg_db_id": 24936,
   "match_tvg_ids": [
    "ChemodanTV.ua"
   ],
@@ -2466,9 +1957,6 @@
    "Chemodan TV (1080p)",
    "Чемодан",
    "Чемодан TV"
-  ],
-  "old_ids": [
-   654
   ]
  },
  {
@@ -2477,7 +1965,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "utravel",
   "logo": "https://iptvx.one/picons/utravel.png",
-  "epg_db_id": 27989,
   "match_tvg_ids": [
    "UTravel.ua"
   ],
@@ -2486,9 +1973,6 @@
    "U Travel (1080p)",
    "U-Travel",
    "UTravel"
-  ],
-  "old_ids": [
-   16788
   ]
  },
  {
@@ -2497,7 +1981,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "1auto",
   "logo": "https://iptvx.one/picons/1auto.png",
-  "epg_db_id": 24181,
   "match_tvg_ids": [
    "Pershyiavtomobilnyi.ua"
   ],
@@ -2508,9 +1991,6 @@
    "Pershyi avtomobilnyi (1080p)",
    "Первый автомобильный",
    "Перший автомобільний"
-  ],
-  "old_ids": [
-   102
   ]
  },
  {
@@ -2519,7 +1999,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "6sotok",
   "logo": "https://iptvx.one/picons/6sotok.png",
-  "epg_db_id": 24237,
   "match_tvg_ids": [
    "6sotok.ua"
   ],
@@ -2528,9 +2007,6 @@
    "6 sotok (1080p)",
    "6 соток",
    "6 соток HD"
-  ],
-  "old_ids": [
-   110
   ]
  },
  {
@@ -2539,7 +2015,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "dacha",
   "logo": "https://iptvx.one/picons/dacha.png",
-  "epg_db_id": 25096,
   "match_tvg_ids": [
    "Dacha.ua"
   ],
@@ -2548,9 +2023,6 @@
    "Dacha (1080p)",
    "Дача",
    "Дача HD"
-  ],
-  "old_ids": [
-   18
   ]
  },
  {
@@ -2559,7 +2031,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "trofey",
   "logo": "https://iptvx.one/picons/trofey.png",
-  "epg_db_id": 27718,
   "match_tvg_ids": [
    "Trofei.ua"
   ],
@@ -2568,9 +2039,6 @@
    "Trofei (1080p)",
    "Трофей",
    "Трофей HD"
-  ],
-  "old_ids": [
-   112
   ]
  },
  {
@@ -2579,7 +2047,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "rybalka",
   "logo": "https://iptvx.one/picons/rybalka.png",
-  "epg_db_id": 26977,
   "match_tvg_ids": [
    "Rybalka.ua"
   ],
@@ -2588,9 +2055,6 @@
    "Rybalka (1080p)",
    "Рибалка",
    "Рыбалка"
-  ],
-  "old_ids": [
-   53
   ]
  },
  {
@@ -2599,7 +2063,6 @@
   "group": "Хобі та подорожі",
   "tvg_id": "fashion-tv",
   "logo": "https://iptvx.one/picons/fashion-tv.png",
-  "epg_db_id": 25340,
   "match_tvg_ids": [
    "Fashion.ua",
    "FashionTV.ua"
@@ -2609,10 +2072,6 @@
    "Fashion TV",
    "Fashion TV (1080p)",
    "Fashion TV HD"
-  ],
-  "old_ids": [
-   9438,
-   9836
   ]
  },
  {
@@ -2621,7 +2080,6 @@
   "group": "Дитячі",
   "tvg_id": "pixel",
   "logo": "https://iptvx.one/picons/pixel.png",
-  "epg_db_id": 26715,
   "match_tvg_ids": [
    "PixelTV.ua"
   ],
@@ -2632,10 +2090,6 @@
    "Пiксель",
    "Пиксель",
    "Піксель TV"
-  ],
-  "old_ids": [
-   10617,
-   131
   ]
  },
  {
@@ -2644,7 +2098,6 @@
   "group": "Дитячі",
   "tvg_id": "plusplus",
   "logo": "https://iptvx.one/picons/plusplus.png",
-  "epg_db_id": 26733,
   "match_tvg_ids": [
    "PLUSPLUS.ua"
   ],
@@ -2653,9 +2106,6 @@
    "PLUSPLUS (1080p)",
    "Плюс Плюс",
    "ПлюсПлюс"
-  ],
-  "old_ids": [
-   148
   ]
  },
  {
@@ -2664,16 +2114,12 @@
   "group": "Дитячі",
   "tvg_id": "niki-kids",
   "logo": "https://iptvx.one/picons/niki-kids.png",
-  "epg_db_id": 26347,
   "match_tvg_ids": [
    "NikiKids.ua"
   ],
   "aliases": [
    "Niki Kids",
    "Niki Kids (1080p)"
-  ],
-  "old_ids": [
-   9433
   ]
  },
  {
@@ -2682,17 +2128,12 @@
   "group": "Дитячі",
   "tvg_id": "niki-junior",
   "logo": "https://iptvx.one/picons/niki-junior.png",
-  "epg_db_id": 26346,
   "match_tvg_ids": [
    "NikiJunior.ua"
   ],
   "aliases": [
    "Niki Junior",
    "Niki Junior (1080p)"
-  ],
-  "old_ids": [
-   9432,
-   4144
   ]
  },
  {
@@ -2701,7 +2142,6 @@
   "group": "Дитячі",
   "tvg_id": "cine-plus-kids",
   "logo": "https://iptvx.one/picons/cine-plus-kids.png",
-  "epg_db_id": 24942,
   "match_tvg_ids": [
    "CinePlusKids.ua"
   ],
@@ -2710,10 +2150,6 @@
    "Cine+ Kids",
    "Cine+ Kids (576p)",
    "Cine+ Kids HD"
-  ],
-  "old_ids": [
-   9443,
-   12058
   ]
  },
  {
@@ -2722,7 +2158,6 @@
   "group": "Дитячі",
   "tvg_id": "kus-kus",
   "logo": "https://iptvx.one/picons/kus-kus.png",
-  "epg_db_id": 25828,
   "match_tvg_ids": [
    "KusKus.ua"
   ],
@@ -2730,9 +2165,6 @@
    "Kus-Kus",
    "Кус-Кус",
    "Кус-кус"
-  ],
-  "old_ids": [
-   549
   ]
  },
  {
@@ -2741,12 +2173,10 @@
   "group": "Дитячі",
   "tvg_id": "kinokazka",
   "logo": "https://iptvx.one/picons/kinokazka.png",
-  "epg_db_id": 25765,
   "match_tvg_ids": [],
   "aliases": [
    "KinoKazka"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "M1",
@@ -2754,7 +2184,6 @@
   "group": "Музичні",
   "tvg_id": "m1-ua",
   "logo": "https://iptvx.one/picons/m1-ua.png",
-  "epg_db_id": 25963,
   "match_tvg_ids": [
    "M1.ua"
   ],
@@ -2765,10 +2194,6 @@
    "М1",
    "М1 Украина",
    "М1 Україна"
-  ],
-  "old_ids": [
-   655,
-   553
   ]
  },
  {
@@ -2777,7 +2202,6 @@
   "group": "Музичні",
   "tvg_id": "m2-ua",
   "logo": "https://iptvx.one/picons/m2-ua.png",
-  "epg_db_id": 25965,
   "match_tvg_ids": [
    "M2.ua"
   ],
@@ -2787,9 +2211,6 @@
    "М2",
    "М2 Украина",
    "М2 Україна"
-  ],
-  "old_ids": [
-   656
   ]
  },
  {
@@ -2798,16 +2219,12 @@
   "group": "Музичні",
   "tvg_id": "ua-music",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "UAMusic.ua"
   ],
   "aliases": [
    "UA Music",
    "UA Music (1080p)"
-  ],
-  "old_ids": [
-   9435
   ]
  },
  {
@@ -2816,7 +2233,6 @@
   "group": "Музичні",
   "tvg_id": "muzwar",
   "logo": "https://iptvx.one/picons/muzwar.png",
-  "epg_db_id": 26251,
   "match_tvg_ids": [
    "Muzvar.ua"
   ],
@@ -2824,9 +2240,6 @@
    "Muzvar",
    "Muzvar (1080p)",
    "Музвар"
-  ],
-  "old_ids": [
-   44
   ]
  },
  {
@@ -2835,7 +2248,6 @@
   "group": "Музичні",
   "tvg_id": "nashe-music-hd",
   "logo": "https://iptvx.one/picons/nashe-music-hd.png",
-  "epg_db_id": 26282,
   "match_tvg_ids": [
    "NASHEMusic.ua"
   ],
@@ -2849,9 +2261,6 @@
    "NASHE Music",
    "NASHE Music (720p)",
    "НАШЕ Music"
-  ],
-  "old_ids": [
-   45
   ]
  },
  {
@@ -2860,7 +2269,6 @@
   "group": "Музичні",
   "tvg_id": "4ever-music",
   "logo": "https://iptvx.one/picons/4ever-music.png",
-  "epg_db_id": 24215,
   "match_tvg_ids": [
    "4everMusic.ua"
   ],
@@ -2868,9 +2276,6 @@
    "4ever Music",
    "4ever Music (1080p)",
    "4ever Music HD"
-  ],
-  "old_ids": [
-   9428
   ]
  },
  {
@@ -2879,7 +2284,6 @@
   "group": "Музичні",
   "tvg_id": "eu-music",
   "logo": "https://iptvx.one/picons/eu-music.png",
-  "epg_db_id": 25298,
   "match_tvg_ids": [
    "EUMusic.ua"
   ],
@@ -2888,9 +2292,6 @@
    "EU Music (1080p)",
    "EU.Music",
    "EU.Music HD"
-  ],
-  "old_ids": [
-   9434
   ]
  },
  {
@@ -2899,15 +2300,11 @@
   "group": "Музичні",
   "tvg_id": "megogo-music",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "MegogoMusic.ua"
   ],
   "aliases": [
    "Megogo Music"
-  ],
-  "old_ids": [
-   2669
   ]
  },
  {
@@ -2916,16 +2313,12 @@
   "group": "Музичні",
   "tvg_id": "viva-latino",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "VivaLatino.ua"
   ],
   "aliases": [
    "¡Viva Latino!",
    "¡Viva Latino! (1080p)"
-  ],
-  "old_ids": [
-   9437
   ]
  },
  {
@@ -2934,16 +2327,12 @@
   "group": "Музичні",
   "tvg_id": "happy-radio-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "HappyRadioTV.ua"
   ],
   "aliases": [
    "Happy Radio TV",
    "Happy Radio TV (1080p)"
-  ],
-  "old_ids": [
-   29
   ]
  },
  {
@@ -2952,7 +2341,6 @@
   "group": "Релігійні",
   "tvg_id": "nadia",
   "logo": "https://iptvx.one/picons/nadia.png",
-  "epg_db_id": 26267,
   "match_tvg_ids": [
    "HopeChannelUkraine.ua"
   ],
@@ -2962,10 +2350,6 @@
    "Надия/Новый канал (576p) [Not 24/7]",
    "Надія",
    "Надія/N.K."
-  ],
-  "old_ids": [
-   2672,
-   72
   ]
  },
  {
@@ -2974,7 +2358,6 @@
   "group": "Релігійні",
   "tvg_id": "glas",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "Glas.ua"
   ],
@@ -2982,9 +2365,6 @@
    "Glas",
    "Глас",
    "Глас (576p)"
-  ],
-  "old_ids": [
-   70
   ]
  },
  {
@@ -2993,7 +2373,6 @@
   "group": "Релігійні",
   "tvg_id": "tbn-ukraina",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "TBNUkraine.us"
   ],
@@ -3001,9 +2380,6 @@
    "TBN Ukraina",
    "TBN Україна",
    "TBN Україна (720p)"
-  ],
-  "old_ids": [
-   57
   ]
  },
  {
@@ -3012,7 +2388,6 @@
   "group": "Релігійні",
   "tvg_id": "rai-ua",
   "logo": "https://iptvx.one/picons/rai-ua.png",
-  "epg_db_id": 26868,
   "match_tvg_ids": [
    "TelekanalRAI.ua"
   ],
@@ -3023,10 +2398,6 @@
    "РАІ",
    "РАІ Ивано-Франковск",
    "Рай"
-  ],
-  "old_ids": [
-   122,
-   58
   ]
  },
  {
@@ -3035,15 +2406,13 @@
   "group": "Релігійні",
   "tvg_id": "ewtn-ua",
   "logo": "https://iptvx.one/picons/ewtn-ua.png",
-  "epg_db_id": 25317,
   "match_tvg_ids": [],
   "aliases": [
    "EWTN Ukraina",
    "EWTN Ukraine",
    "EWTN Украина",
    "EWTN Україна"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "ATR",
@@ -3051,7 +2420,6 @@
   "group": "Регіональні",
   "tvg_id": "atr-ua",
   "logo": "https://iptvx.one/picons/atr-ua.png",
-  "epg_db_id": 24377,
   "match_tvg_ids": [
    "ATR.ua"
   ],
@@ -3060,10 +2428,6 @@
    "ATR (1080p)",
    "ATR (720p)",
    "ATR HD"
-  ],
-  "old_ids": [
-   9449,
-   11
   ]
  },
  {
@@ -3072,7 +2436,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-kyiv",
   "logo": "https://iptvx.one/picons/ua-kyiv.png",
-  "epg_db_id": 27950,
   "match_tvg_ids": [
    "SuspilneKyiv.ua"
   ],
@@ -3085,9 +2448,6 @@
    "UA:Київ",
    "Суспільне Київ",
    "Центральный канал"
-  ],
-  "old_ids": [
-   56
   ]
  },
  {
@@ -3096,7 +2456,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-krym",
   "logo": "https://iptvx.one/picons/ua-krym.png",
-  "epg_db_id": 27949,
   "match_tvg_ids": [
    "SuspilneKrym.ua"
   ],
@@ -3110,9 +2469,6 @@
    "UA:Крым",
    "UA:Перший Ukraine",
    "Суспільне Крим"
-  ],
-  "old_ids": [
-   95
   ]
  },
  {
@@ -3121,7 +2477,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-donbas",
   "logo": "https://iptvx.one/picons/ua-donbas.png",
-  "epg_db_id": 27946,
   "match_tvg_ids": [
    "SuspilneDonbas.ua"
   ],
@@ -3133,9 +2488,6 @@
    "UA:Донбас",
    "UA:Донбасс",
    "Суспільне Донбас"
-  ],
-  "old_ids": [
-   13122
   ]
  },
  {
@@ -3144,7 +2496,6 @@
   "group": "Регіональні",
   "tvg_id": "pershy-zaxidny",
   "logo": "https://iptvx.one/picons/pershy-zaxidny.png",
-  "epg_db_id": 26664,
   "match_tvg_ids": [
    "PershyiZahidnyi.ua"
   ],
@@ -3153,9 +2504,6 @@
    "Pershyi Zakhidnyi",
    "Львів-ТБ",
    "Перший Західний"
-  ],
-  "old_ids": [
-   96
   ]
  },
  {
@@ -3164,7 +2512,6 @@
   "group": "Регіональні",
   "tvg_id": "dniprotv",
   "logo": "https://iptvx.one/picons/dniprotv.png",
-  "epg_db_id": 25156,
   "match_tvg_ids": [
    "DniproTV.ua"
   ],
@@ -3174,9 +2521,6 @@
    "Днiпро TV",
    "ДнiпроTV",
    "Дніпро TV"
-  ],
-  "old_ids": [
-   20
   ]
  },
  {
@@ -3185,7 +2529,6 @@
   "group": "Регіональні",
   "tvg_id": "otv-dnipro",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "OTV.ua"
   ],
@@ -3193,9 +2536,6 @@
    "OTV",
    "OTV (Dnipro)",
    "OTV (Дніпро)"
-  ],
-  "old_ids": [
-   153
   ]
  },
  {
@@ -3204,7 +2544,6 @@
   "group": "Регіональні",
   "tvg_id": "11kanal",
   "logo": "https://iptvx.one/picons/11kanal.png",
-  "epg_db_id": 24173,
   "match_tvg_ids": [
    "Channel11.ua"
   ],
@@ -3214,9 +2553,6 @@
    "11 канал (Днепр)",
    "11 канал (Дніпро)",
    "11 канал Днепр"
-  ],
-  "old_ids": [
-   516
   ]
  },
  {
@@ -3225,7 +2561,6 @@
   "group": "Регіональні",
   "tvg_id": "7-kanal-odesa",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "Channel7Ukraine.ua"
   ],
@@ -3233,10 +2568,6 @@
    "7 kanal (Odesa)",
    "7 канал (Одеса)",
    "Channel 7 Ukraine (720p)"
-  ],
-  "old_ids": [
-   16,
-   15
   ]
  },
  {
@@ -3245,7 +2576,6 @@
   "group": "Регіональні",
   "tvg_id": "pervy-gorodskoy-odessa",
   "logo": "https://iptvx.one/picons/pervy-gorodskoy-odessa.png",
-  "epg_db_id": 26670,
   "match_tvg_ids": [
    "PervyygorodskoyOdessa.ua"
   ],
@@ -3255,10 +2585,6 @@
    "Первый городской (Одесса)",
    "Первый городской (Одесса) (1080p) [Not 24/7]",
    "Перший міський (Одеса)"
-  ],
-  "old_ids": [
-   76,
-   77
   ]
  },
  {
@@ -3267,7 +2593,6 @@
   "group": "Регіональні",
   "tvg_id": "reportior",
   "logo": "https://iptvx.one/picons/reportior.png",
-  "epg_db_id": 26893,
   "match_tvg_ids": [
    "Reporter.ua"
   ],
@@ -3277,9 +2602,6 @@
    "Репортер (Одеса)",
    "Репортёр",
    "Телеканал Репортер Одесса (720p)"
-  ],
-  "old_ids": [
-   84
   ]
  },
  {
@@ -3288,7 +2610,6 @@
   "group": "Регіональні",
   "tvg_id": "chornomorska-trk",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "BlackSeaTV.ua"
   ],
@@ -3297,9 +2618,6 @@
    "Chornomorska TRK",
    "ЧОРНОМОРСКЕ HD TV Black Sea",
    "Чорноморська ТРК"
-  ],
-  "old_ids": [
-   2671
   ]
  },
  {
@@ -3308,7 +2626,6 @@
   "group": "Регіональні",
   "tvg_id": "ont",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "ObshchestvennoeNezavisimoeTelevidenie.ua"
   ],
@@ -3316,9 +2633,6 @@
    "ONT",
    "ОНТ",
    "Общественное Независимое Телевидение (576p)"
-  ],
-  "old_ids": [
-   74
   ]
  },
  {
@@ -3327,7 +2641,6 @@
   "group": "Регіональні",
   "tvg_id": "simon-kharkiv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "Simon.ua"
   ],
@@ -3335,9 +2648,6 @@
    "Simon (720p) [Geo-blocked]",
    "Simon (Kharkiv)",
    "Simon (Харків)"
-  ],
-  "old_ids": [
-   54
   ]
  },
  {
@@ -3346,7 +2656,6 @@
   "group": "Регіональні",
   "tvg_id": "z-zaporizhzhia",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "Z.ua"
   ],
@@ -3354,9 +2663,6 @@
    "Z (Zaporizhzhia)",
    "Z (Запорожье) (1080p)",
    "Z (Запоріжжя)"
-  ],
-  "old_ids": [
-   68
   ]
  },
  {
@@ -3365,7 +2671,6 @@
   "group": "Регіональні",
   "tvg_id": "itv-ua",
   "logo": "https://iptvx.one/picons/itv-ua.png",
-  "epg_db_id": 25595,
   "match_tvg_ids": [
    "ITV.ua"
   ],
@@ -3376,10 +2681,6 @@
    "ITV (Украина)",
    "ITV HD",
    "ITV [UA]"
-  ],
-  "old_ids": [
-   35,
-   34
   ]
  },
  {
@@ -3388,7 +2689,6 @@
   "group": "Регіональні",
   "tvg_id": "rivne1",
   "logo": "https://iptvx.one/picons/rivne1.png",
-  "epg_db_id": 26909,
   "match_tvg_ids": [
    "Rivne1.ua"
   ],
@@ -3399,9 +2699,6 @@
    "Ровно-1",
    "Рівне 1",
    "Рівне-1"
-  ],
-  "old_ids": [
-   64
   ]
  },
  {
@@ -3410,7 +2707,6 @@
   "group": "Регіональні",
   "tvg_id": "sfera-tv-rivne",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "SferaTV.ua"
   ],
@@ -3419,10 +2715,6 @@
    "Сфера ТВ",
    "Сфера ТВ (Рівне)",
    "Сфера-ТВ (720p)"
-  ],
-  "old_ids": [
-   81,
-   80
   ]
  },
  {
@@ -3431,7 +2723,6 @@
   "group": "Регіональні",
   "tvg_id": "ptv-ua",
   "logo": "https://iptvx.one/picons/ptv-ua.png",
-  "epg_db_id": 26825,
   "match_tvg_ids": [
    "PTV.ua"
   ],
@@ -3442,9 +2733,6 @@
    "PTV Полтавское TV",
    "ПТБ (Полтава)",
    "Полтавське ТБ"
-  ],
-  "old_ids": [
-   50
   ]
  },
  {
@@ -3453,7 +2741,6 @@
   "group": "Регіональні",
   "tvg_id": "ck1-ua",
   "logo": "https://iptvx.one/picons/ck1-ua.png",
-  "epg_db_id": 24997,
   "match_tvg_ids": [
    "SK1.ua"
   ],
@@ -3463,10 +2750,6 @@
    "СК1",
    "СК1 (Житомир)",
    "СК1 Житомир"
-  ],
-  "old_ids": [
-   55,
-   79
   ]
  },
  {
@@ -3475,7 +2758,6 @@
   "group": "Регіональні",
   "tvg_id": "avers",
   "logo": "https://iptvx.one/picons/avers.png",
-  "epg_db_id": 24387,
   "match_tvg_ids": [
    "Avers.ua"
   ],
@@ -3484,9 +2766,6 @@
    "Avers (Lutsk)",
    "Аверс",
    "Аверс (Луцьк)"
-  ],
-  "old_ids": [
-   12
   ]
  },
  {
@@ -3495,7 +2774,6 @@
   "group": "Регіональні",
   "tvg_id": "tva-ua",
   "logo": "https://iptvx.one/picons/tva-ua.png",
-  "epg_db_id": 27804,
   "match_tvg_ids": [
    "TVA.ua"
   ],
@@ -3507,12 +2785,6 @@
    "ТВА (Чернівці)",
    "ТВА tva*in-ua",
    "ТВА tva*org-ua"
-  ],
-  "old_ids": [
-   66,
-   67,
-   82,
-   83
   ]
  },
  {
@@ -3521,7 +2793,6 @@
   "group": "Регіональні",
   "tvg_id": "chernivetskyi-promin",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "Cherniveckiypromin.ua"
   ],
@@ -3529,9 +2800,6 @@
    "Cherniveckiy promin (720p)",
    "Chernivetskyi Promin",
    "Чернівецький Промінь"
-  ],
-  "old_ids": [
-   17
   ]
  },
  {
@@ -3540,7 +2808,6 @@
   "group": "Регіональні",
   "tvg_id": "ternopil1",
   "logo": "https://iptvx.one/picons/ternopil1.png",
-  "epg_db_id": 27618,
   "match_tvg_ids": [
    "Ternopil1.ua"
   ],
@@ -3549,9 +2816,6 @@
    "Тернополь 1",
    "Тернопіль 1",
    "Тернопіль 1 (720p)"
-  ],
-  "old_ids": [
-   85
   ]
  },
  {
@@ -3560,7 +2824,6 @@
   "group": "Регіональні",
   "tvg_id": "tuso",
   "logo": "https://iptvx.one/picons/tuso.png",
-  "epg_db_id": 27745,
   "match_tvg_ids": [
    "TUSO.ua"
   ],
@@ -3569,9 +2832,6 @@
    "Tuso",
    "Тюсо",
    "Тюсо (720p)"
-  ],
-  "old_ids": [
-   87
   ]
  },
  {
@@ -3580,7 +2840,6 @@
   "group": "Регіональні",
   "tvg_id": "irt-dnipro",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "IRT.ua"
   ],
@@ -3588,9 +2847,6 @@
    "IRT (720p)",
    "IRT (Dnipro)",
    "IRT (Дніпро)"
-  ],
-  "old_ids": [
-   32
   ]
  },
  {
@@ -3599,7 +2855,6 @@
   "group": "Регіональні",
   "tvg_id": "izmail-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "IzmailTV.ua"
   ],
@@ -3607,9 +2862,6 @@
    "Izmail TV",
    "Izmail TV (384p)",
    "Ізмаїл ТВ"
-  ],
-  "old_ids": [
-   36
   ]
  },
  {
@@ -3618,7 +2870,6 @@
   "group": "Регіональні",
   "tvg_id": "renome",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "RenomeTV.ua"
   ],
@@ -3626,9 +2877,6 @@
    "Renome",
    "Renome (576p)",
    "Реноме"
-  ],
-  "old_ids": [
-   52
   ]
  },
  {
@@ -3637,7 +2885,6 @@
   "group": "Регіональні",
   "tvg_id": "ntk-kolomyia",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "NTKTV.ua"
   ],
@@ -3645,9 +2892,6 @@
    "NTK (Kolomyia)",
    "НТК (Коломия)",
    "НТК ТВ (1080p) [Not 24/7]"
-  ],
-  "old_ids": [
-   73
   ]
  },
  {
@@ -3656,7 +2900,6 @@
   "group": "Регіональні",
   "tvg_id": "orbita-pokrovsk",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "OrbitaTV.ua"
   ],
@@ -3665,9 +2908,6 @@
    "Орбiта tva.org.ua",
    "Орбіта (Покровськ)",
    "Орбіта ТВ (360p) [Not 24/7]"
-  ],
-  "old_ids": [
-   75
   ]
  },
  {
@@ -3676,7 +2916,6 @@
   "group": "Регіональні",
   "tvg_id": "televsesvit",
   "logo": "https://iptvx.one/picons/televsesvit.png",
-  "epg_db_id": 27614,
   "match_tvg_ids": [
    "Televsesvit.ua"
   ],
@@ -3685,9 +2924,6 @@
    "Televsesvit (1080p)",
    "Телевсесвіт",
    "Телевсесвіт HD"
-  ],
-  "old_ids": [
-   59
   ]
  },
  {
@@ -3696,7 +2932,6 @@
   "group": "Регіональні",
   "tvg_id": "tv4-ternopil",
   "logo": "https://iptvx.one/picons/tv4-ternopil.png",
-  "epg_db_id": 27791,
   "match_tvg_ids": [
    "TV4.ua"
   ],
@@ -3706,9 +2941,6 @@
    "TV-4 (Ternopil)",
    "TV-4 (Тернополь)",
    "TV-4 (Тернопіль)"
-  ],
-  "old_ids": [
-   65
   ]
  },
  {
@@ -3717,7 +2949,6 @@
   "group": "Регіональні",
   "tvg_id": "balta-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "BaltaTV.ua"
   ],
@@ -3725,9 +2956,6 @@
    "Balta TV",
    "Балта ТВ",
    "Балта ТВ (768p)"
-  ],
-  "old_ids": [
-   69
   ]
  },
  {
@@ -3736,7 +2964,6 @@
   "group": "Регіональні",
   "tvg_id": "donbas-online",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "DonbassOnline.ua"
   ],
@@ -3744,9 +2971,6 @@
    "Donbas Online",
    "Донбас Online",
    "Донбас Online (1080p) [Not 24/7]"
-  ],
-  "old_ids": [
-   71
   ]
  },
  {
@@ -3755,7 +2979,6 @@
   "group": "Регіональні",
   "tvg_id": "misto-plus",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "MistoPlus.ua"
   ],
@@ -3763,9 +2986,6 @@
    "Micto (360p)",
    "Misto Plus",
    "Місто+"
-  ],
-  "old_ids": [
-   43
   ]
  },
  {
@@ -3774,7 +2994,6 @@
   "group": "Регіональні",
   "tvg_id": "bambarbia-tv-odesa",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "BamBarBiaTV.ua"
   ],
@@ -3782,9 +3001,6 @@
    "BamBarBia TV (720p) [Not 24/7]",
    "BamBarBia TV (Odesa)",
    "BamBarBia TV (Одеса)"
-  ],
-  "old_ids": [
-   525
   ]
  },
  {
@@ -3793,7 +3009,6 @@
   "group": "Регіональні",
   "tvg_id": "pravdatut",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "PravdaTUT.ua"
   ],
@@ -3801,9 +3016,6 @@
    "PravdaTUT",
    "ПравдаТУТ",
    "ПравдаТУТ (720p)"
-  ],
-  "old_ids": [
-   78
   ]
  },
  {
@@ -3812,16 +3024,12 @@
   "group": "Регіональні",
   "tvg_id": "trk-ildana",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "TRKIldana.ua"
   ],
   "aliases": [
    "TRK Ildana",
    "TRK Ildana (720p)"
-  ],
-  "old_ids": [
-   62
   ]
  },
  {
@@ -3830,7 +3038,6 @@
   "group": "Регіональні",
   "tvg_id": "xtv-media",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "PershiyXTVMedia.ua"
   ],
@@ -3838,9 +3045,6 @@
    "Pershiy XTV Media (576p)",
    "XTV Media",
    "ПЕРШИЙ XTV MEDIA"
-  ],
-  "old_ids": [
-   48
   ]
  },
  {
@@ -3849,7 +3053,6 @@
   "group": "Регіональні",
   "tvg_id": "trk-aleks",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "TRKAleks.ua"
   ],
@@ -3857,9 +3060,6 @@
    "TRK Aleks",
    "ТРК Алекс",
    "ТРК Алекс (576p)"
-  ],
-  "old_ids": [
-   86
   ]
  },
  {
@@ -3868,7 +3068,6 @@
   "group": "Регіональні",
   "tvg_id": "chp-info",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "ChPinfo.ua"
   ],
@@ -3876,9 +3075,6 @@
    "ChP Info",
    "ЧП Інфо",
    "ЧП Инфо (576p)"
-  ],
-  "old_ids": [
-   89
   ]
  },
  {
@@ -3887,7 +3083,6 @@
   "group": "Регіональні",
   "tvg_id": "kherson-plius",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "HersonPlyus.ua"
   ],
@@ -3895,9 +3090,6 @@
    "Kherson Plius",
    "Херсон Плюс",
    "Херсон Плюс (576p)"
-  ],
-  "old_ids": [
-   88
   ]
  },
  {
@@ -3906,7 +3098,6 @@
   "group": "Регіональні",
   "tvg_id": "git",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "GIT.ua"
   ],
@@ -3916,9 +3107,6 @@
    "ГІТ",
    "ГІТ (Волинь)",
    "ГІТ (Луцьк)"
-  ],
-  "old_ids": [
-   28
   ]
  },
  {
@@ -3927,7 +3115,6 @@
   "group": "Регіональні",
   "tvg_id": "tis-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "TISTV.ua"
   ],
@@ -3936,9 +3123,6 @@
    "TIS TV (720p)",
    "Тіса",
    "Тіса iptv*org*ua"
-  ],
-  "old_ids": [
-   61
   ]
  },
  {
@@ -3947,16 +3131,12 @@
   "group": "Регіональні",
   "tvg_id": "i-ua-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "IUAtv.ua"
   ],
   "aliases": [
    "I-UA.tv",
    "I-UA.tv (1080p)"
-  ],
-  "old_ids": [
-   30
   ]
  },
  {
@@ -3965,15 +3145,11 @@
   "group": "Регіональні",
   "tvg_id": "tv7",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [
    "TV7Plus.ua"
   ],
   "aliases": [
    "TV7+"
-  ],
-  "old_ids": [
-   63
   ]
  },
  {
@@ -3982,15 +3158,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-vynnyca",
   "logo": "https://iptvx.one/picons/ua-vynnyca.png",
-  "epg_db_id": 27962,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Vinnytsia",
    "UA: Вінниця",
    "UA:Вінниця",
    "Суспільне Вінниця"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Dnipro",
@@ -3998,7 +3172,6 @@
   "group": "Регіональні",
   "tvg_id": "51kanal",
   "logo": "https://iptvx.one/picons/ua-dnipro.png",
-  "epg_db_id": 24225,
   "match_tvg_ids": [],
   "aliases": [
    "51 канал Днепр",
@@ -4006,8 +3179,7 @@
    "UA: Дніпро",
    "UA:Дніпро",
    "Суспільне Дніпро"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Zhytomyr",
@@ -4015,15 +3187,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-zhitomir",
   "logo": "https://iptvx.one/picons/ua-zhitomir.png",
-  "epg_db_id": 27967,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Zhytomyr",
    "UA: Житомир",
    "UA:Житомир",
    "Суспільне Житомир"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Kropyvnytskyi",
@@ -4031,7 +3201,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-kropyvnycky",
   "logo": "https://iptvx.one/picons/ua-kropyvnycky.png",
-  "epg_db_id": 27948,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Kropyvnytskyi",
@@ -4040,8 +3209,7 @@
    "Кировоград",
    "Суспільне Kropyvnytskyi",
    "Суспільне Кропивницький"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Lviv",
@@ -4049,15 +3217,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-lviv",
   "logo": "https://iptvx.one/picons/ua-lviv.png",
-  "epg_db_id": 27951,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Lviv",
    "UA: Львів",
    "UA:Львів",
    "Суспільне Львів"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Lutsk",
@@ -4065,7 +3231,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-volyn",
   "logo": "https://iptvx.one/picons/ua-volyn.png",
-  "epg_db_id": 27961,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Lutsk",
@@ -4073,8 +3238,7 @@
    "UA:Волинь",
    "Нова Волинь",
    "Суспільне Луцьк"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Odesa",
@@ -4082,7 +3246,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-odesa",
   "logo": "https://iptvx.one/picons/ua-odesa.png",
-  "epg_db_id": 27953,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Odesa",
@@ -4091,8 +3254,7 @@
    "UA:Одеса",
    "UA:Одесса",
    "Суспільне Одеса"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Poltava",
@@ -4100,15 +3262,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-poltava",
   "logo": "https://iptvx.one/picons/ua-poltava.png",
-  "epg_db_id": 27956,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Poltava",
    "UA: Полтава",
    "UA:Полтава",
    "Суспільне Полтава"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Rivne",
@@ -4116,15 +3276,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-rivne",
   "logo": "https://iptvx.one/picons/ua-rivne.png",
-  "epg_db_id": 27957,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Rivne",
    "UA: Рівне",
    "UA:Рівне",
    "Суспільне Рівне"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Sumy",
@@ -4132,15 +3290,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-sumy",
   "logo": "https://iptvx.one/picons/ua-sumy.png",
-  "epg_db_id": 27958,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Sumy",
    "UA: Суми",
    "UA:Суми",
    "Суспільне Суми"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Ternopil",
@@ -4148,7 +3304,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-ternopil",
   "logo": "https://iptvx.one/picons/ua-ternopil.png",
-  "epg_db_id": 27959,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Ternopil",
@@ -4156,8 +3311,7 @@
    "UA:Тернопіль",
    "Суспільне Тернопiль",
    "Суспільне Тернопіль"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Kharkiv",
@@ -4165,15 +3319,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-xarkiv",
   "logo": "https://iptvx.one/picons/ua-xarkiv.png",
-  "epg_db_id": 27963,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Kharkiv",
    "UA: Харків",
    "UA:Харків",
    "Суспільне Харків"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Kherson",
@@ -4181,15 +3333,13 @@
   "group": "Регіональні",
   "tvg_id": "ua-xerson",
   "logo": "https://iptvx.one/picons/ua-xerson.png",
-  "epg_db_id": 27964,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Kherson",
    "UA: Херсон",
    "UA:Херсон",
    "Суспільне Херсон"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Khmelnytskyi",
@@ -4197,7 +3347,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-podilla",
   "logo": "https://iptvx.one/picons/ua-podilla.png",
-  "epg_db_id": 27955,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Khmelnytskyi",
@@ -4205,8 +3354,7 @@
    "UA:Поділля",
    "Суспільне Khmelnytskyi",
    "Суспільне Хмельницький"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Chernivtsi",
@@ -4214,7 +3362,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-bukovyna",
   "logo": "https://iptvx.one/picons/ua-bukovyna.png",
-  "epg_db_id": 27943,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Chernivtsi",
@@ -4222,8 +3369,7 @@
    "UA:Буковина",
    "Суспільне Чернівці",
    "ТРК Буковина"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Suspilne Chernihiv",
@@ -4231,7 +3377,6 @@
   "group": "Регіональні",
   "tvg_id": "ua-chernihiv",
   "logo": "https://iptvx.one/picons/ua-chernihiv.png",
-  "epg_db_id": 27945,
   "match_tvg_ids": [],
   "aliases": [
    "Suspilne Chernihiv",
@@ -4240,8 +3385,7 @@
    "UA:Чернигов",
    "UA:Чернігів",
    "Суспільне Чернігів"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Kyiv 24",
@@ -4249,14 +3393,12 @@
   "group": "Регіональні",
   "tvg_id": "kyiv-24",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "Kyiv 24",
    "КИЇВ 24",
    "Київ 24"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Brovary TV",
@@ -4264,13 +3406,11 @@
   "group": "Регіональні",
   "tvg_id": "brovary-tv",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "Brovary TV",
    "Бровари ТБ"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "Pershyi miskyi (Kryvyi Rih)",
@@ -4278,14 +3418,12 @@
   "group": "Регіональні",
   "tvg_id": "pershyi-miskyi-kryvyi-rih",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "1 Перший міський Кривий Ріг",
    "Pershyi miskyi (Kryvyi Rih)",
    "Перший міський (Кривий Ріг)"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "33 kanal (Khmelnytskyi)",
@@ -4293,13 +3431,11 @@
   "group": "Регіональні",
   "tvg_id": "33-kanal-khmelnytskyi",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "33 kanal (Khmelnytskyi)",
    "33 канал (Хмельницький)"
-  ],
-  "old_ids": []
+  ]
  },
  {
   "name": "MTM (Zaporizhzhia)",
@@ -4307,13 +3443,11 @@
   "group": "Регіональні",
   "tvg_id": "mtm-zaporizhzhia",
   "logo": null,
-  "epg_db_id": null,
   "match_tvg_ids": [],
   "aliases": [
    "MTM (Zaporizhzhia)",
    "МТМ (Запоріжжя)",
    "МТМ Запоріжжя"
-  ],
-  "old_ids": []
+  ]
  }
 ]
