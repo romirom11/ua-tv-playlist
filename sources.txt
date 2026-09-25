@@ -1,0 +1,7 @@
+# Публічні плейлисти, з яких збираються потоки (по одному URL на рядок)
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ua.m3u
+https://iptv-org.github.io/iptv/countries/ua.m3u
+https://iptv-org.github.io/iptv/languages/ukr.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8
+https://raw.githubusercontent.com/ZakarpattyaIPTV/UA/HEAD/ua.m3u
+https://raw.githubusercontent.com/Adam-ZS/iptv-ru-ua/HEAD/sources/ua.m3u
