@@ -19,6 +19,8 @@ http://str2.iptvhd.ru:8080/2plus2/index.m3u8
 http://94.130.32.80/2plus2HD/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-3bd06f6e" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні",2+2
 https://play.lanet.tv/live/9016.m3u8
+#EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-663e9fcf" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні",2+2
+http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829225/index.m3u8
 #EXTINF:-1 tvg-id="ictv-ua" tvg-name="ictv-ua-73dad224" tvg-chno="3" tvg-logo="https://iptvx.one/picons/ictv.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ICTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/158/index.m3u8
@@ -33,6 +35,8 @@ http://15.204.53.12:80/ictv/index.m3u8
 http://stream.mcquack.net/368/index.m3u8
 #EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ictv-ukraine-2cce7d2a" tvg-chno="4" tvg-logo="https://iptvx.one/picons/ictv-ukraine.png" group-title="Загальнонаціональні",ICTV2
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ictv-ukraine-23ecaa32" tvg-chno="4" tvg-logo="https://iptvx.one/picons/ictv-ukraine.png" group-title="Загальнонаціональні",ICTV2
+http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829223/index.m3u8
 #EXTINF:-1 tvg-id="stb-ua" tvg-name="stb-ua-73db0daf" tvg-chno="5" tvg-logo="https://iptvx.one/picons/stb-ua.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",СТБ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/156/index.m3u8
@@ -60,6 +64,8 @@ http://51.15.176.84/hls/novy-live/index.m3u8
 https://play.lanet.tv/live/9006.m3u8
 #EXTINF:-1 tvg-id="novy-kanal-ua" tvg-name="novy-kanal-ua-a8656d46" tvg-chno="7" tvg-logo="https://iptvx.one/picons/novy-kanal-ua.png" group-title="Загальнонаціональні",Новий канал
 https://lowa8026-cmyk.github.io/Ukraine/Novy.m3u8
+#EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-a4130376" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-d76aaed2" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ТЕТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/338/index.m3u8
@@ -71,6 +77,8 @@ http://94.130.32.80/TETHD/index.m3u8?token=Home
 http://iptv.prosto.tv:7000/ch7/video.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-4ed686ab" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
 https://play.lanet.tv/live/9010.m3u8
+#EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-2ccd0b9e" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
+http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829226/index.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-84552280" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
 http://31.43.48.248:7000/ch7/video.m3u8
 #EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-db4b470d" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
@@ -300,6 +308,9 @@ http://cdnua05.hls.tv/947/hls/8743361621b245838bee193c9ec28322/4807/stream.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-dbcdc4cd" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-cf0ed266" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-2104909b" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-525aaf4a" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
@@ -534,6 +545,8 @@ http://stream.mcquack.net/327/index.m3u8
 #EXTINF:-1 tvg-id="otse" tvg-name="otse-b3c3abc8" tvg-chno="99" tvg-logo="https://iptvx.one/picons/otse.png" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",OTSE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-id="otse" tvg-name="otse-477dbfc7" tvg-chno="99" tvg-logo="https://iptvx.one/picons/otse.png" group-title="Розважальні",OTSE
+http://93.113.203.152/iptv/XVU58NBPX2LUMP/6380/index.m3u8
 #EXTINF:-1 tvg-id="bigudi" tvg-name="bigudi-88589a31" tvg-chno="100" tvg-logo="https://iptvx.one/picons/bigudi.png" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Бігуді
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/340/index.m3u8

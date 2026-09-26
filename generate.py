@@ -23,8 +23,6 @@ TR = str.maketrans({'а': 'a', 'б': 'b', 'в': 'v', 'г': 'h', 'ґ': 'g', 'д':
                     'ё': 'e', 'ъ': ''})
 NEW_GROUP = 'Нові'
 NOISE = r'\b(hd|fhd|uhd|sd|4k|tv|tb|тв|тб|telekanal|телеканал|orig|backup|резерв)\b'
-# посилання з персональним токеном чиєїсь платної підписки — не беремо
-PRIVATE_URL = re.compile(r'/iptv/[A-Z0-9]{10,}/|online24\.pm/play/')
 
 
 def norm(s):
@@ -98,8 +96,6 @@ def main():
     for tvg_id, urls in extra.items():
         streams[tvg_id] += [{'url': u} for u in urls]
     for e in entries:  # порядок джерел = пріоритет потоків
-        if PRIVATE_URL.search(e['url']):
-            continue
         n = norm(e['name'])
         tvg_id = by_tvg.get(e['tvg_id'].split('@')[0].lower()) or (by_name.get(n) if not n.isdigit() else None)
         if not tvg_id:
