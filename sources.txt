@@ -5,3 +5,11 @@ https://iptv-org.github.io/iptv/languages/ukr.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8
 https://raw.githubusercontent.com/ZakarpattyaIPTV/UA/HEAD/ua.m3u
 https://raw.githubusercontent.com/Adam-ZS/iptv-ru-ua/HEAD/sources/ua.m3u
+https://raw.githubusercontent.com/mak-iptv/m3u/HEAD/UKRAINATV.m3u
+https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/HEAD/Ukraine/LanetTV.m3u
+https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/HEAD/331685%D0%A3%D0%A2%D0%91.m3u
+# великі міжнародні списки: match= — регулярний вираз по "group-title|назва", щоб не ловити однойменні закордонні канали
+# maximmur: українські групи або записи без групи з кириличною назвою
+https://raw.githubusercontent.com/maximmur/iptvlist/cur/Main.m3u8 match=(?i)^[^|]*(укра|ukrain)|^\|.*[а-яіїєґ]
+# Dimonovich: лише записи без групи (група Rutube тощо — не наші канали)
+https://raw.githubusercontent.com/Dimonovich/TV/HEAD/.m3u match=^\|

@@ -22,13 +22,14 @@ TR = str.maketrans({'а': 'a', 'б': 'b', 'в': 'v', 'г': 'h', 'ґ': 'g', 'д':
                     'ч': 'ch', 'ш': 'sh', 'щ': 'sch', 'ь': '', 'ю': 'yu', 'я': 'ya', 'ы': 'y', 'э': 'e',
                     'ё': 'e', 'ъ': ''})
 NEW_GROUP = 'Нові'
-NOISE = (r'\b(hd|fhd|uhd|sd|4k|tv|tb|тв|тб|telekanal|телеканал|ukraina|ukraine|україна|украина|ua|live|'
-         r'online|orig|backup|резерв)\b')
+NOISE = r'\b(hd|fhd|uhd|sd|4k|tv|tb|тв|тб|telekanal|телеканал|orig|backup|резерв)\b'
+# посилання з персональним токеном чиєїсь платної підписки — не беремо
+PRIVATE_URL = re.compile(r'/iptv/[A-Z0-9]{10,}/|online24\.pm/play/')
 
 
 def norm(s):
     s = (s or '').lower()
-    s = re.sub(r'\(\d+[pi]\)|\[.*?\]|\(backup\)|\(резерв\)', '', s)
+    s = re.sub(r'\(\d+[pi]\)|\[.*?\]|\((backup|резерв|ukraine|україна|украина|ua)\)', '', s)
     s = re.sub(NOISE, '', s)
     s = s.replace('+', 'plus').translate(TR)
     return re.sub(r'[^a-z0-9]', '', s)
@@ -42,7 +43,9 @@ def parse(text):
             attrs = dict(re.findall(r'([\w-]+)="([^"]*)"', line))
             name = line.rsplit(',', 1)[-1].strip() if ',' in line else re.sub(r'^#EXTINF:-?\d+\s*', '', line)
             cur = {'name': name, 'tvg_id': attrs.get('tvg-id', ''), 'ua': attrs.get('http-user-agent'),
-                   'ref': attrs.get('http-referrer')}
+                   'ref': attrs.get('http-referrer'), 'group': attrs.get('group-title', '')}
+        elif line.startswith('#EXTGRP:') and cur:
+            cur['group'] = line[8:].strip()
         elif line.startswith('#EXTVLCOPT:http-user-agent=') and cur:
             cur['ua'] = line.split('=', 1)[1]
         elif line.startswith('#EXTVLCOPT:http-referrer=') and cur:
@@ -67,31 +70,38 @@ def fetch(url):
 
 def main():
     channels = json.load(open('channels.json'))
-    sources = [l.strip() for l in open('sources.txt') if l.strip() and not l.startswith('#')]
+    sources = [l.split() for l in open('sources.txt') if l.strip() and not l.startswith('#')]
     extra = json.load(open('extra_streams.json'))  # ручні потоки: {"tvg_id": ["url", ...]}
     ignore = {l.strip().lower() for l in open('ignore.txt') if l.strip() and not l.startswith('#')}
 
     entries = []
-    for s in sources:
+    for url, *opts in sources:
+        opts = dict(o.split('=', 1) for o in opts)
         try:
-            entries += parse(fetch(s))
+            parsed = parse(fetch(url))
         except Exception as ex:
             # не публікуємо неповний список — інакше m3u-editor видалить канали цього джерела
-            raise SystemExit(f'source failed: {s}: {ex}')
+            raise SystemExit(f'source failed: {url}: {ex}')
+        if 'match' in opts:  # регулярний вираз по рядку "group-title|назва"
+            parsed = [e for e in parsed if re.search(opts['match'], f"{e['group']}|{e['name']}")]
+        entries += parsed
 
     by_tvg, by_name = {}, {}
     for ch in channels:
         for t in ch['match_tvg_ids']:
             by_tvg.setdefault(t.lower(), ch['tvg_id'])
         for a in ch['aliases']:
-            if norm(a):
+            if norm(a) and not norm(a).isdigit():
                 by_name.setdefault(norm(a), ch['tvg_id'])
 
     streams = {ch['tvg_id']: [] for ch in channels}
     for tvg_id, urls in extra.items():
         streams[tvg_id] += [{'url': u} for u in urls]
     for e in entries:  # порядок джерел = пріоритет потоків
-        tvg_id = by_tvg.get(e['tvg_id'].split('@')[0].lower()) or by_name.get(norm(e['name']))
+        if PRIVATE_URL.search(e['url']):
+            continue
+        n = norm(e['name'])
+        tvg_id = by_tvg.get(e['tvg_id'].split('@')[0].lower()) or (by_name.get(n) if not n.isdigit() else None)
         if not tvg_id:
             # новий український канал, якого ще немає в channels.json
             base = e['tvg_id'].split('@')[0]

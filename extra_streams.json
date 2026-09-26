@@ -1,1 +1,11 @@
-{}
+{
+ "k1-ua": [
+  "https://lowa8026-cmyk.github.io/Ukraine/K1.m3u8"
+ ],
+ "nadia": [
+  "https://lowa8026-cmyk.github.io/Ukraine/Nadiya.m3u8"
+ ],
+ "chernivetskyi-promin": [
+  "https://lowa8026-cmyk.github.io/Ukraine/Cherniveckiypromin.m3u8"
+ ]
+}
