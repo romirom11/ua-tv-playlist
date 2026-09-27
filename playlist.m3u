@@ -159,9 +159,6 @@ http://play.lanet.tv/live/9921.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-af530e73" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини",Рада
 https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
-#EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-5c42bcae" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини" http-user-agent="curl/8.16.0",Рада
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-8becae36" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини",Рада
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-50a45c7e" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини",Рада
