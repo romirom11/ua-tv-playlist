@@ -284,6 +284,8 @@ http://stream.mcquack.net/457/index.m3u8
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 tvg-id="maincast-sport" tvg-name="maincast-sport-76ddaf27" tvg-chno="42" tvg-logo="https://iptvx.one/picons/maincast-sport.png" group-title="Спорт",Maincast Sport
 http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 tvg-id="maincast-sport" tvg-name="maincast-sport-6fe61427" tvg-chno="42" tvg-logo="https://iptvx.one/picons/maincast-sport.png" group-title="Спорт",Maincast Sport
+srt://87.245.216.208:5001
 #EXTINF:-1 tvg-id="maincast" tvg-name="maincast-da4ba46f" tvg-chno="43" tvg-logo="https://iptvx.one/picons/maincast.png" group-title="Спорт",Maincast Cybersport
 http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 tvg-id="dynamo-kyiv-tv" tvg-name="dynamo-kyiv-tv-6fb743ea" tvg-chno="44" tvg-logo="https://iptvx.one/picons/dynamo-kyiv-tv.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Динамо Київ ТБ
