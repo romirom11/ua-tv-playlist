@@ -1,0 +1,461 @@
+{
+"url": "https://raw.githubusercontent.com/mak-iptv/m3u/HEAD/UKRAINATV.m3u",
+"entries": [
+{
+"name": "Первый независимый HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://app.live.112.events/hls-ua/112hd_hi/index.m3u8"
+},
+{
+"name": "1+1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch1/video.m3u8"
+},
+{
+"name": "Интер HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch5/video.m3u8"
+},
+{
+"name": "Интер",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8"
+},
+{
+"name": "К1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://109.68.40.67/life/k1_3/index.m3u8"
+},
+{
+"name": "Новий канал",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://51.15.176.84/hls/novy-live/index.m3u8"
+},
+{
+"name": "Украина HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch3/video.m3u8"
+},
+{
+"name": "Украина",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://51.15.176.84/hls/ukraina-live/index.m3u8"
+},
+{
+"name": "Украина 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch179/video.m3u8"
+},
+{
+"name": "ICTV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://51.15.176.84/hls/ictv-live/index.m3u8"
+},
+{
+"name": "ТЕТ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch7/video.m3u8"
+},
+{
+"name": "НТН",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8?bw986329639912.m3u8"
+},
+{
+"name": "Перший діловий",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8"
+},
+{
+"name": "М1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://live.m2.tv/hls2/stream.m3u8"
+},
+{
+"name": "М2",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://live.m2.tv/hls3/stream.m3u8"
+},
+{
+"name": "UA TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8"
+},
+{
+"name": "UA TV HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8"
+},
+{
+"name": "Правда ТУТ Киев",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8"
+},
+{
+"name": "Прямой",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8"
+},
+{
+"name": "Прямой HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8"
+},
+{
+"name": "Первый автомобильный HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch121/video.m3u8"
+},
+{
+"name": "Рыбалка",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch88/video.m3u8"
+},
+{
+"name": "Трофей HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch89/video.m3u8"
+},
+{
+"name": "Дача",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch92/video.m3u8"
+},
+{
+"name": "Фауна",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch95/video.m3u8"
+},
+{
+"name": "Терра",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch101/video.m3u8"
+},
+{
+"name": "36.6 TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch98/video.m3u8"
+},
+{
+"name": "Кус кус",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch103/video.m3u8"
+},
+{
+"name": "Европа",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch91/video.m3u8"
+},
+{
+"name": "Paramount Comedy",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch60/video.m3u8"
+},
+{
+"name": "Квартал TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch65/video.m3u8"
+},
+{
+"name": "FILM UA DRAMA",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch59/video.m3u8"
+},
+{
+"name": "STAR family",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch57/video.m3u8"
+},
+{
+"name": "FILM BOX",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch64/video.m3u8"
+},
+{
+"name": "STAR cinema",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch56/video.m3u8"
+},
+{
+"name": "Е ФIЛЬМ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch54/video.m3u8"
+},
+{
+"name": "Болт",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch53/video.m3u8"
+},
+{
+"name": "Плюс Плюс",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch66/video.m3u8"
+},
+{
+"name": "ПIКСЕЛЬ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch67/video.m3u8"
+},
+{
+"name": "Niki Junior",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch72/video.m3u8"
+},
+{
+"name": "Niki Junior HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch76/video.m3u8"
+},
+{
+"name": "Niki Kids",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch71/video.m3u8"
+},
+{
+"name": "Niki Kids HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch75/video.m3u8"
+},
+{
+"name": "Nick",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch68/video.m3u8"
+},
+{
+"name": "Nick jr.",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch69/video.m3u8"
+},
+{
+"name": "nicktoons",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch70/video.m3u8"
+},
+{
+"name": "TiJi",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch73/video.m3u8"
+},
+{
+"name": "Gulli Girl",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://iptv.prosto.tv:7000/ch74/video.m3u8"
+},
+{
+"name": "Здоровье",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8"
+},
+{
+"name": "ЧП.INFO",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина",
+"url": "http://lb1.macc.com.ua/life/magnolia_3/index.m3u8?bw986329639912.m3u8"
+},
+{
+"name": "world planet",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://188.113.190.12/89/tracks-v1a1/index.m3u8"
+},
+{
+"name": "Animal Planet",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://iptv.prosto.tv:7000/ch95/video.m3u8"
+},
+{
+"name": "Discovery wild",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://iptv.prosto.tv:7000/ch83/video.m3u8"
+},
+{
+"name": "viasat nature",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://iptv.prosto.tv:7000/ch84/video.m3u8"
+},
+{
+"name": "viasat explore",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://iptv.prosto.tv:7000/ch85/video.m3u8"
+},
+{
+"name": "viasat histori",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://iptv.prosto.tv:7000/ch86/video.m3u8"
+},
+{
+"name": "history Channel",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://iptv.prosto.tv:7000/ch87/video.m3u8"
+}
+]
+}

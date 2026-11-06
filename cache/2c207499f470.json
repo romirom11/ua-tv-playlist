@@ -1,0 +1,1725 @@
+{
+"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ua.m3u",
+"entries": [
+{
+"name": "1+1 International",
+"tvg_id": "1Plus1International.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international"
+},
+{
+"name": "1+1 International HD (720p)",
+"tvg_id": "1Plus1International.ua@HD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
+},
+{
+"name": "1+1 Marafon (1080p)",
+"tvg_id": "1Plus1Marafon.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
+},
+{
+"name": "1+1 Ukraina (1080p)",
+"tvg_id": "1Plus1Ukraina.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/219/index.m3u8"
+},
+{
+"name": "2+2 (1080p)",
+"tvg_id": "2Plus2.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/173/index.m3u8"
+},
+{
+"name": "4ever Cinema (1080p)",
+"tvg_id": "4everCinema.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/258/index.m3u8"
+},
+{
+"name": "4ever Drama (1080p)",
+"tvg_id": "4everDrama.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/260/index.m3u8"
+},
+{
+"name": "4ever Music (1080p)",
+"tvg_id": "4everMusic.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/257/index.m3u8"
+},
+{
+"name": "4ever Theater (1080p)",
+"tvg_id": "4everTheater.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/259/index.m3u8"
+},
+{
+"name": "6 sotok (1080p)",
+"tvg_id": "6sotok.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/405/index.m3u8"
+},
+{
+"name": "11 Kanal (720p)",
+"tvg_id": "Channel11.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+"ref": null,
+"group": "",
+"url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8"
+},
+{
+"name": "24 Kanal (720p)",
+"tvg_id": "24Kanal.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8"
+},
+{
+"name": "24 Канал (1080p)",
+"tvg_id": "Channel24.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
+},
+{
+"name": "36.6 TV",
+"tvg_id": "366TV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8"
+},
+{
+"name": "100% News (576p)",
+"tvg_id": "100NEWS.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
+},
+{
+"name": "¡Viva Latino! (1080p)",
+"tvg_id": "VivaLatino.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/285/index.m3u8"
+},
+{
+"name": "Apostrophe TV (1080p)",
+"tvg_id": "ApostropheTV.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8"
+},
+{
+"name": "Army TV (1080p)",
+"tvg_id": "ArmyTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8"
+},
+{
+"name": "Army TV (576p)",
+"tvg_id": "ArmyTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://195.54.52.40/test/index.m3u8"
+},
+{
+"name": "ATR (1080p)",
+"tvg_id": "ATR.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/244/index.m3u8"
+},
+{
+"name": "ATR (720p)",
+"tvg_id": "ATR.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+"ref": null,
+"group": "",
+"url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8"
+},
+{
+"name": "Avers (480p)",
+"tvg_id": "Avers.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://avers.pp.ua/hls/efir.m3u8"
+},
+{
+"name": "BamBarBia TV (720p) [Not 24/7]",
+"tvg_id": "BamBarBiaTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"
+},
+{
+"name": "Bigudi (576p)",
+"tvg_id": "Bigudi.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/340/index.m3u8"
+},
+{
+"name": "Black (1080p)",
+"tvg_id": "Black.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/283/index.m3u8"
+},
+{
+"name": "Black Sea TV",
+"tvg_id": "BlackSeaTV.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8"
+},
+{
+"name": "Bolt (1080p)",
+"tvg_id": "Bolt.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/73/index.m3u8"
+},
+{
+"name": "Channel 5 (1080p)",
+"tvg_id": "Channel5.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/291/index.m3u8"
+},
+{
+"name": "Channel 5 (1080p)",
+"tvg_id": "Channel5.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8"
+},
+{
+"name": "Channel 7 Ukraine (720p)",
+"tvg_id": "Channel7Ukraine.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8"
+},
+{
+"name": "Channel 7 Ukraine (720p)",
+"tvg_id": "Channel7Ukraine.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8"
+},
+{
+"name": "Channel 8",
+"tvg_id": "Channel8.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8"
+},
+{
+"name": "Chemodan TV (1080p)",
+"tvg_id": "ChemodanTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/399/index.m3u8"
+},
+{
+"name": "Cherniveckiy promin (720p)",
+"tvg_id": "Cherniveckiypromin.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://langate.tv/promin/live_720/index.m3u8"
+},
+{
+"name": "Cine+",
+"tvg_id": "CinePlus.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR"
+},
+{
+"name": "Cine+ Hit",
+"tvg_id": "CinePlusHit.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw=="
+},
+{
+"name": "Cine+ Kids (576p)",
+"tvg_id": "CinePlusKids.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8"
+},
+{
+"name": "Cine+ Kids",
+"tvg_id": "CinePlusKids.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=540&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ=="
+},
+{
+"name": "Cine+ Legend",
+"tvg_id": "CinePlusLegend.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ=="
+},
+{
+"name": "Continent E (1080p)",
+"tvg_id": "ContinentE.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/449/index.m3u8"
+},
+{
+"name": "Dacha (1080p)",
+"tvg_id": "Dacha.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8"
+},
+{
+"name": "DIM (576p)",
+"tvg_id": "DIM.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/383/index.m3u8"
+},
+{
+"name": "DIM",
+"tvg_id": "DIM.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
+},
+{
+"name": "DiviSport (1080p)",
+"tvg_id": "DiviSport.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/457/index.m3u8"
+},
+{
+"name": "DniproTV (1080p)",
+"tvg_id": "DniproTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8"
+},
+{
+"name": "Dynamo Kyiv TV (1080p)",
+"tvg_id": "DynamoKyivTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/396/index.m3u8"
+},
+{
+"name": "Eko TV (720p)",
+"tvg_id": "EkoTV.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8"
+},
+{
+"name": "Enter-Film (1080p)",
+"tvg_id": "EnterFilm.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/322/index.m3u8"
+},
+{
+"name": "eQtv",
+"tvg_id": "eQtv.ua@Russian",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0"
+},
+{
+"name": "Equalympic (1080p)",
+"tvg_id": "Equalympic.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/485/index.m3u8"
+},
+{
+"name": "Espreso TV (1080p)",
+"tvg_id": "EspresoTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
+},
+{
+"name": "Espreso TV (1080p)",
+"tvg_id": "EspresoTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8"
+},
+{
+"name": "EU Music (1080p)",
+"tvg_id": "EUMusic.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/261/index.m3u8"
+},
+{
+"name": "Fashion (1080p)",
+"tvg_id": "Fashion.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/288/index.m3u8"
+},
+{
+"name": "Fashion TV (1080p)",
+"tvg_id": "FashionTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/287/index.m3u8"
+},
+{
+"name": "Fauna (576p)",
+"tvg_id": "Fauna.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/401/index.m3u8"
+},
+{
+"name": "FilmUA Live",
+"tvg_id": "FilmUALive.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
+},
+{
+"name": "FilmUADrama (1080p)",
+"tvg_id": "FilmUADrama.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+"ref": null,
+"group": "",
+"url": "http://88.99.215.227/FilmUADrama/index.m3u8"
+},
+{
+"name": "FilmUADrama",
+"tvg_id": "FilmUADrama.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+},
+{
+"name": "FREEDOM (1080p)",
+"tvg_id": "FREEDOM.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
+},
+{
+"name": "Freedom (FREEДOM) (UATV) (720p)",
+"tvg_id": "FREEDOM.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8"
+},
+{
+"name": "GIT (720p)",
+"tvg_id": "GIT.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.uagit.tv/gittv.m3u8"
+},
+{
+"name": "Happy Radio TV (1080p)",
+"tvg_id": "HappyRadioTV.ua@HD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://tv.mediacp.eu:8081/happyradio/index.m3u8"
+},
+{
+"name": "History2 Ukraine (360p)",
+"tvg_id": "History2Ukraine.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/H2-HD/index.m3u8"
+},
+{
+"name": "History Ukraine",
+"tvg_id": "HistoryUkraine.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/History_HD/index.m3u8"
+},
+{
+"name": "Hollywood Ukraine (576p)",
+"tvg_id": "HollywoodUkraine.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
+},
+{
+"name": "Hope Channel Ukraine",
+"tvg_id": "HopeChannelUkraine.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8"
+},
+{
+"name": "I-UA.tv (1080p)",
+"tvg_id": "IUAtv.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8"
+},
+{
+"name": "ICTV (1080p)",
+"tvg_id": "ICTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/158/index.m3u8"
+},
+{
+"name": "ICTV2 (1080p)",
+"tvg_id": "ICTV2.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/368/index.m3u8"
+},
+{
+"name": "InRating TV (1080p)",
+"tvg_id": "InRatingTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/147/index.m3u8"
+},
+{
+"name": "Inter (1080p)",
+"tvg_id": "Inter.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/174/index.m3u8"
+},
+{
+"name": "Inter+ (720p)",
+"tvg_id": "InterPlus.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8"
+},
+{
+"name": "IRT (720p)",
+"tvg_id": "IRT.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8"
+},
+{
+"name": "Islandia (720p)",
+"tvg_id": "Islandia.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8"
+},
+{
+"name": "ITV (480p)",
+"tvg_id": "ITV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+},
+{
+"name": "ITV HD (720p)",
+"tvg_id": "ITV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8"
+},
+{
+"name": "Izmail TV (384p)",
+"tvg_id": "IzmailTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+},
+{
+"name": "K1 (1080p)",
+"tvg_id": "K1.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/270/index.m3u8"
+},
+{
+"name": "K2 (1080p)",
+"tvg_id": "K2.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/324/index.m3u8"
+},
+{
+"name": "K2 (720p)",
+"tvg_id": "K2.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8"
+},
+{
+"name": "Kino 1 (1080p)",
+"tvg_id": "Kino1.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/395/index.m3u8"
+},
+{
+"name": "Kino 2 (1080p)",
+"tvg_id": "Kino2.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/465/index.m3u8"
+},
+{
+"name": "Kinoliving (1080p)",
+"tvg_id": "Kinoliving.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/445/index.m3u8"
+},
+{
+"name": "Kinowood (1080p)",
+"tvg_id": "Kinowood.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/446/index.m3u8"
+},
+{
+"name": "Konkurent Ukraine",
+"tvg_id": "KonkurentUkraine.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA=="
+},
+{
+"name": "Kus-Kus",
+"tvg_id": "KusKus.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8"
+},
+{
+"name": "Kvartal TV",
+"tvg_id": "KvartalTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95"
+},
+{
+"name": "Kyiv (1080p)",
+"tvg_id": "Kyiv.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8"
+},
+{
+"name": "Lale",
+"tvg_id": "Lale.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8"
+},
+{
+"name": "Lux TV (1080p)",
+"tvg_id": "LuxTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84"
+},
+{
+"name": "M1 (1080p)",
+"tvg_id": "M1.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/M1-HD/index.m3u8"
+},
+{
+"name": "M1 (1080p)",
+"tvg_id": "M1.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/218/index.m3u8"
+},
+{
+"name": "M1 (720p)",
+"tvg_id": "M1.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://158.101.222.193:88/georgia_play.php?id=m1"
+},
+{
+"name": "M2 (1080p)",
+"tvg_id": "M2.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/330/index.m3u8"
+},
+{
+"name": "Maincast Cybersport (1080p)",
+"tvg_id": "MaincastCybersport.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/487/index.m3u8"
+},
+{
+"name": "Maincast Sport (1080p)",
+"tvg_id": "MaincastSport.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/490/index.m3u8"
+},
+{
+"name": "Maincast Sport",
+"tvg_id": "MaincastSport.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "srt://87.245.216.208:5001"
+},
+{
+"name": "Mason TV (1080p)",
+"tvg_id": "MasonTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/346/index.m3u8"
+},
+{
+"name": "Mega (1080p)",
+"tvg_id": "Mega.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/MEGA_HD/index.m3u8"
+},
+{
+"name": "Mega (1080p)",
+"tvg_id": "Mega.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/325/index.m3u8"
+},
+{
+"name": "Mega (720p)",
+"tvg_id": "Mega.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8"
+},
+{
+"name": "Megogo Music",
+"tvg_id": "MegogoMusic.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8"
+},
+{
+"name": "MEGOGO Sport (1080p)",
+"tvg_id": "MEGOGOSport.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://5.188.159.128:8070/megogo_sport/index.m3u8"
+},
+{
+"name": "Micto (360p)",
+"tvg_id": "MistoPlus.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://93.78.206.172:8080/stream3/stream.m3u8"
+},
+{
+"name": "Muzvar (1080p)",
+"tvg_id": "Muzvar.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8"
+},
+{
+"name": "My Ukraina+",
+"tvg_id": "MyUkrainaPlus.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8"
+},
+{
+"name": "My-Ukraina TV (1080p)",
+"tvg_id": "MyUkrainaTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/442/index.m3u8"
+},
+{
+"name": "Nashe Lubimoe Kino Ukraine (1080p)",
+"tvg_id": "NasheLubimoeKinoUkraine.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/456/index.m3u8"
+},
+{
+"name": "NASHE Music (720p)",
+"tvg_id": "NASHEMusic.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8"
+},
+{
+"name": "National Geographic Wild (1080p)",
+"tvg_id": "NationalGeographicWild.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8"
+},
+{
+"name": "National Geographic Wild (720p)",
+"tvg_id": "NationalGeographicWild.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+"ref": null,
+"group": "",
+"url": "http://46.32.176.50/natgeowild/index.m3u8"
+},
+{
+"name": "Nauka (576p)",
+"tvg_id": "Nauka.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/403/index.m3u8"
+},
+{
+"name": "Niki Junior (1080p)",
+"tvg_id": "NikiJunior.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/262/index.m3u8"
+},
+{
+"name": "Niki Junior",
+"tvg_id": "NikiJunior.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://158.101.222.193:88/georgia_play.php?id=nikijunior"
+},
+{
+"name": "Niki Kids (1080p)",
+"tvg_id": "NikiKids.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/271/index.m3u8"
+},
+{
+"name": "Novyi Channel (1080p)",
+"tvg_id": "NovyiChannel.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/157/index.m3u8"
+},
+{
+"name": "Novyny.Live",
+"tvg_id": "NovynyLive.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "rtmp://95.67.11.153/klive/stream"
+},
+{
+"name": "NTN (1080p)",
+"tvg_id": "NTN.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/326/index.m3u8"
+},
+{
+"name": "NTN (1080i)",
+"tvg_id": "NTN.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+},
+{
+"name": "Obozrevatel TV",
+"tvg_id": "ObozrevatelTV.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8"
+},
+{
+"name": "One Planet (1080p)",
+"tvg_id": "OnePlanet.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/OnePlanet/index.m3u8"
+},
+{
+"name": "One Planet (1080p)",
+"tvg_id": "OnePlanet.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/448/index.m3u8"
+},
+{
+"name": "OTSE (1080p)",
+"tvg_id": "OTSE.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/329/index.m3u8"
+},
+{
+"name": "OTV (576p)",
+"tvg_id": "OTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8"
+},
+{
+"name": "Pershiy XTV Media (576p)",
+"tvg_id": "PershiyXTVMedia.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8"
+},
+{
+"name": "Pershyi (1080p)",
+"tvg_id": "Pershyi.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8"
+},
+{
+"name": "Pershyi avtomobilnyi (1080p)",
+"tvg_id": "Pershyiavtomobilnyi.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/404/index.m3u8"
+},
+{
+"name": "Pershyi Zahidnyi (1080p)",
+"tvg_id": "PershyiZahidnyi.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/246/index.m3u8"
+},
+{
+"name": "Pixel TV (1080p)",
+"tvg_id": "PixelTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/323/index.m3u8"
+},
+{
+"name": "Pixel TV (720p)",
+"tvg_id": "PixelTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8"
+},
+{
+"name": "PLUSPLUS (1080p)",
+"tvg_id": "PLUSPLUS.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/339/index.m3u8"
+},
+{
+"name": "Prokino (360p)",
+"tvg_id": "Prokino.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/ProKino/index.m3u8"
+},
+{
+"name": "PTV (720p)",
+"tvg_id": "PTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8"
+},
+{
+"name": "Quiz TV (1080p)",
+"tvg_id": "QuizTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/397/index.m3u8"
+},
+{
+"name": "Rada TV (720p)",
+"tvg_id": "RadaTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8"
+},
+{
+"name": "RAZ 1 (1080p)",
+"tvg_id": "RAZ1.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/463/index.m3u8"
+},
+{
+"name": "RAZ 2 (1080p)",
+"tvg_id": "RAZ2.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/464/index.m3u8"
+},
+{
+"name": "RAZ 3 (720p)",
+"tvg_id": "RAZ3.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3"
+},
+{
+"name": "RAZ 3 International",
+"tvg_id": "RAZ3International.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
+},
+{
+"name": "Renome (576p)",
+"tvg_id": "RenomeTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8"
+},
+{
+"name": "Rybalka (1080p)",
+"tvg_id": "Rybalka.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8"
+},
+{
+"name": "Salt TV (1080p)",
+"tvg_id": "SaltTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/398/index.m3u8"
+},
+{
+"name": "Setanta Sports+ Ukraine (1080p)",
+"tvg_id": "SetantaSportsPlusUkraine.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/390/index.m3u8"
+},
+{
+"name": "Simon (720p) [Geo-blocked]",
+"tvg_id": "Simon.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://hls.simon.ua/live-HD/live/playlist.m3u8"
+},
+{
+"name": "SK 1 (720p)",
+"tvg_id": "SK1.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
+},
+{
+"name": "Sonce",
+"tvg_id": "Sonce.ua@SD",
+"ua": "curl/8.16.0",
+"ref": null,
+"group": "",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8"
+},
+{
+"name": "Sonce+",
+"tvg_id": "SoncePlus.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn"
+},
+{
+"name": "Sport 1 (576p)",
+"tvg_id": "Sport1.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/391/index.m3u8"
+},
+{
+"name": "Sport 1 Baltic (1080p)",
+"tvg_id": "Sport1Baltic.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/461/index.m3u8"
+},
+{
+"name": "Sport 2 (1080p)",
+"tvg_id": "Sport2.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/392/index.m3u8"
+},
+{
+"name": "Sport 3 (1080p)",
+"tvg_id": "Sport3.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/393/index.m3u8"
+},
+{
+"name": "Sport 4 (576p)",
+"tvg_id": "Sport4.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/394/index.m3u8"
+},
+{
+"name": "Sport 5 (1080p)",
+"tvg_id": "Sport5.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/212/index.m3u8"
+},
+{
+"name": "STB (1080p)",
+"tvg_id": "STB.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/156/index.m3u8"
+},
+{
+"name": "Super+ (360p)",
+"tvg_id": "SuperPlus.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/super_plus/index.m3u8"
+},
+{
+"name": "Suspilne. Krym (1080p)",
+"tvg_id": "SuspilneKrym.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/436/index.m3u8"
+},
+{
+"name": "Suspilne. Kultura (1080p)",
+"tvg_id": "SuspilneKultura.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/435/index.m3u8"
+},
+{
+"name": "Suspilne. Kyiv (360p)",
+"tvg_id": "SuspilneKyiv.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8"
+},
+{
+"name": "Suspilne. Sport (1080p)",
+"tvg_id": "SuspilneSport.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/444/index.m3u8"
+},
+{
+"name": "Svarozhychy (1080p)",
+"tvg_id": "Svarozhychy.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8"
+},
+{
+"name": "Svit+ (1080p)",
+"tvg_id": "SvitPlus.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/358/index.m3u8"
+},
+{
+"name": "TBN Україна (720p)",
+"tvg_id": "TBNUkraine.us@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8"
+},
+{
+"name": "Telekanal RAI (480p)",
+"tvg_id": "TelekanalRAI.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.rai.ua/rai/stream.m3u8"
+},
+{
+"name": "Telekanal RAI",
+"tvg_id": "TelekanalRAI.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://92.253.233.136/uploads/playlist.m3u8"
+},
+{
+"name": "Televsesvit (1080p)",
+"tvg_id": "Televsesvit.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8"
+},
+{
+"name": "Terra (576p)",
+"tvg_id": "Terra.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/402/index.m3u8"
+},
+{
+"name": "TET (1080p)",
+"tvg_id": "TET.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/338/index.m3u8"
+},
+{
+"name": "TIS TV (720p)",
+"tvg_id": "TISTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+},
+{
+"name": "TRK Ildana (720p)",
+"tvg_id": "TRKIldana.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+"ref": null,
+"group": "",
+"url": "https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8"
+},
+{
+"name": "Trofei (1080p)",
+"tvg_id": "Trofei.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/357/index.m3u8"
+},
+{
+"name": "TV7+",
+"tvg_id": "TV7Plus.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://tv7plus.com/hls/tv7_site.m3u8"
+},
+{
+"name": "TV Rivne 1 (720p)",
+"tvg_id": "Rivne1.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+},
+{
+"name": "TV-4 (720p) [Geo-blocked]",
+"tvg_id": "TV4.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8"
+},
+{
+"name": "TVA (576p)",
+"tvg_id": "TVA.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+},
+{
+"name": "TVA (576p)",
+"tvg_id": "TVA.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
+},
+{
+"name": "Tviy serial (1080p)",
+"tvg_id": "Tviyserial.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/466/index.m3u8"
+},
+{
+"name": "UA Music (1080p)",
+"tvg_id": "UAMusic.ua@HD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/281/index.m3u8"
+},
+{
+"name": "UNIAN Serial (1080p)",
+"tvg_id": "UNIANSerial.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/341/index.m3u8"
+},
+{
+"name": "UPL.TV",
+"tvg_id": "UPLTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8"
+},
+{
+"name": "Viasat Explore (576p)",
+"tvg_id": "ViasatExplore.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/Viasat-Explore/index.m3u8"
+},
+{
+"name": "Viasat Explore",
+"tvg_id": "ViasatExplore.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=79&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw=="
+},
+{
+"name": "Viasat History",
+"tvg_id": "ViasatHistory.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ=="
+},
+{
+"name": "Viasat Kino (576p)",
+"tvg_id": "ViasatKino.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8"
+},
+{
+"name": "Viasat Kino",
+"tvg_id": "ViasatKino.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR"
+},
+{
+"name": "Viasat Kino Action (576p)",
+"tvg_id": "ViasatKinoAction.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8"
+},
+{
+"name": "Viasat Kino Action",
+"tvg_id": "ViasatKinoAction.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn"
+},
+{
+"name": "Viasat Kino Comedy",
+"tvg_id": "ViasatKinoComedy.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ=="
+},
+{
+"name": "Viasat Kino Romania",
+"tvg_id": "ViasatKino.ua@Romania",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+"ref": "https://cool-tv.net/",
+"group": "",
+"url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8"
+},
+{
+"name": "Viasat Kino World",
+"tvg_id": "ViasatKinoWorld.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ=="
+},
+{
+"name": "Viasat Nature",
+"tvg_id": "ViasatNature.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw=="
+},
+{
+"name": "Viasat Serial",
+"tvg_id": "ViasatSerial.ua@HD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+"ref": "http://live.tvstitch.com/",
+"group": "",
+"url": "http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw=="
+},
+{
+"name": "Z (Запорожье) (1080p)",
+"tvg_id": "Z.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.ztv.zp.ua/hls/live.m3u8"
+},
+{
+"name": "Zoom (1080p)",
+"tvg_id": "Zoom.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+"ref": null,
+"group": "",
+"url": "http://stream.mcquack.net/327/index.m3u8"
+},
+{
+"name": "Балта ТВ (768p)",
+"tvg_id": "BaltaTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://194.50.51.34/playlist.m3u8"
+},
+{
+"name": "Глас (576p)",
+"tvg_id": "Glas.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8"
+},
+{
+"name": "Донбас Online (1080p) [Not 24/7]",
+"tvg_id": "DonbassOnline.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8"
+},
+{
+"name": "Надия/Новый канал (576p) [Not 24/7]",
+"tvg_id": "HopeChannelUkraine.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8"
+},
+{
+"name": "НТК ТВ (1080p) [Not 24/7]",
+"tvg_id": "NTKTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+},
+{
+"name": "Общественное Независимое Телевидение (576p)",
+"tvg_id": "ObshchestvennoeNezavisimoeTelevidenie.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
+},
+{
+"name": "Орбіта ТВ (360p) [Not 24/7]",
+"tvg_id": "OrbitaTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
+},
+{
+"name": "Первый Городской (Одесса) (576p)",
+"tvg_id": "PervyygorodskoyOdessa.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+},
+{
+"name": "Первый городской (Одесса) (1080p) [Not 24/7]",
+"tvg_id": "PervyygorodskoyOdessa.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+},
+{
+"name": "ПравдаТУТ (720p)",
+"tvg_id": "PravdaTUT.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+"ref": null,
+"group": "",
+"url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8"
+},
+{
+"name": "СК1 Житомир (720p)",
+"tvg_id": "SK1.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+},
+{
+"name": "Сфера ТВ (720p)",
+"tvg_id": "SferaTV.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8"
+},
+{
+"name": "Сфера-ТВ (720p)",
+"tvg_id": "SferaTV.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+"ref": null,
+"group": "",
+"url": "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8"
+},
+{
+"name": "ТВА (Чернiвцi) (576p)",
+"tvg_id": "TVA.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+},
+{
+"name": "ТВА (Чернiвцi) (576p)",
+"tvg_id": "TVA.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+},
+{
+"name": "Телеканал Репортер Одесса (720p)",
+"tvg_id": "Reporter.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8"
+},
+{
+"name": "Тернопіль 1 (720p)",
+"tvg_id": "Ternopil1.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://ott.columbus.te.ua/ternopil1/index.m3u8"
+},
+{
+"name": "ТРК Алекс (576p)",
+"tvg_id": "TRKAleks.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://46.46.112.223/live/livestream1.m3u8"
+},
+{
+"name": "Тюсо (720p)",
+"tvg_id": "TUSO.ua@SD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+"ref": null,
+"group": "",
+"url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
+},
+{
+"name": "Херсон Плюс (576p)",
+"tvg_id": "HersonPlyus.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://46.175.163.130/ks_plus/index.m3u8"
+},
+{
+"name": "ЧП Инфо (576p)",
+"tvg_id": "ChPinfo.ua@SD",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8"
+}
+]
+}

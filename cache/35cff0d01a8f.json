@@ -1,0 +1,381 @@
+{
+"url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8",
+"entries": [
+{
+"name": "Pershyi",
+"tvg_id": "Pershyi.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8"
+},
+{
+"name": "1+1 Ukraina Ⓢ",
+"tvg_id": "1Plus1Ukraina.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/219/index.m3u8"
+},
+{
+"name": "Suspilne Kultura",
+"tvg_id": "SuspilneKultura.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/435/index.m3u8"
+},
+{
+"name": "Suspilne Sport",
+"tvg_id": "SuspilneSport.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
+},
+{
+"name": "ICTV2",
+"tvg_id": "ICTV2.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8"
+},
+{
+"name": "ICTV Serialy",
+"tvg_id": "ICTVSerialy.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8"
+},
+{
+"name": "Inter",
+"tvg_id": "Inter.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/174/index.m3u8"
+},
+{
+"name": "Армія ТБ",
+"tvg_id": "ArmyTV.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8"
+},
+{
+"name": "Novyi Kanal",
+"tvg_id": "NovyKanal.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/157/index.m3u8"
+},
+{
+"name": "TET Ⓢ",
+"tvg_id": "TET.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/338/index.m3u8"
+},
+{
+"name": "2+2 Ⓢ",
+"tvg_id": "2Plus2.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/173/index.m3u8"
+},
+{
+"name": "M1",
+"tvg_id": "M1.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/218/index.m3u8"
+},
+{
+"name": "M2",
+"tvg_id": "M2.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/330/index.m3u8"
+},
+{
+"name": "NTN",
+"tvg_id": "NTN.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+},
+{
+"name": "Mega",
+"tvg_id": "Mega.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8"
+},
+{
+"name": "ПлюсПлюс Ⓢ",
+"tvg_id": "PlusPlus.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/339/index.m3u8"
+},
+{
+"name": "K1",
+"tvg_id": "K1.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/270/index.m3u8"
+},
+{
+"name": "XSport Ⓢ",
+"tvg_id": "XSport.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8"
+},
+{
+"name": "Enter-Film",
+"tvg_id": "EnterFilm.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/322/index.m3u8"
+},
+{
+"name": "Піксель TV",
+"tvg_id": "PixelTV.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8"
+},
+{
+"name": "5 Kanal",
+"tvg_id": "5Kanal.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.mcquack.net/291/index.m3u8"
+},
+{
+"name": "Суспільне Київ",
+"tvg_id": "SuspilneKyiv.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8"
+},
+{
+"name": "Суспільне Дніпро",
+"tvg_id": "SuspilneDnipro.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8"
+},
+{
+"name": "Суспільне Житомир Ⓢ",
+"tvg_id": "SuspilneZhytomyr.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8"
+},
+{
+"name": "Суспільне Одеса Ⓢ",
+"tvg_id": "SuspilneOdesa.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8"
+},
+{
+"name": "Суспільне Суми Ⓢ",
+"tvg_id": "SuspilneSumy.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8"
+},
+{
+"name": "Суспільне Хмельницький Ⓢ",
+"tvg_id": "SuspilneKhmelnytskyi.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8"
+},
+{
+"name": "Суспільне Чернівці Ⓢ",
+"tvg_id": "SuspilneChernivtsi.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8"
+},
+{
+"name": "Суспільне Kropyvnytskyi",
+"tvg_id": "SuspilneKropyvnytskyi.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8"
+},
+{
+"name": "Суспільне Луцьк",
+"tvg_id": "SuspilneLutsk.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://193.107.168.98:7006/play/508/index.m3u8"
+},
+{
+"name": "Суспільне Крим",
+"tvg_id": "SuspilneKrym.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8"
+},
+{
+"name": "Суспільне Тернопіль",
+"tvg_id": "SuspilneTernopil.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8"
+},
+{
+"name": "Суспільне Чернігів",
+"tvg_id": "SuspilneChernihiv.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8"
+},
+{
+"name": "FREEДOM",
+"tvg_id": "FREEDOM.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://95.67.106.242/mobile-app/main/freedom/master.m3u8"
+},
+{
+"name": "24 Kanal",
+"tvg_id": "24Kanal.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
+},
+{
+"name": "ДІМ",
+"tvg_id": "DIM.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
+},
+{
+"name": "Дніпро TV",
+"tvg_id": "DniproTV.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8"
+},
+{
+"name": "ГІТ",
+"tvg_id": "Git.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://stream.uagit.tv/gittv.m3u8"
+},
+{
+"name": "Telekanal RAI",
+"tvg_id": "TelekanalRAI.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://stream.rai.ua/rai/stream.m3u8"
+},
+{
+"name": "Тернопіль 1",
+"tvg_id": "Ternopil1.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://ott.columbus.te.ua/ternopil1/index.m3u8"
+},
+{
+"name": "CK 1",
+"tvg_id": "SK1.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+},
+{
+"name": "Pervyy gorodskoy Odessa",
+"tvg_id": "PervyygorodskoyOdessa.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://live.1tv.od.ua/stream1/channel1/playlist.m3u8"
+},
+{
+"name": "Київ 24",
+"tvg_id": "Kyiv.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8"
+},
+{
+"name": "ITV",
+"tvg_id": "ITV.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8"
+},
+{
+"name": "NTK TV",
+"tvg_id": "NTKTV.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.ntktv.ua/s/ntk/ntk.m3u8"
+},
+{
+"name": "TVA",
+"tvg_id": "TVA.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8"
+},
+{
+"name": "TV7+",
+"tvg_id": "TV7Plus.ua",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://tv7plus.com/hls/tv7_site.m3u8"
+}
+]
+}

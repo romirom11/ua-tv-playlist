@@ -11,6 +11,7 @@
 """
 import hashlib
 import json
+import os
 import re
 import urllib.request
 
@@ -22,6 +23,7 @@ TR = str.maketrans({'а': 'a', 'б': 'b', 'в': 'v', 'г': 'h', 'ґ': 'g', 'д':
                     'ч': 'ch', 'ш': 'sh', 'щ': 'sch', 'ь': '', 'ю': 'yu', 'я': 'ya', 'ы': 'y', 'э': 'e',
                     'ё': 'e', 'ъ': ''})
 NEW_GROUP = 'Нові'
+CACHE_DIR = 'cache'  # останні успішно завантажені (вже відфільтровані) записи кожного джерела
 NOISE = r'\b(hd|fhd|uhd|sd|4k|tv|tb|тв|тб|telekanal|телеканал|orig|backup|резерв)\b'
 
 
@@ -66,23 +68,43 @@ def fetch(url):
         return r.read().decode('utf-8', errors='ignore')
 
 
+def write_if_changed(path, text):
+    if os.path.exists(path) and open(path).read() == text:
+        return
+    open(path, 'w').write(text)
+
+
 def main():
     channels = json.load(open('channels.json'))
     sources = [l.split() for l in open('sources.txt') if l.strip() and not l.startswith('#')]
     extra = json.load(open('extra_streams.json'))  # ручні потоки: {"tvg_id": ["url", ...]}
     ignore = {l.strip().lower() for l in open('ignore.txt') if l.strip() and not l.startswith('#')}
 
-    entries = []
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    entries, used_cache = [], set()
     for url, *opts in sources:
         opts = dict(o.split('=', 1) for o in opts)
+        cache = os.path.join(CACHE_DIR, hashlib.md5(url.encode()).hexdigest()[:12] + '.json')
         try:
             parsed = parse(fetch(url))
+            if 'match' in opts:  # регулярний вираз по рядку "group-title|назва"
+                parsed = [e for e in parsed if re.search(opts['match'], f"{e['group']}|{e['name']}")]
+            if not parsed:
+                raise ValueError('no entries')
+            write_if_changed(cache, json.dumps({'url': url, 'entries': parsed}, ensure_ascii=False, indent=0))
         except Exception as ex:
-            # не публікуємо неповний список — інакше m3u-editor видалить канали цього джерела
-            raise SystemExit(f'source failed: {url}: {ex}')
-        if 'match' in opts:  # регулярний вираз по рядку "group-title|назва"
-            parsed = [e for e in parsed if re.search(opts['match'], f"{e['group']}|{e['name']}")]
+            # не публікуємо неповний список — інакше m3u-editor видалить канали цього джерела;
+            # беремо останню успішну копію, а якщо її немає — падаємо
+            if not os.path.exists(cache):
+                raise SystemExit(f'source failed, no cache: {url}: {ex}')
+            print(f'::warning::source failed, using cached copy: {url}: {ex}')
+            parsed = json.load(open(cache))['entries']
+        used_cache.add(cache)
         entries += parsed
+
+    for f in os.listdir(CACHE_DIR):  # кеш джерел, яких більше немає в sources.txt
+        if os.path.join(CACHE_DIR, f) not in used_cache:
+            os.remove(os.path.join(CACHE_DIR, f))
 
     by_tvg, by_name = {}, {}
     for ch in channels:
@@ -127,7 +149,7 @@ def main():
                 lines.append(f'#EXTVLCOPT:http-referrer={e["ref"]}')
             lines.append(e['url'])
 
-    open('playlist.m3u', 'w').write('\n'.join(lines) + '\n')
+    write_if_changed('playlist.m3u', '\n'.join(lines) + '\n')
     with_streams = sum(1 for v in streams.values() if v)
     new = [c['name_ua'] for c in channels if c['group'] == NEW_GROUP]
     print(f'new: {new}')

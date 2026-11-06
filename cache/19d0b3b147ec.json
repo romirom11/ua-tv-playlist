@@ -1,0 +1,1149 @@
+{
+"url": "https://raw.githubusercontent.com/Dimonovich/TV/HEAD/.m3u",
+"entries": [
+{
+"name": "Россия 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8"
+},
+{
+"name": "Россия-К",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8"
+},
+{
+"name": "Россия 1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8"
+},
+{
+"name": "НТВ Хит",
+"tvg_id": "",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",
+"ref": null,
+"group": "",
+"url": "https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8"
+},
+{
+"name": "НТВ Сериал",
+"tvg_id": "",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",
+"ref": null,
+"group": "",
+"url": "https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8"
+},
+{
+"name": "НТВ-Право",
+"tvg_id": "",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",
+"ref": null,
+"group": "",
+"url": "https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8"
+},
+{
+"name": "НТВ Стиль",
+"tvg_id": "",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",
+"ref": null,
+"group": "",
+"url": "https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8"
+},
+{
+"name": "Известия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8"
+},
+{
+"name": "Смотрим 100% Любовь",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8"
+},
+{
+"name": "Смотрим 100% Мужское",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8"
+},
+{
+"name": "Смотрим 100% Классика",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8"
+},
+{
+"name": "Смотрим 100% Праздник",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8"
+},
+{
+"name": "Смотрим 100% Детское",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8"
+},
+{
+"name": "Смотрим 100% Факты",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8"
+},
+{
+"name": "Неизвестная Россия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8"
+},
+{
+"name": "Большая Азия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Техно 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Приключения HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Первый Космический",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Охотник и Рыболов HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Охота и Рыбалка",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Наша Сибирь",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Наука 2.0",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Моя Планета",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Живая Природа HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Глазами Туриста",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Вопросы и Ответы",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "В мире животных HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Animal Planet",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "viju Nature",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "viju History",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "viju Explore",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "NAT GEO WILD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "National Geographic",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Insight UHD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Точка-РФ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "История",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Живая Планета",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Усадьба",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Точка Отрыва",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Дикая охота HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1412/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Дикий",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Аква ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stitch.teletarget.ru/vintera/aquatv/index.m3u8"
+},
+{
+"name": "Terra Incognita",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stitch.teletarget.ru/vintera/terra/index.m3u8"
+},
+{
+"name": "Неизвестная планета",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8"
+},
+{
+"name": "Полёт ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stitch.teletarget.ru/vintera/flighttv/index.m3u8"
+},
+{
+"name": "Шоу Бенни Хилла",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мистер Бин",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba45/index.m3u8"
+},
+{
+"name": "Маша и медведь",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мультфильмы",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba80/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Твоё ТВ HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://tvoetv.space:8080/tvoetv/index.m3u8"
+},
+{
+"name": "Твоё ТВ - Юмор",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
+},
+{
+"name": "Русский Иллюзион",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://195.26.83.96:7006/play/a00y/index.m3u8"
+},
+{
+"name": "TV1000 Русское Кино",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мужское кино",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream3.cinerama.uz/1237/mono.m3u8"
+},
+{
+"name": "Кинопоказ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Наше Новое Кино",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Родное Кино",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Кинохит",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Киносерия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Киносемья",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Киносвидание",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Кинопремьера",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Киномикс",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Кинокомедия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Индийское Кино",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Капитан Фантастика",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Trace Sport Stars HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Uzreport HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "UzSport",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Setanta Sports 1 HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Setanta Sports 2 HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Матч! Планета",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Удар",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://5.188.159.128:8070/udar/index.m3u8"
+},
+{
+"name": "Кавказ 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/track_102_93b61749/chunklist.m3u8"
+},
+{
+"name": "Самара 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/track_105_c67f9dc0/chunklist.m3u8"
+},
+{
+"name": "Запад 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/track_105_6ee52196/chunklist.m3u8"
+},
+{
+"name": "Восток 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8"
+},
+{
+"name": "Сибирь 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8"
+},
+{
+"name": "Башкортостан 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/track_105_dd0cf289/chunklist.m3u8"
+},
+{
+"name": "Урал 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8"
+},
+{
+"name": "Нижний Новгород 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/track_105_a38f1be2/chunklist.m3u8"
+},
+{
+"name": "Краснодар",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8"
+},
+{
+"name": "Арктика 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8o"
+},
+{
+"name": "CHD-TV RU Rock HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://194.26.229.213/chdtv_ru_rock/index.m3u8"
+},
+{
+"name": "CHD-TV Rock",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://194.26.229.213/chdtv_rock/index.m3u8"
+},
+{
+"name": "СоюзМультфильм",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://194.26.229.213/souzmultfilm/index.m3u8"
+},
+{
+"name": "Чип и Дейл",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8"
+},
+{
+"name": "Blues Music",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Midnight Lust Music",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-midnightlustmusic/index.m3u8"
+},
+{
+"name": "Mafia",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-mafia/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Kpop Play TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-m4/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "City TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://tv.city.bg/play/tshls/citytv/2.m3u8"
+},
+{
+"name": "SKY Folk TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://eu.live.skyfolk.mk/live.m3u8"
+},
+{
+"name": "Banovina TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8"
+},
+{
+"name": "OF-TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8"
+},
+{
+"name": "AFN Music",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8"
+},
+{
+"name": "7X MUSIC",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.e2is.in/hls/7xMusic.m3u8"
+},
+{
+"name": "Euro Indie Music Chart TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
+},
+{
+"name": "Qello Concerts by Stingray",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Classic Rock",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Classica",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray CMusic",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray DJAZZ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Easy Listening",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Flashback 70s",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Hit List",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Holiday Hits",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Hot Country",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Karaoke",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Nothin' But 90s",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Pop Adult",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Remember the 80s",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Rock Alternative",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Romance Latino",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Smooth Jazz",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Soul Storm",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray The Spa",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Today's KPOP",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Today's Latin Pop",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Urban Beat",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Country Greats",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Cristian Pop & Rock",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-144ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Reggaeton",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-176ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Tik Tok Radio",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray MPB",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-204ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Hits Brasiletros",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-212ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Euro Hits",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Pop Mexicano 80S",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-218ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Época Dorada Delcine Mexicano",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Exitos Regional Mexicanos",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Y2K",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Soft Hits",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Thai Pop",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Stingray Greatest Hits",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lotus.stingray.com/manifest/ose-455ads-montreal/samsungtvplus/master.m3u8"
+},
+{
+"name": "Мода 1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-t8/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мода 2",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-m6/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мода 3",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-m7/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мода 4",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-m8/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мода 5",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-m9/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Мода 6",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-m1/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Fashion TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "Ai Video",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://lbgo.bozztv.com/07/ushba-aivideo/index.m3u8"
+}
+]
+}

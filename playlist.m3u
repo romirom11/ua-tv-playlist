@@ -2,53 +2,31 @@
 #EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1plus1-ukraina-a1a57125" tvg-chno="1" tvg-logo="https://iptvx.one/picons/1plus1-ukraina.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",1+1 Україна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1plus1-ukraina-6ed0fd14" tvg-chno="1" tvg-logo="https://iptvx.one/picons/1plus1-ukraina.png" group-title="Загальнонаціональні",1+1 Україна
-http://str2.iptvhd.ru:8080/1plus1/index.m3u8
 #EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1plus1-ukraina-29191ce0" tvg-chno="1" tvg-logo="https://iptvx.one/picons/1plus1-ukraina.png" group-title="Загальнонаціональні",1+1 Україна
 http://2.57.217.85:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1plus1-ukraina-a008a9ca" tvg-chno="1" tvg-logo="https://iptvx.one/picons/1plus1-ukraina.png" group-title="Загальнонаціональні",1+1 Україна
 http://iptv.prosto.tv:7000/ch1/video.m3u8
-#EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1plus1-ukraina-d4e88746" tvg-chno="1" tvg-logo="https://iptvx.one/picons/1plus1-ukraina.png" group-title="Загальнонаціональні",1+1 Україна
-https://play.lanet.tv/live/9002.m3u8
 #EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-ec54797e" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",2+2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-0b427c5b" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні",2+2
-http://str2.iptvhd.ru:8080/2plus2/index.m3u8
 #EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-6e624149" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні",2+2
 http://94.130.32.80/2plus2HD/index.m3u8?token=Home
-#EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-3bd06f6e" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні",2+2
-https://play.lanet.tv/live/9016.m3u8
-#EXTINF:-1 tvg-id="2plus2" tvg-name="2plus2-663e9fcf" tvg-chno="2" tvg-logo="https://iptvx.one/picons/2plus2.png" group-title="Загальнонаціональні",2+2
-http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829225/index.m3u8
 #EXTINF:-1 tvg-id="ictv-ua" tvg-name="ictv-ua-73dad224" tvg-chno="3" tvg-logo="https://iptvx.one/picons/ictv.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ICTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/158/index.m3u8
-#EXTINF:-1 tvg-id="ictv-ua" tvg-name="ictv-ua-e6416cc1" tvg-chno="3" tvg-logo="https://iptvx.one/picons/ictv.png" group-title="Загальнонаціональні",ICTV
-http://str2.iptvhd.ru:8080/ICTV/index.m3u8
 #EXTINF:-1 tvg-id="ictv-ua" tvg-name="ictv-ua-c9d0ea3b" tvg-chno="3" tvg-logo="https://iptvx.one/picons/ictv.png" group-title="Загальнонаціональні",ICTV
 http://51.15.176.84/hls/ictv-live/index.m3u8
-#EXTINF:-1 tvg-id="ictv-ua" tvg-name="ictv-ua-bb123b56" tvg-chno="3" tvg-logo="https://iptvx.one/picons/ictv.png" group-title="Загальнонаціональні",ICTV
-http://15.204.53.12:80/ictv/index.m3u8
 #EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ictv-ukraine-31dbddb8" tvg-chno="4" tvg-logo="https://iptvx.one/picons/ictv-ukraine.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",ICTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/368/index.m3u8
 #EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ictv-ukraine-2cce7d2a" tvg-chno="4" tvg-logo="https://iptvx.one/picons/ictv-ukraine.png" group-title="Загальнонаціональні",ICTV2
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ictv-ukraine-23ecaa32" tvg-chno="4" tvg-logo="https://iptvx.one/picons/ictv-ukraine.png" group-title="Загальнонаціональні",ICTV2
-http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829223/index.m3u8
 #EXTINF:-1 tvg-id="stb-ua" tvg-name="stb-ua-73db0daf" tvg-chno="5" tvg-logo="https://iptvx.one/picons/stb-ua.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",СТБ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/156/index.m3u8
-#EXTINF:-1 tvg-id="stb-ua" tvg-name="stb-ua-c48f7782" tvg-chno="5" tvg-logo="https://iptvx.one/picons/stb-ua.png" group-title="Загальнонаціональні",СТБ
-http://str2.iptvhd.ru:8080/STB/index.m3u8
-#EXTINF:-1 tvg-id="stb-ua" tvg-name="stb-ua-8a5c8875" tvg-chno="5" tvg-logo="https://iptvx.one/picons/stb-ua.png" group-title="Загальнонаціональні",СТБ
-https://play.lanet.tv/live/9007.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="inter-ua-f11fbca0" tvg-chno="6" tvg-logo="https://iptvx.one/picons/inter-ua.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Інтер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 tvg-id="inter-ua" tvg-name="inter-ua-8db15063" tvg-chno="6" tvg-logo="https://iptvx.one/picons/inter-ua.png" group-title="Загальнонаціональні",Інтер
-http://str2.iptvhd.ru:8080/Inter/index.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="inter-ua-d9202b73" tvg-chno="6" tvg-logo="https://iptvx.one/picons/inter-ua.png" group-title="Загальнонаціональні",Інтер
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="inter-ua-e556a867" tvg-chno="6" tvg-logo="https://iptvx.one/picons/inter-ua.png" group-title="Загальнонаціональні",Інтер
@@ -60,47 +38,29 @@ https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-id="novy-kanal-ua" tvg-name="novy-kanal-ua-3f820eba" tvg-chno="7" tvg-logo="https://iptvx.one/picons/novy-kanal-ua.png" group-title="Загальнонаціональні",Новий канал
 http://51.15.176.84/hls/novy-live/index.m3u8
-#EXTINF:-1 tvg-id="novy-kanal-ua" tvg-name="novy-kanal-ua-d807de1d" tvg-chno="7" tvg-logo="https://iptvx.one/picons/novy-kanal-ua.png" group-title="Загальнонаціональні",Новий канал
-https://play.lanet.tv/live/9006.m3u8
-#EXTINF:-1 tvg-id="novy-kanal-ua" tvg-name="novy-kanal-ua-a8656d46" tvg-chno="7" tvg-logo="https://iptvx.one/picons/novy-kanal-ua.png" group-title="Загальнонаціональні",Новий канал
-https://lowa8026-cmyk.github.io/Ukraine/Novy.m3u8
-#EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-a4130376" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-d76aaed2" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ТЕТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-5eab8a20" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
-http://str2.iptvhd.ru:8080/TET/index.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-b7c547db" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
 http://94.130.32.80/TETHD/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-ead3c4ea" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
 http://iptv.prosto.tv:7000/ch7/video.m3u8
-#EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-4ed686ab" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
-https://play.lanet.tv/live/9010.m3u8
-#EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-2ccd0b9e" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
-http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829226/index.m3u8
 #EXTINF:-1 tvg-id="tet-ua" tvg-name="tet-ua-84552280" tvg-chno="8" tvg-logo="https://iptvx.one/picons/tet.png" group-title="Загальнонаціональні",ТЕТ
 http://31.43.48.248:7000/ch7/video.m3u8
-#EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-db4b470d" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
-https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-88ac7521" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
 http://stream.mcquack.net/326/index.m3u8
-#EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-512c7c5f" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
-http://str2.iptvhd.ru:8080/NTN/index.m3u8
+#EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-db4b470d" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-b067eb64" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
 http://94.130.32.80/NTNHD/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-48dbf0dd" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
 https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8?bw986329639912.m3u8
-#EXTINF:-1 tvg-id="ntn-ua" tvg-name="ntn-ua-551d8d0e" tvg-chno="9" tvg-logo="https://iptvx.one/picons/ntn-ua.png" group-title="Загальнонаціональні",НТН
-http://195.189.196.44:8081/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="mega-ua" tvg-name="mega-ua-3550fdcc" tvg-chno="10" tvg-logo="https://iptvx.one/picons/mega-ua.png" group-title="Загальнонаціональні",Мега
-https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="mega-ua" tvg-name="mega-ua-a5bf484b" tvg-chno="10" tvg-logo="https://iptvx.one/picons/mega-ua.png" group-title="Загальнонаціональні",Мега
-http://stream.mcquack.net/325/index.m3u8
 #EXTINF:-1 tvg-id="mega-ua" tvg-name="mega-ua-987eabe2" tvg-chno="10" tvg-logo="https://iptvx.one/picons/mega-ua.png" group-title="Загальнонаціональні",Мега
 http://dtv.vol.net.ua/MEGA_HD/index.m3u8
-#EXTINF:-1 tvg-id="mega-ua" tvg-name="mega-ua-48626aff" tvg-chno="10" tvg-logo="https://iptvx.one/picons/mega-ua.png" group-title="Загальнонаціональні",Мега
-http://195.189.196.44:8081/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="mega-ua" tvg-name="mega-ua-a5bf484b" tvg-chno="10" tvg-logo="https://iptvx.one/picons/mega-ua.png" group-title="Загальнонаціональні",Мега
+http://stream.mcquack.net/325/index.m3u8
+#EXTINF:-1 tvg-id="mega-ua" tvg-name="mega-ua-3550fdcc" tvg-chno="10" tvg-logo="https://iptvx.one/picons/mega-ua.png" group-title="Загальнонаціональні",Мега
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="k1-ua" tvg-name="k1-ua-bcabdfe5" tvg-chno="11" tvg-logo="https://iptvx.one/picons/k1-ua.png" group-title="Загальнонаціональні",К1
 https://lowa8026-cmyk.github.io/Ukraine/K1.m3u8
 #EXTINF:-1 tvg-id="k1-ua" tvg-name="k1-ua-08337383" tvg-chno="11" tvg-logo="https://iptvx.one/picons/k1-ua.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",К1
@@ -110,16 +70,16 @@ http://stream.mcquack.net/270/index.m3u8
 http://94.130.32.80/K1HD/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="k1-ua" tvg-name="k1-ua-9fd6e3da" tvg-chno="11" tvg-logo="https://iptvx.one/picons/k1-ua.png" group-title="Загальнонаціональні",К1
 http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 tvg-id="k2-ua" tvg-name="k2-ua-b7d42546" tvg-chno="12" tvg-logo="https://iptvx.one/picons/k2-ua.png" group-title="Загальнонаціональні",К2
-https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="k2-ua" tvg-name="k2-ua-1fc2a0b2" tvg-chno="12" tvg-logo="https://iptvx.one/picons/k2-ua.png" group-title="Загальнонаціональні",К2
 http://stream.mcquack.net/324/index.m3u8
+#EXTINF:-1 tvg-id="k2-ua" tvg-name="k2-ua-b7d42546" tvg-chno="12" tvg-logo="https://iptvx.one/picons/k2-ua.png" group-title="Загальнонаціональні",К2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="k2-ua" tvg-name="k2-ua-4179f558" tvg-chno="12" tvg-logo="https://iptvx.one/picons/k2-ua.png" group-title="Загальнонаціональні",К2
 http://94.130.32.80/MTVLiveHD/index.m3u8?token=Home
-#EXTINF:-1 tvg-id="dom" tvg-name="dom-1ece4e05" tvg-chno="13" tvg-logo="https://iptvx.one/picons/dom.png" group-title="Загальнонаціональні",Дім
-https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 tvg-id="dom" tvg-name="dom-344554a9" tvg-chno="13" tvg-logo="https://iptvx.one/picons/dom.png" group-title="Загальнонаціональні",Дім
 http://stream.mcquack.net/383/index.m3u8
+#EXTINF:-1 tvg-id="dom" tvg-name="dom-1ece4e05" tvg-chno="13" tvg-logo="https://iptvx.one/picons/dom.png" group-title="Загальнонаціональні",Дім
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 tvg-id="dom" tvg-name="dom-9f601380" tvg-chno="13" tvg-logo="https://iptvx.one/picons/dom.png" group-title="Загальнонаціональні",Дім
 http://94.130.32.80/DIMHD/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="dom" tvg-name="dom-1746e84f" tvg-chno="13" tvg-logo="https://iptvx.one/picons/dom.png" group-title="Загальнонаціональні",Дім
@@ -134,8 +94,6 @@ https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=1plus1international
 #EXTINF:-1 tvg-id="1plus1-int" tvg-name="1plus1-int-b94c7051" tvg-chno="16" tvg-logo="https://iptvx.one/picons/1plus1-int.png" group-title="Загальнонаціональні",1+1 International
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="1plus1-int" tvg-name="1plus1-int-e2b4d880" tvg-chno="16" tvg-logo="https://iptvx.one/picons/1plus1-int.png" group-title="Загальнонаціональні",1+1 International
-http://88.212.15.19/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kyiv-ua" tvg-name="kyiv-ua-377dd9cb" tvg-chno="17" tvg-logo="https://iptvx.one/picons/kyiv-ua.png" group-title="Загальнонаціональні",Київ
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="kyiv-ua" tvg-name="kyiv-ua-8dfa3956" tvg-chno="17" tvg-logo="https://iptvx.one/picons/kyiv-ua.png" group-title="Загальнонаціональні",Київ
@@ -148,13 +106,10 @@ http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="ua-pershy" tvg-name="ua-pershy-6e3f685b" tvg-chno="18" tvg-logo="https://iptvx.one/picons/ua-pershy.png" group-title="Новини",Суспільне Перший
 https://tva.in.ua/live/first.m3u8
-#EXTINF:-1 tvg-id="ua-pershy" tvg-name="ua-pershy-46a153d6" tvg-chno="18" tvg-logo="https://iptvx.one/picons/ua-pershy.png" group-title="Новини" http-user-agent="curl/8.16.0",Суспільне Перший
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:-1 tvg-id="ua-pershy" tvg-name="ua-pershy-80fe4d54" tvg-chno="18" tvg-logo="https://iptvx.one/picons/ua-pershy.png" group-title="Новини",Суспільне Перший
-http://api.tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="ua-pershy" tvg-name="ua-pershy-ffa4af85" tvg-chno="18" tvg-logo="https://iptvx.one/picons/ua-pershy.png" group-title="Новини",Суспільне Перший
 http://play.lanet.tv/live/9921.m3u8
+#EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-e6887632" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини",Рада
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-0b38c034" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини",Рада
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="rada-ua-af530e73" tvg-chno="19" tvg-logo="https://iptvx.one/picons/rada-ua.png" group-title="Новини",Рада
@@ -173,10 +128,6 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
 #EXTINF:-1 tvg-id="24news-ua" tvg-name="24news-ua-ca5d1677" tvg-chno="20" tvg-logo="https://iptvx.one/picons/24news-ua.png" group-title="Новини",24 Канал
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="24news-ua" tvg-name="24news-ua-47b92720" tvg-chno="20" tvg-logo="https://iptvx.one/picons/24news-ua.png" group-title="Новини",24 Канал
-https://streamvideol1.luxnet.ua/news24/livenews.m3u8
-#EXTINF:-1 tvg-id="24news-ua" tvg-name="24news-ua-ddba7c57" tvg-chno="20" tvg-logo="https://iptvx.one/picons/24news-ua.png" group-title="Новини",24 Канал
-http://94.131.248.100/news24/livenews.m3u8
 #EXTINF:-1 tvg-id="24news-ua" tvg-name="24news-ua-ba2f3fb7" tvg-chno="20" tvg-logo="https://iptvx.one/picons/24news-ua.png" group-title="Новини",24 Канал
 http://streamvideol.luxnet.ua/news24/news24.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="24news-ua" tvg-name="24news-ua-e25939f8" tvg-chno="20" tvg-logo="https://iptvx.one/picons/24news-ua.png" group-title="Новини",24 Канал
@@ -192,12 +143,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 https://776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D
 #EXTINF:-1 tvg-id="1plus1" tvg-name="1plus1-4e60b31b" tvg-chno="22" tvg-logo="https://iptvx.one/picons/1plus1.png" group-title="Новини",Єдині новини (Марафон)
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
-#EXTINF:-1 tvg-id="1plus1" tvg-name="1plus1-a19628dd" tvg-chno="22" tvg-logo="https://iptvx.one/picons/1plus1.png" group-title="Новини",Єдині новини (Марафон)
-https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
 #EXTINF:-1 tvg-id="1plus1" tvg-name="1plus1-8a857105" tvg-chno="22" tvg-logo="https://iptvx.one/picons/1plus1.png" group-title="Новини",Єдині новини (Марафон)
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 tvg-id="1plus1" tvg-name="1plus1-0843268d" tvg-chno="22" tvg-logo="https://iptvx.one/picons/1plus1.png" group-title="Новини",Єдині новини (Марафон)
-http://88.212.15.19/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-name="ua-tv-05898f69" tvg-chno="23" tvg-logo="https://iptvx.one/picons/ua-tv.png" group-title="Новини",FREEДОМ
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-name="ua-tv-4d8d5626" tvg-chno="23" tvg-logo="https://iptvx.one/picons/ua-tv.png" group-title="Новини",FREEДОМ
@@ -216,8 +163,6 @@ https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 tvg-id="espreso-tv" tvg-name="espreso-tv-c243f7c5" tvg-chno="24" tvg-logo="https://iptvx.one/picons/espreso-tv.png" group-title="Новини",Еспресо
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 tvg-id="espreso-tv" tvg-name="espreso-tv-8df0e4cd" tvg-chno="24" tvg-logo="https://iptvx.one/picons/espreso-tv.png" group-title="Новини",Еспресо
-http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8
 #EXTINF:-1 tvg-id="espreso-tv" tvg-name="espreso-tv-ac1d0194" tvg-chno="24" tvg-logo="https://iptvx.one/picons/espreso-tv.png" group-title="Новини",Еспресо
 https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
 #EXTINF:-1 tvg-id="apostrof" tvg-name="apostrof-1f801aa2" tvg-chno="25" tvg-logo="https://iptvx.one/picons/apostrof.png" group-title="Новини" http-user-agent="curl/8.16.0",Апостроф TV
@@ -256,13 +201,9 @@ https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="setanta-plus-ua-ce2170be" tvg-chno="34" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Setanta Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="setanta-plus-ua-bbeb92cc" tvg-chno="34" tvg-logo="https://iptvx.one/picons/setanta-plus-ua.png" group-title="Спорт",Setanta Sports+
-http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8
 #EXTINF:-1 tvg-id="sport1-ua" tvg-name="sport1-ua-a8cc2f49" tvg-chno="35" tvg-logo="https://iptvx.one/picons/sport1ua.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Спорт 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/391/index.m3u8
-#EXTINF:-1 tvg-id="sport1-ua" tvg-name="sport1-ua-266e2012" tvg-chno="35" tvg-logo="https://iptvx.one/picons/sport1ua.png" group-title="Спорт",Спорт 1
-http://str2.iptvhd.ru:8080/sport1/index.m3u8
 #EXTINF:-1 tvg-id="sport2-ua" tvg-name="sport2-ua-6fc6008c" tvg-chno="36" tvg-logo="https://iptvx.one/picons/sport2ua.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Спорт 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
@@ -307,9 +248,6 @@ http://cdnua05.hls.tv/947/hls/8743361621b245838bee193c9ec28322/4807/stream.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-dbcdc4cd" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8
-#EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-cf0ed266" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-2104909b" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="setanta-sports-525aaf4a" tvg-chno="49" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1
@@ -351,8 +289,6 @@ http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 tvg-id="enter-film" tvg-name="enter-film-41b5f27f" tvg-chno="58" tvg-logo="https://iptvx.one/picons/enter-film.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Enter-фільм
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 tvg-id="enter-film" tvg-name="enter-film-95bbd8d6" tvg-chno="58" tvg-logo="https://iptvx.one/picons/enter-film.png" group-title="Кіно",Enter-фільм
-http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="filmua-drama-95bd264e" tvg-chno="59" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",FilmUA Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.99.215.227/FilmUADrama/index.m3u8
@@ -372,66 +308,64 @@ http://stream.mcquack.net/259/index.m3u8
 http://cdnua05.hls.tv/923/hls/8743361621b245838bee193c9ec28322/4837/stream.m3u8
 #EXTINF:-1 tvg-id="4ever-drama" tvg-name="4ever-drama-38ab2aa0" tvg-chno="63" tvg-logo="https://iptvx.one/picons/4ever-drama.png" group-title="Кіно",4ever Drama
 http://stream.mcquack.net/260/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-26e6be21" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно",Viasat Kino
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-5acf476c" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-bb451e02" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",Viasat Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
-#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-52cbc416" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
-#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-26e6be21" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно",Viasat Kino
-http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-3e5391ff" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно",Viasat Kino
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-c9a3519e" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно",Viasat Kino
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
 #EXTINF:-1 tvg-id="tv1000-cee" tvg-name="tv1000-cee-b5c2e377" tvg-chno="64" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="Кіно",Viasat Kino
 http://cdnua05.hls.tv/538/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
-#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="tv1000-action-cee-11705457" tvg-chno="65" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
 #EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="tv1000-action-cee-c416c831" tvg-chno="65" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кіно",Viasat Kino Action
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="tv1000-action-cee-59c06e99" tvg-chno="65" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn
 #EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="tv1000-action-cee-aa7d3510" tvg-chno="65" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кіно",Viasat Kino Action
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
 #EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="tv1000-action-cee-ef694a7a" tvg-chno="65" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="Кіно",Viasat Kino Action
 http://cdnua05.hls.tv/535/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="vip-comedy-cee-b78af79a" tvg-chno="66" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino Comedy
+#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="vip-comedy-cee-354abfa1" tvg-chno="66" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="vip-comedy-cee-4ef41137" tvg-chno="66" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кіно",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="vip-comedy-cee-15a1e366" tvg-chno="66" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кіно",Viasat Kino Comedy
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="vip-comedy-cee-5401b0e6" tvg-chno="66" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="Кіно",Viasat Kino Comedy
 http://cdnua05.hls.tv/537/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="tv1000-worldkino-018bc5ff" tvg-chno="67" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino World
+#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="tv1000-worldkino-fe3ff114" tvg-chno="67" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Kino World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="tv1000-worldkino-a58fc41c" tvg-chno="67" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Кіно",Viasat Kino World
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="tv1000-worldkino-a4993ddf" tvg-chno="67" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="Кіно",Viasat Kino World
 http://cdnua05.hls.tv/948/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
-#EXTINF:-1 tvg-id="cine-plus" tvg-name="cine-plus-34e2be00" tvg-chno="68" tvg-logo="https://iptvx.one/picons/cine-plus.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+
+#EXTINF:-1 tvg-id="cine-plus" tvg-name="cine-plus-4dd3c66f" tvg-chno="68" tvg-logo="https://iptvx.one/picons/cine-plus.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567
+http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR
 #EXTINF:-1 tvg-id="cine-plus" tvg-name="cine-plus-d62aa466" tvg-chno="68" tvg-logo="https://iptvx.one/picons/cine-plus.png" group-title="Кіно",Cine+
 http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
 #EXTINF:-1 tvg-id="cine-plus" tvg-name="cine-plus-0fcca0ff" tvg-chno="68" tvg-logo="https://iptvx.one/picons/cine-plus.png" group-title="Кіно",Cine+
 http://cdnua05.hls.tv/932/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
-#EXTINF:-1 tvg-id="cine-plus-hit-hd" tvg-name="cine-plus-hit-hd-ab29ebc6" tvg-chno="69" tvg-logo="https://iptvx.one/picons/cine-plus-hit-hd.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+ Hit
+#EXTINF:-1 tvg-id="cine-plus-hit-hd" tvg-name="cine-plus-hit-hd-89f6e8c9" tvg-chno="69" tvg-logo="https://iptvx.one/picons/cine-plus-hit-hd.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+ Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
-#EXTINF:-1 tvg-id="cine-plus-ledend" tvg-name="cine-plus-ledend-24f404e3" tvg-chno="70" tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+ Legend
+http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==
+#EXTINF:-1 tvg-id="cine-plus-ledend" tvg-name="cine-plus-ledend-1d9ac61d" tvg-chno="70" tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+ Legend
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
+http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
 #EXTINF:-1 tvg-id="cine-plus-ledend" tvg-name="cine-plus-ledend-af5eb6d0" tvg-chno="70" tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" group-title="Кіно",Cine+ Legend
 http://193.27.209.122/cine_plus_legend/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="hollywood-822c0d5f" tvg-chno="71" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="Кіно",Hollywood
@@ -447,10 +381,10 @@ http://stream.mcquack.net/449/index.m3u8
 http://95.67.12.82:9083
 #EXTINF:-1 tvg-id="continent-e" tvg-name="continent-e-f2f5a8fe" tvg-chno="73" tvg-logo="https://iptvx.one/picons/continent-e.png" group-title="Кіно",Continent E
 http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4834/stream.m3u8
-#EXTINF:-1 tvg-id="luxtv" tvg-name="luxtv-997f73ea" tvg-chno="74" tvg-logo="https://iptvx.one/picons/luxtv.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Lux TV
+#EXTINF:-1 tvg-id="luxtv" tvg-name="luxtv-3bae5a32" tvg-chno="74" tvg-logo="https://iptvx.one/picons/luxtv.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Lux TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84&channel=431
+http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="vip-megahit-34a4d7e3" tvg-chno="75" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Кіно",Viasat Kino Megahit
 http://2.57.217.85:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="vip-megahit-6d18b82f" tvg-chno="75" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Кіно",Viasat Kino Megahit
@@ -473,19 +407,19 @@ http://stream.mcquack.net/466/index.m3u8
 http://stream.mcquack.net/341/index.m3u8
 #EXTINF:-1 tvg-id="unian-serial" tvg-name="unian-serial-dee9d8ab" tvg-chno="80" group-title="Серіали",УНІАН Серіал
 http://94.130.32.80/UNIANSerial/index.m3u8?token=Home
-#EXTINF:-1 tvg-id="viasat-serial" tvg-name="viasat-serial-a2aec840" tvg-chno="81" tvg-logo="https://iptvx.one/picons/viasat-serial.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Serial
+#EXTINF:-1 tvg-id="viasat-serial" tvg-name="viasat-serial-2d7139d6" tvg-chno="81" tvg-logo="https://iptvx.one/picons/viasat-serial.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Serial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 #EXTINF:-1 tvg-id="sonce-ua" tvg-name="sonce-ua-78f83cfc" tvg-chno="82" tvg-logo="https://iptvx.one/picons/sonce-ua.png" group-title="Серіали" http-user-agent="curl/8.16.0",Сонце
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
 #EXTINF:-1 tvg-id="sonce-ua" tvg-name="sonce-ua-bb55df7e" tvg-chno="82" tvg-logo="https://iptvx.one/picons/sonce-ua.png" group-title="Серіали",Сонце
 https://tva.in.ua/live/sonce.m3u8
-#EXTINF:-1 tvg-id="sonce-plus-ua" tvg-name="sonce-plus-ua-2b08b8c9" tvg-chno="83" tvg-logo="https://iptvx.one/picons/sonce-plus-ua.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Сонце+
+#EXTINF:-1 tvg-id="sonce-plus-ua" tvg-name="sonce-plus-ua-521ca0e4" tvg-chno="83" tvg-logo="https://iptvx.one/picons/sonce-plus-ua.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Сонце+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103
+http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn
 #EXTINF:-1 tvg-id="islandiya" tvg-name="islandiya-97ea2fcf" tvg-chno="84" tvg-logo="https://iptvx.one/picons/islandiya.png" group-title="Серіали",Ісландія
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="lale" tvg-name="lale-a7766581" tvg-chno="85" tvg-logo="https://iptvx.one/picons/lale.png" group-title="Серіали" http-user-agent="curl/8.16.0",Lale
@@ -498,20 +432,16 @@ http://stream.mcquack.net/464/index.m3u8
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-e24d7f37" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",RAZ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=kvartal95
-#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-cb607bd1" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали",RAZ 3
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-1f565187" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",RAZ 3
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-b812e88f" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",RAZ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
-#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-8ffbf074" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали",RAZ 3
-http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8
+http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-cb607bd1" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали",RAZ 3
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-1b152c03" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали",RAZ 3
 http://94.130.32.80/KvartalTV/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-facb8490" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали",RAZ 3
 http://iptv.prosto.tv:7000/ch65/video.m3u8
-#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-a268511b" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали",RAZ 3
-http://88.212.15.19/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="super-plus" tvg-name="super-plus-24aafd75" tvg-chno="89" group-title="Серіали",Super+
 http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1 tvg-id="simejny-melodramy-plus-ua" tvg-name="simejny-melodramy-plus-ua-10017500" tvg-chno="90" tvg-logo="https://iptvx.one/picons/simejny-melodramy-plus-ua.png" group-title="Серіали",Сімейні мелодрами+
@@ -534,18 +464,12 @@ http://cdnua05.hls.tv/0949/hls/8743361621b245838bee193c9ec28322/4882/stream.m3u8
 http://cdnua05.hls.tv/210/hls/f62d71219200da4130d13b21d23fb23c/4902/stream.m3u8
 #EXTINF:-1 tvg-id="epik-drama" tvg-name="epik-drama-6d293cd1" tvg-chno="96" tvg-logo="https://iptvx.one/picons/epik-drama.png" group-title="Серіали",Viasat Epic Drama
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 tvg-id="viasat-true-crime-cee" tvg-name="viasat-true-crime-cee-499959c5" tvg-chno="97" tvg-logo="https://iptvx.one/picons/viasat-true-crime-cee.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat True Crime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMjgvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3MDczMDImc3Q9ZzIyOUNTdUZudUd6dm9UbkJNNzJ6dw%3D%3D&master=1091
 #EXTINF:-1 tvg-id="zoom-ua" tvg-name="zoom-ua-3718eedb" tvg-chno="98" tvg-logo="https://iptvx.one/picons/zoom-ua.png" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Zoom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/327/index.m3u8
 #EXTINF:-1 tvg-id="otse" tvg-name="otse-b3c3abc8" tvg-chno="99" tvg-logo="https://iptvx.one/picons/otse.png" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",OTSE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-id="otse" tvg-name="otse-477dbfc7" tvg-chno="99" tvg-logo="https://iptvx.one/picons/otse.png" group-title="Розважальні",OTSE
-http://93.113.203.152/iptv/XVU58NBPX2LUMP/6380/index.m3u8
 #EXTINF:-1 tvg-id="bigudi" tvg-name="bigudi-88589a31" tvg-chno="100" tvg-logo="https://iptvx.one/picons/bigudi.png" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Бігуді
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/340/index.m3u8
@@ -562,87 +486,73 @@ http://stream.mcquack.net/147/index.m3u8
 http://stream.mcquack.net/398/index.m3u8
 #EXTINF:-1 tvg-id="36-6-tv" tvg-name="36-6-tv-09b13b4f" tvg-chno="104" group-title="Розважальні",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="konkurent" tvg-name="konkurent-be62b881" tvg-chno="105" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Konkurent
+#EXTINF:-1 tvg-id="konkurent" tvg-name="konkurent-6581bd4f" tvg-chno="105" group-title="Розважальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Konkurent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==&master=311
+http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==
 #EXTINF:-1 tvg-id="kultura-ua" tvg-name="kultura-ua-a3885c37" tvg-chno="106" tvg-logo="https://iptvx.one/picons/kultura-ua.png" group-title="Пізнавальні",Суспільне Культура
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-id="kultura-ua" tvg-name="kultura-ua-3d16c929" tvg-chno="106" tvg-logo="https://iptvx.one/picons/kultura-ua.png" group-title="Пізнавальні",Суспільне Культура
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="viasat-history-66b87567" tvg-chno="107" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="viasat-history-73e1c032" tvg-chno="107" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="viasat-history-cc5bc417" tvg-chno="107" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Пізнавальні",Viasat History
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
+http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="viasat-history-1b7e5884" tvg-chno="107" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Пізнавальні",Viasat History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="viasat-history-0a72fefe" tvg-chno="107" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Пізнавальні",Viasat History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-name="viasat-explore-f552f17d" tvg-chno="108" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Explore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="viasat-explore-fc5fce73" tvg-chno="108" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Пізнавальні",Viasat Explore
 http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="viasat-explore-7b571e38" tvg-chno="108" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?master=79&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw==
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="viasat-explore-ed341a9d" tvg-chno="108" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Пізнавальні",Viasat Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="viasat-explore-c832315c" tvg-chno="108" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Пізнавальні",Viasat Explore
 http://iptv.prosto.tv:7000/ch85/video.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="viasat-explore-325bfbe8" tvg-chno="108" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Пізнавальні",Viasat Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="viasat-nature-e7f7cd97" tvg-chno="109" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="viasat-nature-94185bc9" tvg-chno="109" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
+http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw==
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="viasat-nature-316c26aa" tvg-chno="109" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Пізнавальні",Viasat Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="viasat-nature-20d888fb" tvg-chno="109" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Пізнавальні",Viasat Nature
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="viasat-nature-6aed16a2" tvg-chno="109" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Пізнавальні",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild-pl" tvg-name="nat-geo-wild-pl-6ac92b06" tvg-chno="110" tvg-logo="https://iptvx.one/picons/nat-geo-wild-pl.png" group-title="Пізнавальні",National Geographic Wild
+http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild-pl" tvg-name="nat-geo-wild-pl-581f289d" tvg-chno="110" tvg-logo="https://iptvx.one/picons/nat-geo-wild-pl.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://46.32.176.50/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild-pl" tvg-name="nat-geo-wild-pl-f2209fcb" tvg-chno="110" tvg-logo="https://iptvx.one/picons/nat-geo-wild-pl.png" group-title="Пізнавальні",National Geographic Wild
-http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild-pl" tvg-name="nat-geo-wild-pl-98f57442" tvg-chno="110" tvg-logo="https://iptvx.one/picons/nat-geo-wild-pl.png" group-title="Пізнавальні",National Geographic Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="history" tvg-name="history-400b1d75" tvg-chno="111" group-title="Пізнавальні",History
 http://dtv.vol.net.ua/History_HD/index.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="history-141c4d37" tvg-chno="111" group-title="Пізнавальні",History
-https://open-cdn.lanet.tv/live/9054.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="history-ef4ecfd4" tvg-chno="111" group-title="Пізнавальні",History
-https://s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 tvg-id="history-2" tvg-name="history-2-7eca1084" tvg-chno="112" group-title="Пізнавальні",History 2
 http://dtv.vol.net.ua/H2-HD/index.m3u8
-#EXTINF:-1 tvg-id="history-2" tvg-name="history-2-49c887eb" tvg-chno="112" group-title="Пізнавальні",History 2
-https://s70378.cdn.ngenix.net/history_2/1/index.m3u8
 #EXTINF:-1 tvg-id="nauka" tvg-name="nauka-97f99139" tvg-chno="113" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Наука
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1 tvg-id="nauka" tvg-name="nauka-c5c3e640" tvg-chno="113" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="Пізнавальні",Наука
-https://open-cdn.lanet.tv/live/9214.m3u8
 #EXTINF:-1 tvg-id="fauna" tvg-name="fauna-49abec72" tvg-chno="114" tvg-logo="https://iptvx.one/picons/fauna.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Фауна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1 tvg-id="fauna" tvg-name="fauna-8cf1b6af" tvg-chno="114" tvg-logo="https://iptvx.one/picons/fauna.png" group-title="Пізнавальні",Фауна
 http://iptv.prosto.tv:7000/ch95/video.m3u8
-#EXTINF:-1 tvg-id="fauna" tvg-name="fauna-78791dae" tvg-chno="114" tvg-logo="https://iptvx.one/picons/fauna.png" group-title="Пізнавальні",Фауна
-https://open-cdn.lanet.tv/live/9212.m3u8
 #EXTINF:-1 tvg-id="terra" tvg-name="terra-aa460680" tvg-chno="115" tvg-logo="https://iptvx.one/picons/tera.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Терра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="terra" tvg-name="terra-64318f0a" tvg-chno="115" tvg-logo="https://iptvx.one/picons/tera.png" group-title="Пізнавальні",Терра
 http://iptv.prosto.tv:7000/ch101/video.m3u8
-#EXTINF:-1 tvg-id="terra" tvg-name="terra-d088c323" tvg-chno="115" tvg-logo="https://iptvx.one/picons/tera.png" group-title="Пізнавальні",Терра
-https://open-cdn.lanet.tv/live/9213.m3u8
+#EXTINF:-1 tvg-id="one-planet" tvg-name="one-planet-4afc8cf8" tvg-chno="116" tvg-logo="https://iptvx.one/picons/one-planet.png" group-title="Пізнавальні",One Planet
+http://dtv.vol.net.ua/OnePlanet/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="one-planet-4273a07d" tvg-chno="116" tvg-logo="https://iptvx.one/picons/one-planet.png" group-title="Пізнавальні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",One Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/448/index.m3u8
-#EXTINF:-1 tvg-id="one-planet" tvg-name="one-planet-4afc8cf8" tvg-chno="116" tvg-logo="https://iptvx.one/picons/one-planet.png" group-title="Пізнавальні",One Planet
-http://dtv.vol.net.ua/OnePlanet/index.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="one-planet-fcca56d2" tvg-chno="116" tvg-logo="https://iptvx.one/picons/one-planet.png" group-title="Пізнавальні",One Planet
 http://cdnua05.hls.tv/915/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
 #EXTINF:-1 tvg-id="one-planet" tvg-name="one-planet-7b79fde6" tvg-chno="116" tvg-logo="https://iptvx.one/picons/one-planet.png" group-title="Пізнавальні",One Planet
@@ -673,8 +583,6 @@ http://cdnua05.hls.tv/0538/hls/8743361621b245838bee193c9ec28322/4886/stream.m3u8
 #EXTINF:-1 tvg-id="chemodan" tvg-name="chemodan-aee980c9" tvg-chno="124" tvg-logo="https://iptvx.one/picons/chemodan.png" group-title="Хобі та подорожі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Чемодан TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/399/index.m3u8
-#EXTINF:-1 tvg-id="utravel" tvg-name="utravel-8dfb0b6d" tvg-chno="125" tvg-logo="https://iptvx.one/picons/utravel.png" group-title="Хобі та подорожі",U Travel
-http://str2.iptvhd.ru:8080/travel/index.m3u8
 #EXTINF:-1 tvg-id="1auto" tvg-name="1auto-72bf3113" tvg-chno="126" tvg-logo="https://iptvx.one/picons/1auto.png" group-title="Хобі та подорожі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Перший автомобільний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/404/index.m3u8
@@ -696,8 +604,6 @@ http://iptv.prosto.tv:7000/ch92/video.m3u8
 http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-id="trofey" tvg-name="trofey-36c6a97c" tvg-chno="129" tvg-logo="https://iptvx.one/picons/trofey.png" group-title="Хобі та подорожі",Трофей
 http://iptv.prosto.tv:7000/ch89/video.m3u8
-#EXTINF:-1 tvg-id="trofey" tvg-name="trofey-5f060783" tvg-chno="129" tvg-logo="https://iptvx.one/picons/trofey.png" group-title="Хобі та подорожі",Трофей
-https://open-cdn.lanet.tv/live/9115.m3u8
 #EXTINF:-1 tvg-id="rybalka" tvg-name="rybalka-98e3a9d4" tvg-chno="130" tvg-logo="https://iptvx.one/picons/rybalka.png" group-title="Хобі та подорожі",Рибалка
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="rybalka" tvg-name="rybalka-7ef04618" tvg-chno="130" tvg-logo="https://iptvx.one/picons/rybalka.png" group-title="Хобі та подорожі",Рибалка
@@ -706,16 +612,16 @@ http://iptv.prosto.tv:7000/ch344/video.m3u8
 https://176.116.105.82/Rybalka_HD/index.m3u8
 #EXTINF:-1 tvg-id="rybalka" tvg-name="rybalka-a2d7b2e2" tvg-chno="130" tvg-logo="https://iptvx.one/picons/rybalka.png" group-title="Хобі та подорожі",Рибалка
 http://iptv.prosto.tv:7000/ch88/video.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-5c02b8ee" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
-http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-a374a1f7" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
 http://stream.mcquack.net/288/index.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-5c02b8ee" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
+http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-98b0b84a" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
 https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pixel" tvg-name="pixel-e7f613d9" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
-https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="pixel" tvg-name="pixel-60f5039d" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
 http://stream.mcquack.net/323/index.m3u8
+#EXTINF:-1 tvg-id="pixel" tvg-name="pixel-e7f613d9" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="pixel" tvg-name="pixel-b28e379f" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
 http://94.130.32.80/PikselHD/index.m3u8?token=Home
 #EXTINF:-1 tvg-id="pixel" tvg-name="pixel-68ddc82c" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
@@ -733,23 +639,23 @@ http://2.57.217.85:8000/play/a08f/index.m3u8
 http://iptv.prosto.tv:7000/ch71/video.m3u8
 #EXTINF:-1 tvg-id="niki-kids" tvg-name="niki-kids-b8ff5dca" tvg-chno="134" tvg-logo="https://iptvx.one/picons/niki-kids.png" group-title="Дитячі",Niki Kids
 http://iptv.prosto.tv:7000/ch75/video.m3u8
+#EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-1b6bb5a8" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
+http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-16c258d2" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Niki Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=nikijunior
-#EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-1b6bb5a8" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
-http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-734fce90" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
 http://2.57.217.85:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-4bca5f07" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
 http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-f0c7a480" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
 http://iptv.prosto.tv:7000/ch76/video.m3u8
-#EXTINF:-1 tvg-id="cine-plus-kids" tvg-name="cine-plus-kids-39f1a4b3" tvg-chno="136" tvg-logo="https://iptvx.one/picons/cine-plus-kids.png" group-title="Дитячі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+ Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
 #EXTINF:-1 tvg-id="cine-plus-kids" tvg-name="cine-plus-kids-bac82249" tvg-chno="136" tvg-logo="https://iptvx.one/picons/cine-plus-kids.png" group-title="Дитячі",Cine+ Kids
 http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="cine-plus-kids" tvg-name="cine-plus-kids-d14cb51d" tvg-chno="136" tvg-logo="https://iptvx.one/picons/cine-plus-kids.png" group-title="Дитячі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",Cine+ Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?master=540&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ==
 #EXTINF:-1 tvg-id="kus-kus" tvg-name="kus-kus-38a36844" tvg-chno="137" tvg-logo="https://iptvx.one/picons/kus-kus.png" group-title="Дитячі",Кус-Кус
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="kus-kus" tvg-name="kus-kus-a04bd67b" tvg-chno="137" tvg-logo="https://iptvx.one/picons/kus-kus.png" group-title="Дитячі",Кус-Кус
@@ -757,14 +663,14 @@ http://iptv.prosto.tv:7000/ch103/video.m3u8
 #EXTINF:-1 tvg-id="kinokazka" tvg-name="kinokazka-909ec72c" tvg-chno="138" tvg-logo="https://iptvx.one/picons/kinokazka.png" group-title="Дитячі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",KinoKazka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-8d93da17" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні",M1
+http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-895d9d8f" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-f867758d" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-8d93da17" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні",M1
-http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-f29597f0" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні",M1
 http://live.m2.tv/hls2/stream.m3u8
 #EXTINF:-1 tvg-id="m2-ua" tvg-name="m2-ua-b2de68be" tvg-chno="140" tvg-logo="https://iptvx.one/picons/m2-ua.png" group-title="Музичні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",M2
@@ -801,13 +707,11 @@ http://stream.mcquack.net/285/index.m3u8
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 tvg-id="nadia" tvg-name="nadia-ea9ea430" tvg-chno="149" tvg-logo="https://iptvx.one/picons/nadia.png" group-title="Релігійні",Надія
 https://lowa8026-cmyk.github.io/Ukraine/Nadiya.m3u8
-#EXTINF:-1 tvg-id="nadia" tvg-name="nadia-a8a28bd8" tvg-chno="149" tvg-logo="https://iptvx.one/picons/nadia.png" group-title="Релігійні",Надія
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-id="nadia" tvg-name="nadia-62993a77" tvg-chno="149" tvg-logo="https://iptvx.one/picons/nadia.png" group-title="Релігійні" http-user-agent="curl/8.16.0",Надія
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
-#EXTINF:-1 tvg-id="nadia" tvg-name="nadia-5a228f65" tvg-chno="149" tvg-logo="https://iptvx.one/picons/nadia.png" group-title="Релігійні",Надія
-https://jstre.am/live/jsl:uKe2xEgS5IL.m3u8
+#EXTINF:-1 tvg-id="nadia" tvg-name="nadia-a8a28bd8" tvg-chno="149" tvg-logo="https://iptvx.one/picons/nadia.png" group-title="Релігійні",Надія
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-id="glas" tvg-name="glas-ab0a76ff" tvg-chno="150" group-title="Релігійні",Глас
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="tbn-ukraina" tvg-name="tbn-ukraina-addbd924" tvg-chno="151" group-title="Релігійні",TBN Україна
@@ -818,11 +722,11 @@ https://stream.rai.ua/rai/stream.m3u8
 http://92.253.233.136/uploads/playlist.m3u8
 #EXTINF:-1 tvg-id="ewtn-ua" tvg-name="ewtn-ua-2d705943" tvg-chno="153" tvg-logo="https://iptvx.one/picons/ewtn-ua.png" group-title="Релігійні",EWTN Україна
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="atr-ua" tvg-name="atr-ua-6d58373f" tvg-chno="154" tvg-logo="https://iptvx.one/picons/atr-ua.png" group-title="Регіональні",ATR
+http://stream.mcquack.net/244/index.m3u8
 #EXTINF:-1 tvg-id="atr-ua" tvg-name="atr-ua-60262e7d" tvg-chno="154" tvg-logo="https://iptvx.one/picons/atr-ua.png" group-title="Регіональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ATR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="atr-ua" tvg-name="atr-ua-6d58373f" tvg-chno="154" tvg-logo="https://iptvx.one/picons/atr-ua.png" group-title="Регіональні",ATR
-http://stream.mcquack.net/244/index.m3u8
 #EXTINF:-1 tvg-id="atr-ua" tvg-name="atr-ua-462ac710" tvg-chno="154" tvg-logo="https://iptvx.one/picons/atr-ua.png" group-title="Регіональні",ATR
 https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
 #EXTINF:-1 tvg-id="ua-kyiv" tvg-name="ua-kyiv-d92643d2" tvg-chno="155" tvg-logo="https://iptvx.one/picons/ua-kyiv.png" group-title="Регіональні",Суспільне Київ
@@ -834,14 +738,9 @@ https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 http://stream.mcquack.net/436/index.m3u8
 #EXTINF:-1 tvg-id="ua-krym" tvg-name="ua-krym-8e0d4e74" tvg-chno="156" tvg-logo="https://iptvx.one/picons/ua-krym.png" group-title="Регіональні",Суспільне Крим
 https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 tvg-id="ua-donbas" tvg-name="ua-donbas-74bac785" tvg-chno="157" tvg-logo="https://iptvx.one/picons/ua-donbas.png" group-title="Регіональні",Суспільне Донбас
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-id="pershy-zaxidny" tvg-name="pershy-zaxidny-c0c9ad81" tvg-chno="158" tvg-logo="https://iptvx.one/picons/pershy-zaxidny.png" group-title="Регіональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Перший Західний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/246/index.m3u8
-#EXTINF:-1 tvg-id="pershy-zaxidny" tvg-name="pershy-zaxidny-7c67b12a" tvg-chno="158" tvg-logo="https://iptvx.one/picons/pershy-zaxidny.png" group-title="Регіональні" http-user-agent="curl/8.16.0",Перший Західний
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
 #EXTINF:-1 tvg-id="dniprotv" tvg-name="dniprotv-e3ddcf4f" tvg-chno="159" tvg-logo="https://iptvx.one/picons/dniprotv.png" group-title="Регіональні",Дніпро TV
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="dniprotv" tvg-name="dniprotv-16635320" tvg-chno="159" tvg-logo="https://iptvx.one/picons/dniprotv.png" group-title="Регіональні",Дніпро TV
@@ -855,10 +754,10 @@ https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 tvg-id="7-kanal-odesa" tvg-name="7-kanal-odesa-a0f2e1b1" tvg-chno="162" group-title="Регіональні",7 канал (Одеса)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" tvg-name="pervy-gorodskoy-odessa-81fecefe" tvg-chno="163" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-odessa.png" group-title="Регіональні",Перший міський (Одеса)
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" tvg-name="pervy-gorodskoy-odessa-a7c63f8b" tvg-chno="163" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-odessa.png" group-title="Регіональні",Перший міський (Одеса)
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" tvg-name="pervy-gorodskoy-odessa-81fecefe" tvg-chno="163" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-odessa.png" group-title="Регіональні",Перший міський (Одеса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" tvg-name="pervy-gorodskoy-odessa-61102081" tvg-chno="163" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-odessa.png" group-title="Регіональні",Перший міський (Одеса)
 https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="reportior" tvg-name="reportior-4e260405" tvg-chno="164" tvg-logo="https://iptvx.one/picons/reportior.png" group-title="Регіональні",Репортер (Одеса)
@@ -1016,18 +915,12 @@ http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4794/stream.m3u8
 http://193.107.168.98:7006/play/508/index.m3u8
 #EXTINF:-1 tvg-id="ua-odesa" tvg-name="ua-odesa-04ccd603" tvg-chno="206" tvg-logo="https://iptvx.one/picons/ua-odesa.png" group-title="Регіональні",Суспільне Одеса
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
-#EXTINF:-1 tvg-id="ua-odesa" tvg-name="ua-odesa-9dd3aa37" tvg-chno="206" tvg-logo="https://iptvx.one/picons/ua-odesa.png" group-title="Регіональні",Суспільне Одеса
-https://open-cdn.lanet.tv/live/9193.m3u8
 #EXTINF:-1 tvg-id="ua-poltava" tvg-name="ua-poltava-edf931e1" tvg-chno="207" tvg-logo="https://iptvx.one/picons/ua-poltava.png" group-title="Регіональні",Суспільне Полтава
 http://cdnua05.hls.tv/646/hls/f62d71219200da4130d13b21d23fb23c/4796/stream.m3u8
-#EXTINF:-1 tvg-id="ua-poltava" tvg-name="ua-poltava-c9be7d90" tvg-chno="207" tvg-logo="https://iptvx.one/picons/ua-poltava.png" group-title="Регіональні",Суспільне Полтава
-https://open-cdn.lanet.tv/live/9232.m3u8
 #EXTINF:-1 tvg-id="ua-rivne" tvg-name="ua-rivne-9c4d7583" tvg-chno="208" tvg-logo="https://iptvx.one/picons/ua-rivne.png" group-title="Регіональні",Суспільне Рівне
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4797/stream.m3u8
 #EXTINF:-1 tvg-id="ua-sumy" tvg-name="ua-sumy-91cde021" tvg-chno="209" tvg-logo="https://iptvx.one/picons/ua-sumy.png" group-title="Регіональні",Суспільне Суми
 http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
-#EXTINF:-1 tvg-id="ua-sumy" tvg-name="ua-sumy-4cc465d4" tvg-chno="209" tvg-logo="https://iptvx.one/picons/ua-sumy.png" group-title="Регіональні",Суспільне Суми
-https://open-cdn.lanet.tv/live/9233.m3u8
 #EXTINF:-1 tvg-id="ua-ternopil" tvg-name="ua-ternopil-c1f35623" tvg-chno="210" tvg-logo="https://iptvx.one/picons/ua-ternopil.png" group-title="Регіональні",Суспільне Тернопіль
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 #EXTINF:-1 tvg-id="ua-xarkiv" tvg-name="ua-xarkiv-ef31c15a" tvg-chno="211" tvg-logo="https://iptvx.one/picons/ua-xarkiv.png" group-title="Регіональні",Суспільне Харків
@@ -1053,7 +946,9 @@ https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-id="eQtv.ua" tvg-name="eQtv.ua-35c76160" tvg-chno="221" group-title="Нові" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",eQtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0
-#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk24.ua-a3bc8b22" tvg-chno="222" group-title="Нові",Lugansk 24
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGOSport.ua-d549b173" tvg-chno="222" group-title="Нові",MEGOGO Sport
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk24.ua-a3bc8b22" tvg-chno="223" group-title="Нові",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-name="ICTVSerialy.ua-d3793a03" tvg-chno="223" group-title="Нові",ICTV Serialy
+#EXTINF:-1 tvg-id="ICTVSerialy.ua" tvg-name="ICTVSerialy.ua-d3793a03" tvg-chno="224" group-title="Нові",ICTV Serialy
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8

@@ -1,0 +1,1405 @@
+{
+"url": "https://raw.githubusercontent.com/maximmur/iptvlist/cur/Main.m3u8",
+"entries": [
+{
+"name": "Б-КІНОЗАЛ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
+},
+{
+"name": "ДЕНЬ ПОБЕДЫ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream-msk-01.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/01/plst.m3u8"
+},
+{
+"name": "СТАРТ FHD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream-msk-02.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8"
+},
+{
+"name": "ПОЕДИНОК FHD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8"
+},
+{
+"name": "СИЛА FHD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8"
+},
+{
+"name": "МИР HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
+},
+{
+"name": "МИР 24 HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+},
+{
+"name": "МИР БЕЛОГОРЬЯ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
+},
+{
+"name": "МТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+},
+{
+"name": "ИЗВЕСТИЯ ТВ HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
+},
+{
+"name": "СТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8"
+},
+{
+"name": "ОНТ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
+},
+{
+"name": "ОРБІТА ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
+},
+{
+"name": "НТК",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+},
+{
+"name": "24 КАНАЛ HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8"
+},
+{
+"name": "ОБЪЕКТИВ 59",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8"
+},
+{
+"name": "ПЕРВЫЙ ГОРОДСКОЙ (ОДЕССА)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+},
+{
+"name": "БАЛТА ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://194.50.51.34/playlist.m3u8"
+},
+{
+"name": "МОРДОВИЯ 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8"
+},
+{
+"name": "ПЕРВЫЙ МУЗЫКАЛЬНЫЙ BY",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://rtmp.one.by:1200"
+},
+{
+"name": "ПЕРВЫЙ МУЗЫКАЛЬНЫЙ BY HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://rtmp.one.by:1300"
+},
+{
+"name": "ПЕРВЫЙ МУЗЫКАЛЬНЫЙ BY РОССИЯ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://rtmp.one.by:2200"
+},
+{
+"name": "ПЕРВЫЙ МУЗЫКАЛЬНЫЙ BY РОССИЯ HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://rtmp.one.by:2300"
+},
+{
+"name": "РАДИО ХИТ (ОРСК)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hithd.camsh.orsk.ru/hls/hithd.m3u8"
+},
+{
+"name": "СТРАНА FM HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+},
+{
+"name": "Suspilne Sport",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
+},
+{
+"name": "ICTV2",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8"
+},
+{
+"name": "ICTV Serialy",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8"
+},
+{
+"name": "M2",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://live.m2.tv/hls3/stream.m3u8"
+},
+{
+"name": "XSport Ⓢ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8"
+},
+{
+"name": "5 Kanal",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D"
+},
+{
+"name": "Суспільне Дніпро",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8"
+},
+{
+"name": "Суспільне Житомир Ⓢ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8"
+},
+{
+"name": "Суспільне Одеса Ⓢ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8"
+},
+{
+"name": "Суспільне Суми Ⓢ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8"
+},
+{
+"name": "Суспільне Хмельницький Ⓢ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8"
+},
+{
+"name": "Суспільне Чернівці Ⓢ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8"
+},
+{
+"name": "Суспільне Kropyvnytskyi",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8"
+},
+{
+"name": "Суспільне Тернопіль",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8"
+},
+{
+"name": "Суспільне Чернігів",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8"
+},
+{
+"name": "FREEДOM",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://95.67.106.242/mobile-app/main/freedom/master.m3u8"
+},
+{
+"name": "24 Kanal",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
+},
+{
+"name": "Дніпро TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8"
+},
+{
+"name": "Telekanal RAI",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://stream.rai.ua/rai/stream.m3u8"
+},
+{
+"name": "CK 1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+},
+{
+"name": "Pervyy gorodskoy Odessa",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://live.1tv.od.ua/stream1/channel1/playlist.m3u8"
+},
+{
+"name": "ITV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8"
+},
+{
+"name": "NTK TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "http://stream.ntktv.ua/s/ntk/ntk.m3u8"
+},
+{
+"name": "TVA",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine",
+"url": "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8"
+},
+{
+"name": "ТНТ Exclusiv TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://89.28.25.122/hls/tnt_md.m3u8"
+},
+{
+"name": "24 канал",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://streamvideol.luxnet.ua/news24/news24.stream_720p/playlist.m3u8"
+},
+{
+"name": "ITV (Ровно)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8"
+},
+{
+"name": "Prime Time",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8"
+},
+{
+"name": "Pеноме",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8"
+},
+{
+"name": "Глас",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8"
+},
+{
+"name": "Измаил ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8"
+},
+{
+"name": "Круг (Одесса)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8"
+},
+{
+"name": "ОНТ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8"
+},
+{
+"name": "Плюс",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8"
+},
+{
+"name": "СК1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8"
+},
+{
+"name": "ТРК Круг",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8"
+},
+{
+"name": "ТИС-ТВ (Одесса)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8"
+},
+{
+"name": "ИТ3",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8"
+},
+{
+"name": "Lanet TV Brain",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "UKRAINE",
+"url": "http://play.lanet.tv/live/2007.m3u8"
+},
+{
+"name": "SК1",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "UKRAINE",
+"url": "http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8"
+},
+{
+"name": "TVA",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "UKRAINE",
+"url": "http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
+},
+{
+"name": "RT Док",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://uiptv.do.am/1ufc/300663722/playlist.m3u8"
+},
+{
+"name": "КАРУСЕЛЬ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://uiptv.do.am/1ufc/000000007/playlist.m3u8"
+},
+{
+"name": "М2",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://live.m2.tv/hls3/stream.m3u8"
+},
+{
+"name": "Ника",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
+},
+{
+"name": "ОТР",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://uiptv.do.am/1ufc/000000008/playlist.m3u8"
+},
+{
+"name": "РЖД ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8"
+},
+{
+"name": "РОССИЯ 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://uiptv.do.am/1ufc/000000006/playlist.m3u8"
+},
+{
+"name": "Россия К",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://uiptv.do.am/1ufc/000000005/playlist.m3u8"
+},
+{
+"name": "Три Ангела",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://hls.tv.3angels.ru/stream/HQ.m3u8"
+},
+{
+"name": "ТРК Евразия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8"
+},
+{
+"name": "Simon TV",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Ukraine(Україна)",
+"url": "http://hls.simon.ua/live-HD/live/playlist.m3u8"
+},
+{
+"name": "UA:Перший",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://play.lanet.tv/live/9921.m3u8"
+},
+{
+"name": "Київ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8"
+},
+{
+"name": "Рада ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8"
+},
+{
+"name": "Рада ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4"
+},
+{
+"name": "КФУ ТВ (1080p) [Not 24/7]",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
+},
+{
+"name": "Надежда (720p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+},
+{
+"name": "Радио Хит (Орск) (300p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://lova.me/hls/hit.m3u8"
+},
+{
+"name": "Россия 24 (576p) [Not 24/7]",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"
+},
+{
+"name": "Большая Азия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8"
+},
+{
+"name": "Волгоград 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8"
+},
+{
+"name": "Дума ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://dumatv.iptv2022.com/index.m3u8"
+},
+{
+"name": "Нижний Новгород 24",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+1)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+2)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+3)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+4)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+5)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+6))",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+7)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+8)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 (+9)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Адыгея",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Алания",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Амур",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Белгород",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Брянск",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Бурятия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Владимир",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Волгоград-ТРВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Воронеж",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Вятка",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Дальневосточная",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Дон-ТР",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Ивтелерадио",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Иртыш",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Кабардино-Балкария",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Калининград",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Калуга",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Камчатка",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Карелия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Кострома",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Кузбасс",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Курган",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Липецк",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Лотос",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Магадан",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Марий Эл",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Мордовия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Новосибирск",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Ока",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Орёл",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Оренбург",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Пенза",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Поморье",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Псков",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Санкт-Петербург",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Саратов",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Саха",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Сахалин",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Славия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Смоленск",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Тамбов",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Татарстан",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Тверь",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Томск",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Тула",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Тыва",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Урал",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Чита",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8"
+},
+{
+"name": "Россия 1 / ГТРК Чувашия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8"
+},
+{
+"name": "Телеканал Краснодар",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8"
+},
+{
+"name": "Толк",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+},
+{
+"name": "Freedom (FREEДOM) (UATV) (720p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8"
+},
+{
+"name": "Первый Городской (Одесса) (576p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+},
+{
+"name": "ТВА (Чернiвцi) (576p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+},
+{
+"name": "12 канал",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8"
+},
+{
+"name": "БСТ (Башкирское спутниковое телевидение) (576p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+},
+{
+"name": "Звезда",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
+},
+{
+"name": "Своё ТВ (Ставрополь)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
+},
+{
+"name": "Страна ФМ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
+},
+{
+"name": "Тамыр (Уфа) (576p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+},
+{
+"name": "Шансон ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
+},
+{
+"name": "CGTN Русский (1080p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
+},
+{
+"name": "24 канал",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://streamvideol1.luxnet.ua/news24/news24.stream_720p/chunklist.m3u8"
+},
+{
+"name": "24 канал HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2096000.m3u8"
+},
+{
+"name": "CGTN Русский",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8"
+},
+{
+"name": "FREEДОМ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8"
+},
+{
+"name": "ITV (Рівне)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8"
+},
+{
+"name": "КИЕВ ТВ HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8"
+},
+{
+"name": "НТК Коломия",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=&key=3i277"
+},
+{
+"name": "СК1 (Житомир)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "УКРАИНА",
+"url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8"
+},
+{
+"name": "Сфера ТВ",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8"
+},
+{
+"name": "ТЕТ HD",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://31.43.48.248:7000/ch7/video.m3u8"
+},
+{
+"name": "ТРК Надія - Новий Канал (Первомайский)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://178.217.215.57/mob/mystream.m3u8"
+},
+{
+"name": "Україна 24 (1080p)",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8"
+},
+{
+"name": "Доктор (720p) [Not 24/7]",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "",
+"url": "http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8"
+},
+{
+"name": "РЕПОРТЕР",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "УКРАИНА",
+"url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8"
+},
+{
+"name": "Коломыя 2",
+"tvg_id": "",
+"ua": null,
+"ref": null,
+"group": "Украина 🇺🇦",
+"url": "http://stream.ntktv.ua/s/annunciation/annunciation.m3u8"
+}
+]
+}
