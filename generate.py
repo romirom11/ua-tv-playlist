@@ -14,6 +14,7 @@ import json
 import os
 import re
 import urllib.request
+from datetime import date
 
 DEFAULT_UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
               '(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36')
@@ -24,6 +25,7 @@ TR = str.maketrans({'а': 'a', 'б': 'b', 'в': 'v', 'г': 'h', 'ґ': 'g', 'д':
                     'ё': 'e', 'ъ': ''})
 NEW_GROUP = 'Нові'
 CACHE_DIR = 'cache'  # останні успішно завантажені (вже відфільтровані) записи кожного джерела
+CACHE_DAYS = 3  # скільки днів джерело може бути недоступним, поки беремо його кеш
 NOISE = r'\b(hd|fhd|uhd|sd|4k|tv|tb|тв|тб|telekanal|телеканал|orig|backup|резерв)\b'
 
 
@@ -93,12 +95,20 @@ def main():
                 raise ValueError('no entries')
             write_if_changed(cache, json.dumps({'url': url, 'entries': parsed}, ensure_ascii=False, indent=0))
         except Exception as ex:
-            # не публікуємо неповний список — інакше m3u-editor видалить канали цього джерела;
-            # беремо останню успішну копію, а якщо її немає — падаємо
+            # тимчасовий збій: беремо останню успішну копію, інакше m3u-editor видалить канали
+            # джерела, а потім додасть знову; після CACHE_DAYS днів збоїв джерело вважаємо мертвим
             if not os.path.exists(cache):
                 raise SystemExit(f'source failed, no cache: {url}: {ex}')
-            print(f'::warning::source failed, using cached copy: {url}: {ex}')
-            parsed = json.load(open(cache))['entries']
+            data = json.load(open(cache))
+            since = data.setdefault('failing_since', date.today().isoformat())
+            write_if_changed(cache, json.dumps(data, ensure_ascii=False, indent=0))
+            days = (date.today() - date.fromisoformat(since)).days
+            if days > CACHE_DAYS:
+                print(f'::warning::source dead since {since}, skipped — remove it from sources.txt: {url}: {ex}')
+                parsed = []
+            else:
+                print(f'::warning::source failed since {since}, using cached copy: {url}: {ex}')
+                parsed = data['entries']
         used_cache.add(cache)
         entries += parsed
 
