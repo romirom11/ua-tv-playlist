@@ -314,6 +314,14 @@
 "url": "http://stream.mcquack.net/449/index.m3u8"
 },
 {
+"name": "CTV Dla Ciebie TV",
+"tvg_id": "CTVDlaCiebieTV.ee@SD",
+"ua": null,
+"ref": null,
+"group": "Series",
+"url": "http://90.183.52.46:4000/play/a065/index.m3u8"
+},
+{
 "name": "Dacha (1080p)",
 "tvg_id": "Dacha.ua@SD",
 "ua": null,
