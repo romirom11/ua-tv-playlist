@@ -616,8 +616,8 @@ http://iptv.prosto.tv:7000/ch88/video.m3u8
 http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-5c02b8ee" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
 http://stream.mcquack.net/287/index.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-98b0b84a" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
-https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="fashion-tv-ee3f4652" tvg-chno="131" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Хобі та подорожі",Fashion TV
+https://rpn3.bozztv.com/dvrfl07/ushba93/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pixel" tvg-name="pixel-60f5039d" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 tvg-id="pixel" tvg-name="pixel-e7f613d9" tvg-chno="132" tvg-logo="https://iptvx.one/picons/pixel.png" group-title="Дитячі",Піксель TV
