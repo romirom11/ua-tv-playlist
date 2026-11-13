@@ -89,9 +89,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="pro-vsio" tvg-name="pro-vsio-c9d6b20a" tvg-chno="15" tvg-logo="https://iptvx.one/picons/pro-vsio.png" group-title="Загальнонаціональні" http-user-agent="curl/8.16.0",8 канал
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 tvg-id="1plus1-int" tvg-name="1plus1-int-01f8dcf5" tvg-chno="16" tvg-logo="https://iptvx.one/picons/1plus1-int.png" group-title="Загальнонаціональні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",1+1 International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=1plus1international
 #EXTINF:-1 tvg-id="1plus1-int" tvg-name="1plus1-int-b94c7051" tvg-chno="16" tvg-logo="https://iptvx.one/picons/1plus1-int.png" group-title="Загальнонаціональні",1+1 International
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kyiv-ua" tvg-name="kyiv-ua-377dd9cb" tvg-chno="17" tvg-logo="https://iptvx.one/picons/kyiv-ua.png" group-title="Загальнонаціональні",Київ
@@ -429,9 +426,6 @@ https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="raz2" tvg-name="raz2-8e5837c9" tvg-chno="87" tvg-logo="https://iptvx.one/picons/raz2.png" group-title="Серіали",RAZ 2
 http://stream.mcquack.net/464/index.m3u8
-#EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-e24d7f37" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",RAZ 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 tvg-id="kvartal-tv" tvg-name="kvartal-tv-b812e88f" tvg-chno="88" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" group-title="Серіали" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",RAZ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
@@ -641,9 +635,6 @@ http://iptv.prosto.tv:7000/ch71/video.m3u8
 http://iptv.prosto.tv:7000/ch75/video.m3u8
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-1b6bb5a8" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
 http://stream.mcquack.net/262/index.m3u8
-#EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-16c258d2" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Niki Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-734fce90" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
 http://2.57.217.85:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="niki-junior" tvg-name="niki-junior-4bca5f07" tvg-chno="135" tvg-logo="https://iptvx.one/picons/niki-junior.png" group-title="Дитячі",Niki Junior
@@ -668,9 +659,6 @@ http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-895d9d8f" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-f867758d" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",M1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:-1 tvg-id="m1-ua" tvg-name="m1-ua-f29597f0" tvg-chno="139" tvg-logo="https://iptvx.one/picons/m1-ua.png" group-title="Музичні",M1
 http://live.m2.tv/hls2/stream.m3u8
 #EXTINF:-1 tvg-id="m2-ua" tvg-name="m2-ua-b2de68be" tvg-chno="140" tvg-logo="https://iptvx.one/picons/m2-ua.png" group-title="Музичні" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",M2

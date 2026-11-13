@@ -2,14 +2,6 @@
 "url": "https://iptv-org.github.io/iptv/languages/ukr.m3u",
 "entries": [
 {
-"name": "1+1 International",
-"tvg_id": "1Plus1International.ua@SD",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-"ref": null,
-"group": "General",
-"url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international"
-},
-{
 "name": "1+1 International HD (720p)",
 "tvg_id": "1Plus1International.ua@HD",
 "ua": null,
@@ -648,14 +640,6 @@
 "ref": null,
 "group": "Undefined",
 "url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8"
-},
-{
-"name": "Kvartal TV",
-"tvg_id": "KvartalTV.ua@SD",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-"ref": null,
-"group": "Entertainment",
-"url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95"
 },
 {
 "name": "Kyiv (1080p)",
