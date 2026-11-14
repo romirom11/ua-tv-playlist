@@ -286,13 +286,12 @@ http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 tvg-id="enter-film" tvg-name="enter-film-41b5f27f" tvg-chno="58" tvg-logo="https://iptvx.one/picons/enter-film.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Enter-фільм
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 tvg-id="filmua-drama" tvg-name="filmua-drama-95bd264e" tvg-chno="59" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кіно" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",FilmUA Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="filmua-drama-1459fcdb" tvg-chno="59" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кіно",FilmUA Drama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="filmua-drama-9ee0737e" tvg-chno="59" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кіно",FilmUA Drama
 http://94.130.32.80/FILMUADRAMAHD/index.m3u8?token=Home
+#EXTINF:-1 tvg-id="filmua-drama" tvg-name="filmua-drama-95bd264e" tvg-chno="59" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кіно",FilmUA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-id="filmua-drama" tvg-name="filmua-drama-87a47948" tvg-chno="59" tvg-logo="https://iptvx.one/picons/filmua-drama.png" group-title="Кіно",FilmUA Drama
 http://iptv.prosto.tv:7000/ch59/video.m3u8
 #EXTINF:-1 tvg-id="filmua-live" tvg-name="filmua-live-02e10066" tvg-chno="60" group-title="Кіно",FilmUA Live

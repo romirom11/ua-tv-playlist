@@ -442,12 +442,12 @@
 "url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
 },
 {
-"name": "FilmUADrama (1080p)",
+"name": "FilmUADrama",
 "tvg_id": "FilmUADrama.ua@SD",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+"ua": null,
 "ref": null,
 "group": "Movies;Series",
-"url": "http://88.99.215.227/FilmUADrama/index.m3u8"
+"url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
 },
 {
 "name": "GIT (720p)",
