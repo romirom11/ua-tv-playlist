@@ -1145,5 +1145,6 @@
 "group": "",
 "url": "https://rpn3.bozztv.com/dvrfl07/ushba-aivideo/index.m3u8"
 }
-]
+],
+"failing_since": "2026-11-15"
 }
