@@ -554,6 +554,14 @@
 "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8"
 },
 {
+"name": "Inter+ HD",
+"tvg_id": "InterPlus.ua@HD",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+"ref": null,
+"group": "General",
+"url": "https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8"
+},
+{
 "name": "IRT (720p)",
 "tvg_id": "IRT.ua@SD",
 "ua": null,
@@ -746,12 +754,12 @@
 "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8"
 },
 {
-"name": "Muzyka Pervogo (576p)",
+"name": "Muzyka Pervogo (1080p)",
 "tvg_id": "MuzykaPervogo.ru@SD",
 "ua": null,
 "ref": null,
 "group": "Music",
-"url": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8"
+"url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
 },
 {
 "name": "My Ukraina+",
@@ -800,6 +808,14 @@
 "ref": null,
 "group": "Science",
 "url": "http://stream.mcquack.net/403/index.m3u8"
+},
+{
+"name": "Nickelodeon (Poland)",
+"tvg_id": "Nickelodeon.pl@SD",
+"ua": null,
+"ref": null,
+"group": "Kids",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b"
 },
 {
 "name": "Niki Junior (1080p)",
@@ -1370,7 +1386,7 @@
 "url": "https://stream.ztv.zp.ua/hls/live.m3u8"
 },
 {
-"name": "Za! TV",
+"name": "Za! TV (576p)",
 "tvg_id": "ZaTV.ru@SD",
 "ua": null,
 "ref": null,

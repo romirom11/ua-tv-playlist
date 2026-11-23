@@ -306,12 +306,12 @@
 "url": "http://stream.mcquack.net/449/index.m3u8"
 },
 {
-"name": "Crimea 24",
+"name": "Crimea 24 (576p)",
 "tvg_id": "Crimea24.ru@SD",
 "ua": null,
 "ref": null,
 "group": "News",
-"url": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+"url": "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
 },
 {
 "name": "CTV Dla Ciebie TV",
@@ -746,7 +746,7 @@
 "url": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
 },
 {
-"name": "Lugansk 24",
+"name": "Lugansk 24 (576p)",
 "tvg_id": "Lugansk24.ua@SD",
 "ua": null,
 "ref": null,
@@ -904,6 +904,14 @@
 "ref": null,
 "group": "Science",
 "url": "http://stream.mcquack.net/403/index.m3u8"
+},
+{
+"name": "Nickelodeon (Poland)",
+"tvg_id": "Nickelodeon.pl@SD",
+"ua": null,
+"ref": null,
+"group": "Kids",
+"url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b"
 },
 {
 "name": "Niki Junior (1080p)",
@@ -1354,7 +1362,7 @@
 "url": "http://stream.mcquack.net/358/index.m3u8"
 },
 {
-"name": "Tavriya",
+"name": "Tavriya (576p)",
 "tvg_id": "Tavriya.ru@SD",
 "ua": null,
 "ref": null,
@@ -1578,7 +1586,7 @@
 "url": "https://stream.ztv.zp.ua/hls/live.m3u8"
 },
 {
-"name": "Za! TV",
+"name": "Za! TV (576p)",
 "tvg_id": "ZaTV.ru@SD",
 "ua": null,
 "ref": null,
